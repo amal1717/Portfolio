@@ -1,0 +1,100 @@
+/* RESET */
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    line-height: 1.1;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;   
+}
+
+nav ul {
+    list-style: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content:''; content:none;
+}
+
+
+/*  END RESET */
+
+body {
+    background:#f1f2f4; /*Baggrundsfarve - lysegrå*/
+    font-family: sans-serif; /*Skrifttype - uden seriffer*/
+}
+
+header {
+    background-color: #f1f2f4; /*Baggrundsfarve på header*/
+    padding: 10px; /*Størrelse på header*/
+}
+.navbar-light .navbar-toggler-icon { 
+   color: #484b54; /*Brugerbarens farve*/
+}
+    
+.navbar-brand {
+    display: block;/*Default - for en sikkerheds skyld*/
+    float: left; /*Placering til venstre*/
+    font-family: apertura, sans-serif; /*Skrifttype*/
+    font-weight: 500; /*Skriftens tykkelse*/
+    font-style: normal; /*Variant af skrifttype*/
+    font-size: 1.7em; /*Skriftstørrelse*/
+    color: #484b54; /*Skriftens farve - mørkegrå*/
+    padding-top: 5px; /*Luft over overskriften*/
+    background-color: #f1f2f4;
+}
+
+.navbar button {
+    border: none; 
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+#navbarDropdown {
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+}
+
+.dropdown-menu {
+    border: none; 
+    background-color: #f1f2f4;
+}
+
+.dropdown-item {
+    padding: 15px;
+}
+
+.dropdown-item:hover {
+    color: #e29000;
+    background-color: #f1f2f4;
+}
+
+#navbarDropdown{
+    font-family: apertura, sans-serif; /*Skrifttype*/
+    font-weight: 400; /*Skriftens tykkelse*/
+    font-style: normal; /*Variant af skrifttype*/
+    font-size: 1.2em; /*Skriftstørrelse*/
+    padding-left: 15px; 
+     color: #484b54; /*Skriftens farve - mørkegrå*/
+    
+
+}
+
+#navbarDropdown:hover {
+    color: #e29000;
+}
