@@ -37,10 +37,9 @@ body {
 header {
     background-color: #f1f2f4; /*Baggrundsfarve på header*/
     padding: 10px; /*Størrelse på header*/
+    z-index: 3; /*Gør at header er placeret øverst*/
 }
-.navbar-light .navbar-toggler-icon { 
-   color: #484b54; /*Brugerbarens farve*/
-}
+
     
 .navbar-brand {
     display: block;/*Default - for en sikkerheds skyld*/
@@ -53,48 +52,65 @@ header {
     padding-top: 5px; /*Luft over overskriften*/
     background-color: #f1f2f4;
 }
-
+/*Burgerbar*/
 .navbar button {
-    border: none; 
+    border: none; /*Fjerner border rundt om burgerbaren*/
 }
-
+/*Burgerbar*/
 .navbar-toggler:focus,
 .navbar-toggler:active,
 .navbar-toggler-icon:focus {
-    outline: none;
-    box-shadow: none;
+    outline: none; /*Fjerner farve rundt om burgerbaren*/
+    box-shadow: none; /*Fjerner skygge rundt om burgerbaren*/
 }
 
-#navbarDropdown {
+#navbarDropdown { /*Luft omkring hovedelementerne i menuen*/
     padding-top: 20px; 
     padding-bottom: 20px; 
 }
 
-.dropdown-menu {
-    border: none; 
-    background-color: #f1f2f4;
+.dropdown-menu { 
+    border: none; /*Fjerner border ved dropdown elementerne*/
+    background-color: #f1f2f4; /*Ændre baggrundsfarven bag dropdown elementerne*/
 }
 
-.dropdown-item {
-    padding: 15px;
+/*DROPDOWNELEMENTER I MENUEN*/
+.dropdown-item { /*Målrettet dropdown elementerne i menuen*/
+    padding: 15px; /*Padding rundt om elementerne*/
+    padding-left: 35px; /*Padding til venstre*/
+    font-family: apertura, sans-serif; /*Skrifttype*/
+    font-weight: 400; /*Skriftens tykkelse*/
+    font-style: normal; /*Variant af skrifttype*/
+    font-size: 1em; /*Skriftstørrelse*/
 }
 
-.dropdown-item:hover {
-    color: #e29000;
-    background-color: #f1f2f4;
+.dropdown-item:hover { /*Hovereffekt på dropdown elementer*/
+    color: #e29000; /*Hoverfarve - orange*/
+    background-color: #f1f2f4; /*Baggrundsfarve - lysegrå*/
 }
 
+
+/*HOVEDELEMENTER I MENUEN*/
 #navbarDropdown{
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 400; /*Skriftens tykkelse*/
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1.2em; /*Skriftstørrelse*/
-    padding-left: 15px; 
-     color: #484b54; /*Skriftens farve - mørkegrå*/
-    
-
+    color: #484b54; /*Skriftens farve - mørkegrå*/
 }
 
-#navbarDropdown:hover {
-    color: #e29000;
+#navbarDropdown:hover { /*Hovereffekt på hovedelementerne i menuen*/
+    color: #e29000; /*Hoverfarve - orange*/
+}
+
+@media (min-width:990px) {
+    header {
+        padding: -0px; 
+    }
+    #navbarDropdown:hover { /*VIRKER IKKE ENDNU*/
+    display: inherit; /*Gør dropdown elementerne synlige når der hovers*/
+    }
+    .dropdown-item {
+        padding-left: 10px; 
+    }
 }
