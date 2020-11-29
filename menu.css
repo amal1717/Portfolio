@@ -123,69 +123,16 @@ body {
 
 
 
-/*FOOTER*/
-footer {
-    text-align: right; /*placerer teksten til højre*/
-    font-family: apertura, sans-serif; /*Skrifttype*/
-    font-weight: 400; /*Skriftens tykkelse*/
-    font-style: normal; /*Variant af skrifttype*/
-    font-size: 0.7em; /*Skriftstørrelse*/
-    background:#f1f2f4; /*Baggrundsfarve - lysegrå*/
-    padding: 5px; /*Størrelsen på footeren*/
-    padding-right: 10px; /*Luft til højre*/
-    color: #484b54; /*Skriftens farve - mørkegrå*/
-}
-
-
-
-
-/* BAGRUNDSBILLEDE MED SEARCHBOX*/
-#Billedeogsearch {
-  position: relative; /*Placering af <div>*/
-}
-
-
-
-/* SEARCHBOXENS PLACERING */
-#search{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-  #searchbox { 
-        width: 250px; /*Bestemmer searchboxens længde*/
-    }
-
-
-
-
-/*......@MEDIA 670PX......*/
-
-@media (min-width:670px) {
-    #searchbox {
-        width: 400px; /*Gør searchboxen længere*/
-    }
-}
-
 
 
 
 /*......@MEDIA 990PX......*/
 
 @media (min-width:990px) {
-      #searchbox {
-        width: 500px; /*Gør searchboxen længere*/
-        height: 45px; /*Gør searchboxen højere*/
-    }
-       input::placeholder {
-        font-size: 1.1em; /*Øger skriftstørrelsen på "søg"*/
-    }
-    .dropdown:hover .dropdown-menu {
-        display: inherit; 
-    }
-
+    
+   nav div ul li div a:hover>a { 
+    display: inherit; /*Gør dropdown elementerne synlige når der hovers*/
+}
 
     /*
     #navbarDropdown a:hover { /*Hovereffekt på hovedelementerne i menuen
@@ -199,13 +146,11 @@ footer {
 
 
 
+
+
 /*......@MEDIA 13000PX......*/
 
 @media (min-width:1300px) {
-      #searchbox {
-        width: 550px; /*Gør searchboxen længere*/
-        height: 45px; /*Gør searchboxen højere*/
-    }
     .navbar-brand {
         font-size: 2em; /*Øger skriftstørrelsen på logoet*/
     }
@@ -215,47 +160,5 @@ footer {
     }
     .dropdown-item { 
     font-size: 1.1em; /*Øger skriftstørrelsen på dropdownelementerne i menuen*/
-    }
-    input::placeholder {
-        font-size: 1.3em; /*Øger skriftstørrelsen på "søg"*/
-    }
-
-}
-
-
-/*......@MEDIA 1420PX......*/
- 
-@media (min-width:1420px) {
-      #searchbox {
-        width: 600px; /*Gør searchboxen længere*/
-        height: 50px; /*Gør searchboxen højere*/
-    }
-    #search{
-    top: 45%;/*Ændre searchboxens placering*/
-    }
-}
-
-
-
-/*......@MEDIA 1550PX......*/
- 
-@media (min-width:1550px) {
-    #searchbox {
-        width: 600px; /*Gør searchboxen længere*/
-    }
-    #search{
-        top: 40%; /*Ændre searchboxens placering*/
-    }
-}
-
-
-/*......@MEDIA 1790PX......*/
- 
-@media (min-width:1780px) {
-    #searchbox {
-        width: 600px; /*Gør searchboxen længere*/
-    }
-    #search{
-        top: 35%; /*Ændre searchboxens placering*/
     }
 }
