@@ -1,5 +1,4 @@
-        <header class="header">
-                
+      
             <nav class="navbar navbar-expand-lg navbar-light bg-custom">
                     
                 <a class="navbar-brand" href="index.html"><h1>Amalies læringsportfolio</h1></a>
@@ -76,5 +75,4 @@
                 </div>
                 
             </nav>
-            
-        </header>   
+             
