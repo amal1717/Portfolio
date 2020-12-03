@@ -1,11 +1,14 @@
       
             <nav class="navbar navbar-expand-lg navbar-light bg-custom">
                     
-                <a class="navbar-brand" href="index.html"><h1>Amalies læringsportfolio</h1></a>
-                    
+ 
+                <a class="navbar-brand" href="index.html"><div id="logo"><h1>Amalies læringsportfolio</h1></div></a> 
+                
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     </button>
+                
+                
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                       
@@ -14,13 +17,13 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kodning</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">HTML</a>
-                            <a class="dropdown-item" href="#">CSS</a>
-                            <a class="dropdown-item" href="#">Versionstyring</a>
-                            <a class="dropdown-item" href="#">Serverbegrebet</a>
-                            <a class="dropdown-item" href="#">Serverside scripting</a>
-                            <a class="dropdown-item" href="#">Framework</a>
-                            <a class="dropdown-item" href="#">Internettets historie</a>
+                            <a class="dropdown-item" href="">HTML</a>
+                            <a class="dropdown-item" href="">CSS</a>
+                            <a class="dropdown-item" href="">Versionstyring</a>
+                            <a class="dropdown-item" href="">Serverbegrebet</a>
+                            <a class="dropdown-item" href="">Serverside scripting</a>
+                            <a class="dropdown-item" href="">Framework</a>
+                            <a class="dropdown-item" href="">Internettets historie</a>
                         </div>
                     </li>
     
@@ -43,25 +46,25 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kommunikation</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Grundlæggende kommunikation</a>
-                            <a class="dropdown-item" href="#">Kvantitativ og kvalitativ empiri</a>
-                            <a class="dropdown-item" href="#">Præsentationsteknik</a>
-                            <a class="dropdown-item" href="#">Usability</a>
-                            <a class="dropdown-item" href="#">Tekstproduktion</a>
-                            <a class="dropdown-item" href="#">Ophavsret og licensering</a>
-                            <a class="dropdown-item" href="#">Business Model Canvas</a>
+                            <a class="dropdown-item" href="">Grundlæggende kommunikation</a>
+                            <a class="dropdown-item" href="">Kvantitativ og kvalitativ empiri</a>
+                            <a class="dropdown-item" href="">Præsentationsteknik</a>
+                            <a class="dropdown-item" href="">Usability</a>
+                            <a class="dropdown-item" href="">Tekstproduktion</a>
+                            <a class="dropdown-item" href="">Ophavsret og licensering</a>
+                            <a class="dropdown-item" href="">Business Model Canvas</a>
                         </div>
                     </li>
                         
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Projekter</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Hackathon</a>
-                            <a class="dropdown-item" href="#">HTML og CSS workshop</a>
-                            <a class="dropdown-item" href="#">Design thinking (app)</a>
-                            <a class="dropdown-item" href="#">Peer-to-peer</a>
-                            <a class="dropdown-item" href="#">One page</a>
-                            <a class="dropdown-item" href="#">Læringsportfolio</a>
+                            <a class="dropdown-item" href="">Hackathon</a>
+                            <a class="dropdown-item" href="">HTML og CSS workshop</a>
+                            <a class="dropdown-item" href="">Design thinking (app)</a>
+                            <a class="dropdown-item" href="">Peer-to-peer</a>
+                            <a class="dropdown-item" href="">One page</a>
+                            <a class="dropdown-item" href="">Læringsportfolio</a>
                         </div>
                     </li>
                         

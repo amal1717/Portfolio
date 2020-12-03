@@ -59,15 +59,21 @@ body {
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 500; /*Skriftens tykkelse*/
     font-style: normal; /*Variant af skrifttype*/
-    font-size: 1.5em; /*Skriftstørrelse*/
-    color: #484b54; /*Skriftens farve - mørkegrå*/
+    font-size: 1.6em; /*Skriftstørrelse*/
     padding-top: 5px; /*Luft over overskriften*/
     background-color: #f1f2f4;
+    color: #484b54; /*Skriftens farve - mørkegrå*/
+}
+
+#logo {
+    color: #484b54; /*Skriftens farve - mørkegrå*/
 }
 
 
 
+
 /*BURGERBAR*/
+
 .navbar button {
     border: none; /*Fjerner border rundt om burgerbaren*/
 }
@@ -77,7 +83,8 @@ body {
 .navbar-toggler-icon:focus {
     outline: none; /*Fjerner farve rundt om burgerbaren*/
     box-shadow: none; /*Fjerner skygge rundt om burgerbaren*/
-}
+} 
+
 /*BURGERBAR*/
 
 
@@ -91,6 +98,7 @@ body {
     font-weight: 400; /*Skriftens tykkelse*/
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1em; /*Skriftstørrelse*/
+    color: #484b54; /*Skriftens farve - mørkegrå*/
 }
 
 .dropdown-item:hover { /*Hovereffekt på dropdown elementer*/
@@ -185,13 +193,6 @@ footer {
     .dropdown:hover .dropdown-menu {
         display: inherit; 
     }
-
-
-    /*
-    #navbarDropdown a:hover { /*Hovereffekt på hovedelementerne i menuen
-        display: inherit; /*Gør dropdown elementerne synlige når der hovers*/
-    
-    
     .dropdown-item { 
         padding-left: 10px; /*Padding på dropdown elementerne*/
     }

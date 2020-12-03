@@ -1,21 +1,21 @@
 <!DOCTYPE html>
+
 <html lang="da" dir="ltr"> 
     
     <head> 
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta charset="utf-8"> <!--Det danske alfabet-->
+        <meta name="viewport" content="width=device-width, initial-scale=1"/> <!--For at sikre mobile view-->
         <meta name= "description" content="En læringsportfolio som er udviklet af en multimediedesignerstuderende"> <!--En beskrivelse af hjemmesiden-->
         
-        <base href="index.html">
+        <base href="index.html"> <!--Fortæller hvilken side der er forsiden (Vigtig hvis forsiden ikke hedder index.html-->
         
         <title>Amalies læringsportfolio</title> <!--Navngivelse af fanen i browseren-->
         
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> <!--Stylesheet fra Bootstrap-->
         
         <link rel="stylesheet" href="index.css"> <!--Indsæt CSS stylesheet efter href="-->
         
-        <link rel="stylesheet" href="https://use.typekit.net/tyy2njs.css">
-        <link rel="stylesheet" href="https://use.typekit.net/tyy2njs.css">
+        <link rel="stylesheet" href="https://use.typekit.net/tyy2njs.css"> <!--Stylesheet fra Adobe Fonts-->
          
     </head>
     
@@ -23,122 +23,41 @@
         
         <header class="header">
                 
-            <nav class="navbar navbar-expand-lg navbar-light bg-custom">
-                    
-                <a class="navbar-brand" href="index.html"><h1>Amalies læringsportfolio</h1></a>
-                    
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                    </button>
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                      
-                <ul class="navbar-nav ml-auto">
-                        
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kodning</a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">HTML</a>
-                            <a class="dropdown-item" href="#">CSS</a>
-                            <a class="dropdown-item" href="#">Versionstyring</a>
-                            <a class="dropdown-item" href="#">Serverbegrebet</a>
-                            <a class="dropdown-item" href="#">Serverside scripting</a>
-                            <a class="dropdown-item" href="#">Framework</a>
-                            <a class="dropdown-item" href="#">Internettets historie</a>
-                        </div>
-                    </li>
-    
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Design</a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="">Illustrator</a>
-                            <a class="dropdown-item" href="">Photoshop</a>
-                            <a class="dropdown-item" href="">Adobe XD</a>
-                            <a class="dropdown-item" href="">Premiere Rush</a>
-                            <a class="dropdown-item" href="">Gestaltlovene</a>
-                            <a class="dropdown-item" href="">Farver</a>
-                            <a class="dropdown-item" href="">Typografi</a>
-                            <a class="dropdown-item" href="">Kamerateknik</a>
-                            <a class="dropdown-item" href="">Informationsarkitektur</a>
-                        </div>
-                    </li>
-                        
-                        
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kommunikation</a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Grundlæggende kommunikation</a>
-                            <a class="dropdown-item" href="#">Kvantitativ og kvalitativ empiri</a>
-                            <a class="dropdown-item" href="#">Præsentationsteknik</a>
-                            <a class="dropdown-item" href="#">Usability</a>
-                            <a class="dropdown-item" href="#">Tekstproduktion</a>
-                            <a class="dropdown-item" href="#">Ophavsret og licensering</a>
-                            <a class="dropdown-item" href="#">Business Model Canvas</a>
-                        </div>
-                    </li>
-                        
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Projekter</a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Hackathon</a>
-                            <a class="dropdown-item" href="#">HTML og CSS workshop</a>
-                            <a class="dropdown-item" href="#">Design thinking (app)</a>
-                            <a class="dropdown-item" href="#">Peer-to-peer</a>
-                            <a class="dropdown-item" href="#">One page</a>
-                            <a class="dropdown-item" href="#">Læringsportfolio</a>
-                        </div>
-                    </li>
-                        
-    
-                    <li class="nav-item">
-                        <a class="nav-link" id="navbarDropdown" href="#">Kilder</a>
-                    </li>
-    
-                    </ul>
-
-                </div>
-                
-            </nav>
+       <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
         </header>    
-            
         
-                <section>
-                  
-                 
-                    <div id="mitgrid">
-
-                      
-                        <div id="Billedeogsearch">
+        
+            <div id="Billedeogsearch">
                             
-                            <img src="Billeder/Baggrundsbillede%20af%20CSS.jpg" alt="CSS" style="width:100%;">
+                <img src="Billeder/Baggrundsbillede_af_CSS.jpg" alt="CSS" style="width:100%;">
                             
-                            <div id="search"> 
-                            <form class="form-inline my-2 my-lg-0">
-                              <input id="searchbox" class="form-control mr-sm-2" type="search" placeholder="Søg" aria-label="Search">
-                            </form> 
-                            </div>
-                            
-                        </div>
-                            
-                        
-                        <section id="felt2">
-                              
-                        </section>
-
-                        <section id="felt3">
-                            <p></p>
-                        </section>
-
-                        <section id="felt4">
-                            <p></p>
-                        </section>
-
-                        <section id="felt5">
-                            <p></p>
-                        </section>
-
+                    <div id="search"> 
+                        <form class="form-inline my-2 my-lg-0">
+                            <input id="searchbox" class="form-control mr-sm-2" type="search" placeholder="Søg" aria-label="Search">
+                        </form> 
                     </div>
+       
+            </div>
+                            
+        
+                <section id="mitgrid">
+                  
+                        <section id="Kodning">
+                
+                        </section>
+
+                        <section id="Design">
+                            <p></p>
+                        </section>
+
+                        <section id="Kommunikation">
+                            <p></p>
+                        </section>
+
+                        <section id="Projekter">
+                            <p></p>
+                        </section>
 
                 </section>
             
