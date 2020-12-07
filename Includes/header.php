@@ -1,5 +1,5 @@
       
-            <nav class="navbar navbar-expand-lg navbar-light bg-custom">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-custom">
                     
  
                 <a class="navbar-brand" href="index.html"><div id="logo"><h1>Amalies læringsportfolio</h1></div></a> 

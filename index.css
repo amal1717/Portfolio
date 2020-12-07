@@ -32,9 +32,6 @@ blockquote:before, blockquote:after, q:before, q:after {
 
 
 
-
-
-
 /*BODY*/
 body {
     background:#f1f2f4; /*Baggrundsfarve - lysegrå*/
@@ -43,11 +40,11 @@ body {
 
 
 
+
 /*HEADER*/
 .header {
-    background-color: #f1f2f4; /*Baggrundsfarve på header*/
+    background-color: #484b54; /*Baggrundsfarve på header*/
     padding: 10px; /*Størrelse på header*/
-    z-index: 3; /*Gør at header er placeret øverst*/
 }
 
 
@@ -61,12 +58,12 @@ body {
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1.6em; /*Skriftstørrelse*/
     padding-top: 5px; /*Luft over overskriften*/
-    background-color: #f1f2f4;
-    color: #484b54; /*Skriftens farve - mørkegrå*/
+    background-color: #484b54;
+    color: #f1f2f4; /*Skriftens farve - mørkegrå*/
 }
 
 #logo {
-    color: #484b54; /*Skriftens farve - mørkegrå*/
+    color:#f1f2f4;  /*Skriftens farve - mørkegrå*/
 }
 
 
@@ -139,7 +136,7 @@ footer {
     font-style: normal; /*Variant af skrifttype*/
     font-size: 0.7em; /*Skriftstørrelse*/
     background:#f1f2f4; /*Baggrundsfarve - lysegrå*/
-    padding: 5px; /*Størrelsen på footeren*/
+    padding: 2px; /*Størrelsen på footeren*/
     padding-right: 10px; /*Luft til højre*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
 }
