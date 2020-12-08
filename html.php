@@ -161,6 +161,9 @@
                         <p>Semantiske tags fortæller noget om indholdet og kan læses af både browsere og webudviklere. Eksempler på semantiske tags er f.eks. &#60;nav&#62;, &#60;footer&#62; og &#60;section&#62;, da disse tags tydeligt beskriver hvilken slags indhold der er tale om, nemlig navigation, sidefod og sektion. Derimod er tags som &#60;div&#62; og &#60;span&#62; ikke semantiske, idet de ikke beskriver noget om selve indholdet (HTML Semantic Elements, 2020). Tagget &#60;div&#62; minder meget om tagget &#60;section&#62;, som er et semantisk tag, og derfor bør &#60;div&#62; ofte erstattes med &#60;section&#62;, hvis det er muligt (Østergaard, 2020). <br>
                         Semantiske tags er en vigtig del af SEO (søgemaskineoptimering), fordi disse tags fortæller søgemaskinerne hvilken type data hjemmesiden indeholder. På den måde kan semantiske tags bruges til at forbedre hjemmesiders placering på søgemaskiner (Haastrup, 2017). 
                         </p>
+                        
+                        <p><a href="http://10854.apache.eadania.dk/semantisk/?fbclid=IwAR29j6hUMGbjaYR4mqHcNC-MS9G0StqHn0EOaALlvMmT_oUTTZORa1hIia4">Se Sine og Nunus side om semantiske tags her</a></p>
+                        
                     </section>
                     
                     <section id="tabel2">
@@ -192,7 +195,7 @@
                             </table>
                         <p class="billedetekst">Eksempler på semantiske tags (HTML Semantic Elements, 2020)</p>
                     </section>
-
+                    
                     
                     <section id="attributter">
                         <h2>Attributter</h2>

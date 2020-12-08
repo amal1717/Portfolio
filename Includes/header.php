@@ -19,11 +19,10 @@
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="">HTML</a>
                             <a class="dropdown-item" href="">CSS</a>
-                            <a class="dropdown-item" href="">Versionstyring</a>
                             <a class="dropdown-item" href="">Serverbegrebet</a>
                             <a class="dropdown-item" href="">Serverside scripting</a>
+                            <a class="dropdown-item" href="">Versionstyring</a>
                             <a class="dropdown-item" href="">Framework</a>
-                            <a class="dropdown-item" href="">Internettets historie</a>
                         </div>
                     </li>
     
