@@ -4,7 +4,7 @@
     
     <head> 
         <meta charset="utf-8"> <!--Det danske alfabet-->
-        <meta name="viewport" content="width=device-width, initial-scale=1"/> <!--For at sikre mobile view-->
+        <meta name="viewport" content="width=device-width, initial-scale=1"/> <!---->
         <meta name= "description" content="En læringsportfolio som er udviklet af en multimediedesignerstuderende"> <!--En beskrivelse af hjemmesiden-->
         
         <base href="index.html"> <!--Fortæller hvilken side der er forsiden (Vigtig hvis forsiden ikke hedder index.html-->
