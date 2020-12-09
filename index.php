@@ -33,12 +33,15 @@
                             
                 <img src="Billeder/Baggrundsbillede_af_CSS.jpg" alt="CSS" style="width:100%;">
                             
-                    <div id="search"> 
+                <!-- <div id="search"> 
                         <form class="form-inline my-2 my-lg-0">
-                            <input id="searchbox" class="form-control mr-sm-2" type="search" placeholder="Søg" aria-label="Search">
+                            <label for="search"></label>
+                            <input id="searchbox" class="form-control mr-sm-2" type="search" placeholder="Søg" aria-label="Search" name="search">
                         </form> 
                     </div>
+                -->
             </div>
+        
             
             <footer>
                 <p>&copy; Amalie Sørensen 2020</p>

@@ -282,9 +282,11 @@ table {
     font-size: 1em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
     border-collapse: collapse;
+    width: 90%; 
     /*MARGIN*/
     margin-left: 25px;
     margin-top: 25px; 
+    margin-right: 25px; 
     
 }
 
