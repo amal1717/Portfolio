@@ -385,9 +385,9 @@
                             <br><br>
                             CSS grid-row-end Property. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-row-end.asp">https://www.w3schools.com/cssref/pr_grid-row-end.asp</a>
                             <br><br>
-                            Østergaard, N. (14. september 2020). Intro til CSS. Hentet fra Grundlæggende faglighed: <a href="https://eadania.mrooms.net/course/view.php?id=2649#section-5">https://eadania.mrooms.net/course/view.php?id=2649#section-5</a>
+                            Østergaard, N. (14. september 2020). Intro til CSS. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/Intro_til_CSS.pdf">Intro til CSS.pdf</a>
                             <br><br>
-                            Østergaard, N. (9. december 2020). Responsive design + CSS Grid. Hentet fra Grundlæggende faglighed: <a href="https://eadania.mrooms.net/course/view.php?id=2649#section-6">https://eadania.mrooms.net/course/view.php?id=2649#section-6</a>
+                            Østergaard, N. (9. december 2020). Responsive design + CSS Grid. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/CSS_grid.pdf">CSS Grid.pdf</a> og <a href="PDF_filer/Responsiv_design.pdf">Responsiv design.pdf</a>
                             <br><br>
                         </p>
                         

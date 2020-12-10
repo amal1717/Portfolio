@@ -303,7 +303,7 @@
 
                             <br><br>
 
-                            Østergaard, N. (10. september 2020). Grundlæggende faglighed - Introduktion til HTML. Hentet fra eadania.mrooms.net: <a href="https://eadania.mrooms.net/course/view.php?id=2649 - section-3">https://eadania.mrooms.net/course/view.php?id=2649 - section-3</a> 
+                            Østergaard, N. (10. september 2020). Grundlæggende faglighed - Introduktion til HTML. Hentet fra eadania.mrooms.net: <a href="PDF_filer/Intro_til_HTML.pdf">Intro til HTML.pdf</a>
 
                             <br><br> 
                         </p>
