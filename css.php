@@ -52,7 +52,7 @@
                             </p>
                             
                             <div>
-                                 <img class="billeder" src="Billeder/CSS/Eksempel_stylesheet.png" alt="Eksempel på indsætning af stylesheet" style="">  
+                                 <img class="billeder" src="Billeder/CSS/Eksempel_stylesheet.png" alt="Eksempel på indsætning af stylesheet" style="height:50px;">  
                                  <p class="billedetekst">Eksempel på hvordan man linker til et StyleSheet</p>
                             </div>
                             
@@ -61,7 +61,7 @@
                                 <p>Når man skal skrive CSS, skal man følge denne model: </p>
                             
                             <div>
-                                <img class="billeder" src="Billeder/CSS/Saadan_skriver_man_CSS.png" alt="Sådan skriver man CSS" style="">  
+                                <img class="billeder" src="Billeder/CSS/Saadan_skriver_man_CSS.png" alt="Sådan skriver man CSS" style="height:200px;">  
                             </div>
                             
                                 <br>
@@ -145,7 +145,7 @@
                             <br>
                             
                         <div>
-                            <img class="billeder" src="Billeder/CSS/eksempel_CSS.png" alt="Eksempel på CSS" style="">  
+                            <img class="billeder" src="Billeder/CSS/eksempel_CSS.png" alt="Eksempel på CSS" style="height:300px;">  
                             <p class="billedetekst">Eksempel på CSS</p>
                         </div>
                     
@@ -165,7 +165,7 @@
                         
                             <br>
                         
-                        <img class="billeder" src="Billeder/CSS/farver_CSS.png" alt="Farver i CSS" style="">  
+                        <img class="billeder" src="Billeder/CSS/Farver_CSS.png" alt="Farver i CSS">  
                         
                     </section>
                     
@@ -178,7 +178,7 @@
                         
                             <br>
                         
-                        <img class="billeder" src="Billeder/CSS/Adobe_fonts.png" alt="Billede af det man skal indsætte fra Adobe Fonts" style="">  
+                        <img class="billeder" src="Billeder/CSS/Adobe_Fonts.png" alt="Billede af det man skal indsætte fra Adobe Fonts">  
                         
                     </section>
                     
@@ -272,10 +272,10 @@
                             <br>
                         
                          <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel1_css.png" alt="Eksempel på CSS grid" style="">  
+                            <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel1_css.png" alt="Eksempel på CSS grid" style="width:40%;">  
                         </div>
                         
-                            <br>
+                            <br><br>
                         
                          <div>
                             <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel1_browser.png" alt="Eksempel på CSS grid" style="">  
@@ -287,10 +287,10 @@
                             <br>
                         
                          <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel2_css.png" alt="Eksempel på CSS grid" style="">  
+                            <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel2_css.png" alt="Eksempel på CSS grid" style="width:40%;">  
                         </div>
                         
-                            <br>
+                            <br><br>
                         
                          <div>
                             <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel2_browser.png" alt="Eksempel på CSS grid" style="">  
@@ -343,7 +343,7 @@
                             <br>
                             
                         <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/CSS_grid.png" alt="Eksempel på CSS grid" style="">  
+                            <img class="billeder" src="Billeder/CSS/CSS_grid/CSS_Grid.png" alt="Eksempel på CSS grid" style="">  
                         </div>
                         
                             <br>

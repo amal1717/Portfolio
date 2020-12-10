@@ -34,13 +34,8 @@ blockquote:before, blockquote:after, q:before, q:after {
 
 body { 
     font-family: sans-serif; /*Skrifttype - uden seriffer*/
-    background-color: #f1f2f4;  /*Baggrundsfarve - orange*/
+    background-color: #f1f2f4; /*Baggrundsfarve - orange*/
 }
-
-#mitgrid {
-    background-color: #f1f2f4;  /*Baggrundsfarve - lysegrå*/
-}
-
 
 
 
@@ -61,7 +56,7 @@ body {
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 500; /*Skriftens tykkelse*/
     font-style: normal; /*Variant af skrifttype*/
-    font-size: 1.7em; /*Skriftstørrelse*/
+    font-size: 1.5em; /*Skriftstørrelse*/
     padding-top: 5px; /*Luft over overskriften*/
     background-color: #484b54; /*Baggrundsfarve - Mørkegrå*/
     color: #f1f2f4; /*Skriftens farve - lysegrå*/
@@ -94,7 +89,8 @@ body {
 
 /*DROPDOWNELEMENTER I MENUEN*/
 .dropdown-item { /*Målrettet dropdown elementerne i menuen*/
-    padding: 15px; /*Padding rundt om elementerne*/
+    margin-top: -10px; 
+    padding: 20px; /*Padding rundt om elementerne*/
     padding-left: 25px; /*Padding til venstre*/
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 400; /*Skriftens tykkelse*/
@@ -123,13 +119,14 @@ body {
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1.1em; /*Skriftstørrelse*/
     color: #f1f2f4; /*Skriftens farve - mørkegrå*/
-    padding-top: 20px; /*Luft omkring hovedelementerne i menuen*/
-    padding-bottom: 20px;  
+    padding-top: 15px; /*Luft omkring hovedelementerne i menuen*/
+    padding-bottom: 15px;  
 }
 
 #navbarDropdown:hover { /*Hovereffekt på hovedelementerne i menuen*/
     color: #e29000; /*Hoverfarve - orange*/
 }
+
 
 
 
@@ -169,6 +166,7 @@ body {
     #mitgrid{
         margin-right: 22%;  
         margin-left: 22%;  
+        
     }
 
 }
@@ -262,6 +260,7 @@ section p {
 }
 
 
+/*LISTER*/
 .liste{
     list-style: none; /*Fjerner prikkerne*/
     font-family: apertura, sans-serif; /*Skrifttype*/
@@ -345,5 +344,31 @@ footer {
     padding-right: 25px; /*Luft til højre*/
     color: #f1f2f4; /*Skriftens farve - mørkegrå*/
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

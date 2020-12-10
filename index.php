@@ -13,14 +13,15 @@
         
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> <!--Stylesheet fra Bootstrap-->
         
-        <link rel="stylesheet" href="index.css"> <!--Indsæt CSS stylesheet efter href="-->
         <link rel="stylesheet" href="global.css"> <!--Indsæt CSS stylesheet efter href="-->
+        
+
         
         <link rel="stylesheet" href="https://use.typekit.net/tyy2njs.css"> <!--Stylesheet fra Adobe Fonts-->
          
     </head>
     
-    <body>
+    <body id="body">
         
         <header class="header">
                 
@@ -31,8 +32,8 @@
         
             <div id="Billedeogsearch">
                             
-                <img src="Billeder/Baggrundsbillede_af_CSS.jpg" alt="CSS" style="width:100%;">
-                            
+                <img src="Billeder/Baggrundsbillede_af_CSS_bred.jpg" alt="CSS" style="width:100%;">
+                
                 <!-- <div id="search"> 
                         <form class="form-inline my-2 my-lg-0">
                             <label for="search"></label>
@@ -41,9 +42,8 @@
                     </div>
                 -->
             </div>
-        
             
-            <footer>
+            <footer id="footer">
                 <p>&copy; Amalie Sørensen 2020</p>
             </footer>        
         

@@ -11,7 +11,7 @@
         
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> <!--Stylesheet fra Bootstrap-->
         
-        <link rel="stylesheet" href="serverbegrebet.css"> <!--Indsæt CSS stylesheet efter href="-->
+        
         <link rel="stylesheet" href="global.css"> <!--Indsæt CSS stylesheet efter href="-->
         
         <link rel="stylesheet" href="https://use.typekit.net/tyy2njs.css"> <!--Stylesheet fra Adobe Fonts-->

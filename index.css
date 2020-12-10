@@ -33,8 +33,8 @@ blockquote:before, blockquote:after, q:before, q:after {
 
 
 /*BODY*/
-body {
-    background:#f1f2f4; /*Baggrundsfarve - lysegrå*/
+#body {
+    background-color: #484b54; /*Baggrundsfarve - lysegrå*/
     font-family: sans-serif; /*Skrifttype - uden seriffer*/
 }
 
@@ -105,7 +105,7 @@ body {
 
 .dropdown-menu { 
     border: none; /*Fjerner border ved dropdown elementerne*/
-    background-color: #f1f2f4; /*Ændre baggrundsfarven bag dropdown elementerne*/
+    background-color: #484b54; /*Ændre baggrundsfarven bag dropdown elementerne*/
 }
 
 
@@ -117,7 +117,7 @@ body {
     font-weight: 400; /*Skriftens tykkelse*/
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1.1em; /*Skriftstørrelse*/
-    color: #484b54; /*Skriftens farve - mørkegrå*/
+    color: #f1f2f4; /*Skriftens farve - mørkegrå*/
     padding-top: 20px; /*Luft omkring hovedelementerne i menuen*/
     padding-bottom: 20px;  
 }
@@ -129,16 +129,16 @@ body {
 
 
 /*FOOTER*/
-footer {
+#footer {
+    position: relative; 
     text-align: right; /*placerer teksten til højre*/
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 400; /*Skriftens tykkelse*/
     font-style: normal; /*Variant af skrifttype*/
     font-size: 0.7em; /*Skriftstørrelse*/
-    background:#f1f2f4; /*Baggrundsfarve - lysegrå*/
-    padding: 2px; /*Størrelsen på footeren*/
+    padding: 5px; 
     padding-right: 10px; /*Luft til højre*/
-    color: #484b54; /*Skriftens farve - mørkegrå*/
+    color: #f1f2f4; /*Skriftens farve - mørkegrå*/
 }
 
 
