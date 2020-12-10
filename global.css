@@ -32,9 +32,13 @@ blockquote:before, blockquote:after, q:before, q:after {
 
 /*BODY*/
 
-body {
-    background:#f1f2f4; /*Baggrundsfarve - lysegrå*/
+body { 
     font-family: sans-serif; /*Skrifttype - uden seriffer*/
+    background-color: #f1f2f4;  /*Baggrundsfarve - orange*/
+}
+
+#mitgrid {
+    background-color: #f1f2f4;  /*Baggrundsfarve - lysegrå*/
 }
 
 
@@ -140,6 +144,10 @@ body {
     .dropdown-item { 
         padding-left: 10px; /*Padding på dropdown elementerne*/
     }
+     #mitgrid{
+        margin-right: 15%;  
+        margin-left: 15%;  
+    }
     
 }
 
@@ -157,6 +165,10 @@ body {
     }
     .dropdown-item { 
     font-size: 1.1em; /*Øger skriftstørrelsen på dropdownelementerne i menuen*/
+    }
+    #mitgrid{
+        margin-right: 22%;  
+        margin-left: 22%;  
     }
 
 }
@@ -197,8 +209,7 @@ body {
     font-size: 1.2em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
     /*MARGIN*/
-    margin-left: 24px; 
-    margin-top: 40px; 
+    padding-top: 40px; 
 }
 /*..........OVERSIGT SLUT..........*/
 
@@ -216,8 +227,8 @@ h2 {
     color: #484b54; /*Skriftens farve - mørkegrå*/
     /*MARGIN*/
     margin-left: 25px; 
-    margin-bottom: 10px;
-    margin-top: 40px; 
+    padding-bottom: 10px;
+    padding-top: 40px;
 }
 
 
@@ -247,8 +258,21 @@ section p {
     /*MARGIN*/
     margin-left: 25px; 
     margin-right: 25px; 
-    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
+
+
+.liste{
+    list-style: none; /*Fjerner prikkerne*/
+    font-family: apertura, sans-serif; /*Skrifttype*/
+    font-weight: 400; /*Skriftens tykkelse*/
+    font-style: normal; /*Variant af skrifttype*/
+    font-size: 1em; /*Skriftstørrelse*/
+    color: #484b54; /*Skriftens farve - mørkegrå*/
+    line-height: 25px; /*Linjehøjde*/
+    margin-left: 25px; 
+}
+
 
 
 

@@ -29,23 +29,21 @@
                 <section id="mitgrid">
                     
                         <section id="oversigtoversiden">
-                            
-                            <ul>
-                                <li>
-                                    <h2 id="oversigt">Oversigt:</h2>
-                                    <a class="list-item" href="#css">CSS</a>
-                                    <a class="list-item" href="#kaskaderegler">Kaskaderegler</a>
-                                    <a class="list-item" href="#farver">Farver</a>
-                                    <a class="list-item" href="#skriftformer">Skriftformer</a>
-                                    <a class="list-item" href="#css grid">CSS Grid</a>
-                                    <a class="list-item" href="#layoutstrategier">Layoutstrategier</a>
-                                    <a class="list-item" href="#layoutformer">Layoutformer</a>
-                                    <a class="list-item" href="#mobile first">Mobile first</a>
-                                    <a class="list-item" href="#refleksion">Refleksion</a>
-                                    <a class="list-item" href="#kilder">Kilder</a>
-                                </li>
-                            </ul>
-                            
+                            <nav>
+                                <ul>
+                                    <li><h2 id="oversigt">Oversigt:</h2></li>
+                                    <li><a class="list-item" href="#css">CSS</a></li>
+                                    <li><a class="list-item" href="#kaskaderegler">Kaskaderegler</a></li>
+                                    <li><a class="list-item" href="#farver">Farver</a></li>
+                                    <li><a class="list-item" href="#skriftformer">Skriftformer</a></li>
+                                    <li><a class="list-item" href="#css grid">CSS Grid</a></li>
+                                    <li><a class="list-item" href="#layoutstrategier">Layoutstrategier</a></li>
+                                    <li><a class="list-item" href="#layoutformer">Layoutformer</a></li>
+                                    <li><a class="list-item" href="#mobile first">Mobile first</a></li>
+                                    <li><a class="list-item" href="#refleksion">Refleksion</a></li>
+                                    <li><a class="list-item" href="#kilder">Kilder</a></li>
+                                </ul>
+                            </nav>
                         </section>
                   
                         <section id="css">

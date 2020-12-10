@@ -11,6 +11,7 @@
         
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> <!--Stylesheet fra Bootstrap-->
         
+        <link rel="stylesheet" href="serverbegrebet.css"> <!--Indsæt CSS stylesheet efter href="-->
         <link rel="stylesheet" href="global.css"> <!--Indsæt CSS stylesheet efter href="-->
         
         <link rel="stylesheet" href="https://use.typekit.net/tyy2njs.css"> <!--Stylesheet fra Adobe Fonts-->
@@ -25,53 +26,37 @@
             
         </header>  
         
-           
                 <section id="mitgrid">
                     
+                    <section id="oversigtoversiden">
+                        <nav> 
+                            <ul>
+                                <li><h2 id="oversigt">Oversigt:</h2>
+                                <li><a class="list-item" href="#serverbegrebet">Serverbegrebet</a></li>
+                                <li><a class="list-item" href="#skolensserver">Brug af skolens server</a></li>
+                                <li><a class="list-item" href="#refleksion">Refleksion</a></li>
+                                <li><a class="list-item" href="#kilder">Kilder</a></li>
+                            </ul>
+                        </nav> 
+                        
+                    </section>
+                    
                   
-                        <section>
+                        <section id="serverbegrebet">
                             <h2>Serverbegrebet</h2>
-                            <p>En server er en computer, typisk med en meget stor lagerkapacitet, som deler sine informationer med forskellige klienter. Idet en server er en computer, består den både af hardware og software. Serverens hardware er selve den fysiske genstand og servers software er de programmer som er installeret på den. Dog er det typisk maskinen, altså hardwaren, som benævnes som selve ”serveren” (Server, 2020).  
+                            <p>En server er en computer, typisk med en meget stor lagerkapacitet, som deler sine informationer med forskellige klienter. Idet en server er en computer, består den både af hardware og software. Serverens hardware er selve den fysiske genstand og servers software er de programmer som er installeret på den. Dog er det typisk maskinen, altså hardwaren, som benævnes som selve ”serveren” (Server, 2020). Nedenstående ses en liste over eksempler på servere:
                             </p>
                             
-                             <table id="tabel">
-                              <tr>
-                                <th>Forskellige servere</th>
-                                <th>Beskrivelse</th>
-                              </tr>
-                              <tr>
-                                <td>Fil-server</td>
-                                <td></td>
-                              </tr>
-                              <tr>
-                                <td>Print-server</td>
-                                <td></td>
-                              </tr>
-                              <tr>
-                                <td>Web-server</td>
-                                <td></td>
-                              </tr>
-                              <tr>
-                                <td>FTP-server</td>
-                                <td></td>
-                              </tr>
-                              <tr>
-                                <td>Mail-server</td>
-                                <td></td>
-                              </tr>
-                              <tr>
-                                <td>Database-server</td>
-                                <td></td>
-                              </tr>
-                                <tr>
-                                <td>SSH-server</td>
-                                <td></td>
-                              </tr>
-                                <tr>
-                                <td>RDP-server</td>
-                                <td></td>
-                              </tr>
-                        </table>
+                            <ul class="liste">
+                                <li>Fil-server</li>
+                                <li>Print-server</li>
+                                <li>Web-server</li>
+                                <li>FTP-server</li>
+                                <li>Mail-server</li>
+                                <li>Database-server</li>
+                                <li>SSH-server</li>
+                                <li>RDP-server</li>
+                            </ul>
                             
                                 <br>
                             
@@ -79,22 +64,22 @@
                     </section>
                 
                     <section>
-                        <h2>Brug af skolens server</h2>
+                        <h2 id="skolensserver1">Brug af skolens server</h2>
                             <p>Når man har udviklet en hjemmeside, som skal over på serveren, skal man først sikre at man har oprettet adgang til serveren. Det gør man på <a href="selfservice.itcn.dk">selfservice.itcn.dk</a>, hvor man kan ”tænde” for de forskellige features, f.eks. IIS eller Apache. 
                             </p>
                         
                                 <br>
                         
-                            <img class="billeder" src="Billeder/Serverbegrebet/selfservice.itcn.dk.png" alt="Billede af selfservice.itcn.dk">
+                            <img class="billeder" id="selfservice" src="Billeder/Serverbegrebet/selfservice.itcn.dk.png" alt="Billede af selfservice.itcn.dk" style="width:100%;">
                         
                                 <br><br>
                         
-                            <p>Derefter skal man installere FTP-klienten ”FileZilla”, som kommunikerer med FTP-serveren og bruges til at udveksle filer til anvendelse på webservere (Østergaard, Internettets historie og serverbegrebet, 2020). Efter man har installeret og åbnet programmet, skal man trække hele mappen med alt indholdet til hjemmesiden over i FileZilla f.eks. i mappen ”_www1_apache”. Man vil derefter kunne finde linket til sin hjemmeside ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.apache.eadania.dk/">http://amal1717.apache.eadania.dk/ </a>. 
+                            <p id="skolensserver2">Derefter skal man installere FTP-klienten ”FileZilla”, som kommunikerer med FTP-serveren og bruges til at udveksle filer til anvendelse på webservere (Østergaard, Internettets historie og serverbegrebet, 2020). Efter man har installeret og åbnet programmet, skal man trække hele mappen med alt indholdet til hjemmesiden over i FileZilla f.eks. i mappen ”_www1_apache”. Man vil derefter kunne finde linket til sin hjemmeside ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.apache.eadania.dk/">http://amal1717.apache.eadania.dk/ </a>. 
                             </p>
                         
                                 <br>
                         
-                            <img class="billeder" src="Billeder/Serverbegrebet/filezilla.png" alt="Billede af FileZilla">
+                            <img class="billeder" id="filezilla" src="Billeder/Serverbegrebet/filezilla.png" alt="Billede af FileZilla" style="width:100%;">
                         
                     </section>
                     
@@ -116,7 +101,7 @@
 
                 </section> <!--MITGRID SLUTTER HER-->
         
-            <footer>
+            <footer id="footer">
                 <p>&copy; Amalie Sørensen 2020</p>
             </footer>        
         

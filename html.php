@@ -30,21 +30,19 @@
                 <section id="mitgrid">
                     
                         <section id="oversigtoversiden">
-                            
-                            <ul>
-                                <li>
-                                    <h2 id="oversigt">Oversigt:</h2>
-                                    <a class="list-item" href="#html">HTML</a>
-                                    <a class="list-item" href="#brackets">Brackets</a>
-                                    <a class="list-item" href="#semantiske tags">Semantiske tags</a>
-                                    <a class="list-item" href="#attributter">Attributter</a>
-                                    <a class="list-item" href="#hyperlinks">Hyperlinks</a>
-                                    <a class="list-item" href="#adressering">Relativ og absolut adressering</a>
-                                    <a class="list-item" href="#refleksion">Refleksion</a>
-                                    <a class="list-item" href="#kilder">Kilder</a>
-                                </li>
-                            </ul>
-                            
+                            <nav>
+                                <ul>
+                                    <li><h2 id="oversigt">Oversigt:</h2></li>
+                                    <li><a class="list-item" href="#html">HTML</a></li>
+                                    <li><a class="list-item" href="#brackets">Brackets</a></li>
+                                    <li><a class="list-item" href="#semantiske tags">Semantiske tags</a></li>
+                                    <li><a class="list-item" href="#attributter">Attributter</a></li>
+                                    <li><a class="list-item" href="#hyperlinks">Hyperlinks</a></li>
+                                    <li><a class="list-item" href="#adressering">Relativ og absolut adressering</a></li>
+                                    <li><a class="list-item" href="#refleksion">Refleksion</a></li>
+                                    <li><a class="list-item" href="#kilder">Kilder</a></li>
+                                </ul>
+                            </nav>
                         </section>
                   
                         <section id="html">
