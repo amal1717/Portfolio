@@ -45,7 +45,6 @@ body {
 
 .header {
     background-color: #484b54; /*Baggrundsfarve på header*/
-    padding: 10px; /*Størrelse på header*/
     box-shadow: 1px 1px 4px 0 rgba(0,0,0,.2); /*Skygge*/
 }
 
@@ -56,7 +55,7 @@ body {
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 500; /*Skriftens tykkelse*/
     font-style: normal; /*Variant af skrifttype*/
-    font-size: 1.5em; /*Skriftstørrelse*/
+    font-size: 1.2em; /*Skriftstørrelse*/
     padding-top: 5px; /*Luft over overskriften*/
     background-color: #484b54; /*Baggrundsfarve - Mørkegrå*/
     color: #f1f2f4; /*Skriftens farve - lysegrå*/
@@ -128,7 +127,11 @@ body {
 }
 
 
-
+#portræt img {
+    margin-left: 5%;
+    margin-top: 10%; 
+    margin-bottom: 10%; 
+}
 
 
 
@@ -338,11 +341,12 @@ footer {
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 400; /*Skriftens tykkelse*/
     font-style: normal; /*Variant af skrifttype*/
-    font-size: 0.7em; /*Skriftstørrelse*/
+    font-size: 0.6em; /*Skriftstørrelse*/
     background:#484b54; /*Baggrundsfarve - lysegrå*/
     padding: 10px; /*Størrelsen på footeren*/
     padding-right: 25px; /*Luft til højre*/
     color: #f1f2f4; /*Skriftens farve - mørkegrå*/
+    margin-top: -5px; 
 }
 
 

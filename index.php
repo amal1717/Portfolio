@@ -30,18 +30,18 @@
         </header>    
         
         
-            <div id="Billedeogsearch">
+            <section id="Billedeogsearch">
                             
                 <img src="Billeder/Baggrundsbillede_af_CSS_bred.jpg" alt="CSS" style="width:100%;">
                 
-                <!-- <div id="search"> 
-                        <form class="form-inline my-2 my-lg-0">
-                            <label for="search"></label>
-                            <input id="searchbox" class="form-control mr-sm-2" type="search" placeholder="Søg" aria-label="Search" name="search">
-                        </form> 
-                    </div>
-                -->
-            </div>
+            </section>
+        
+            <section id="portræt">
+                            
+                <img src="Billeder/Amalie_portr%C3%A6t.png" alt="Portrætbillede af Amalie Sørensen" style="width:40%;">
+                
+            </section>
+        
             
             <footer id="footer">
                 <p>&copy; Amalie Sørensen 2020</p>

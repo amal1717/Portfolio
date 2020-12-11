@@ -17,9 +17,9 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kodning</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="">HTML</a>
-                            <a class="dropdown-item" href="">CSS</a>
-                            <a class="dropdown-item" href="">Serverbegrebet</a>
+                            <a class="dropdown-item" href="../html.php">HTML</a>
+                            <a class="dropdown-item" href="../css.php">CSS</a>
+                            <a class="dropdown-item" href="../serverbegrebet.php">Serverbegrebet</a>
                             <a class="dropdown-item" href="">Serverside scripting</a>
                             <a class="dropdown-item" href="">Versionstyring</a>
                             <a class="dropdown-item" href="">Framework</a>

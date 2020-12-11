@@ -160,7 +160,7 @@
                         Semantiske tags er en vigtig del af SEO (søgemaskineoptimering), fordi disse tags fortæller søgemaskinerne hvilken type data hjemmesiden indeholder. På den måde kan semantiske tags bruges til at forbedre hjemmesiders placering på søgemaskiner (Haastrup, 2017). 
                         </p>
                         
-                        <p><a href="http://10854.apache.eadania.dk/semantisk/?fbclid=IwAR29j6hUMGbjaYR4mqHcNC-MS9G0StqHn0EOaALlvMmT_oUTTZORa1hIia4">Se Sine og Nunus side om semantiske tags her</a></p>
+                        <p><a href="http://10854.apache.eadania.dk/semantisk/?fbclid=IwAR29j6hUMGbjaYR4mqHcNC-MS9G0StqHn0EOaALlvMmT_oUTTZORa1hIia4">Se Sine og Nunus side om semantiske tags</a></p>
                         
                     </section>
                     
