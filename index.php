@@ -36,9 +36,11 @@
                 
             </section>
         
-            <section id="portræt">
+            <section id="forsideafsnit">
+                
+                <p id="forsidetekst">"Mit navn er Amalie Sørensen og jeg læser til multimediedesigner på Erhvervsakademi Dania i Skive. Jeg har udviklet dette læringsportfolio i forbindelse med vores eksamensprojekt som afslutter uddannelsens 1. semester. Læringsportfoliet er et udviklings-, refleksions- og dokumentationsredskab, som demonstrerer alt den viden jeg har tilegenet mig indtil videre på uddannelsen. Dette portfolio danner samtidig grundlaget for 1. semesterprøven og er et personligt redskab, som ikke kan sammenlignes med en traditionel portfolio." </p>
                             
-                <img src="Billeder/Amalie_portr%C3%A6t.png" alt="Portrætbillede af Amalie Sørensen" style="width:40%;">
+                <img id="forsidebillede" src="Billeder/Amalie_portr%C3%A6t.png" alt="Portrætbillede af Amalie Sørensen" style="width:100%;">
                 
             </section>
         

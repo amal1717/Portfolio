@@ -64,7 +64,7 @@
                     </section>
                 
                     <section>
-                        <h2 id="skolensserver1">Brug af skolens server</h2>
+                        <h2 id="skolensserver">Brug af skolens server</h2>
                             <p>Når man har udviklet en hjemmeside, som skal over på serveren, skal man først sikre at man har oprettet adgang til serveren. Det gør man på <a href="selfservice.itcn.dk">selfservice.itcn.dk</a>, hvor man kan ”tænde” for de forskellige features, f.eks. IIS eller Apache. 
                             </p>
                         
@@ -74,7 +74,7 @@
                         
                                 <br><br>
                         
-                            <p id="skolensserver2">Derefter skal man installere FTP-klienten ”FileZilla”, som kommunikerer med FTP-serveren og bruges til at udveksle filer til anvendelse på webservere (Østergaard, Internettets historie og serverbegrebet, 2020). Efter man har installeret og åbnet programmet, skal man trække hele mappen med alt indholdet til hjemmesiden over i FileZilla f.eks. i mappen ”_www1_apache”. Man vil derefter kunne finde linket til sin hjemmeside ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.apache.eadania.dk/">http://amal1717.apache.eadania.dk/ </a>. 
+                            <p>Derefter skal man installere FTP-klienten ”FileZilla”, som kommunikerer med FTP-serveren og bruges til at udveksle filer til anvendelse på webservere (Østergaard, Internettets historie og serverbegrebet, 2020). Efter man har installeret og åbnet programmet, skal man trække hele mappen med alt indholdet til hjemmesiden over i FileZilla f.eks. i mappen ”_www1_apache”. Man vil derefter kunne finde linket til sin hjemmeside ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.apache.eadania.dk/">http://amal1717.apache.eadania.dk/ </a>. 
                             </p>
                         
                                 <br>
@@ -83,7 +83,10 @@
                         
                     </section>
                     
-                
+                    <section>
+                        <h2 id="refleksion">Refleksion</h2>
+                        <p></p>
+                    </section>
                     
                     <section>
                         <h2 id="kilder">Kilder</h2>

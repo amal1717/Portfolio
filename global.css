@@ -127,11 +127,21 @@ body {
 }
 
 
-#portræt img {
-    margin-left: 5%;
-    margin-top: 10%; 
-    margin-bottom: 10%; 
+
+
+
+
+
+/*......@MEDIA 600PX......*/
+
+@media (min-width:600px) {
+    .header {
+        padding: 10px; 
+    }
 }
+
+
+
 
 
 
@@ -329,6 +339,20 @@ td, th {
 
 
 
+#forsidebillede {
+    padding-left: 40px; 
+    padding-right: 40px; 
+    padding-bottom: 50px; 
+}
+
+#forsidetekst {
+    border: 1px solid #484b54;
+    padding: 10px;
+    font-style: oblique; /*Kursiv skrift*/
+    margin: 35px; 
+}
+
+
 
 
 
@@ -346,7 +370,6 @@ footer {
     padding: 10px; /*Størrelsen på footeren*/
     padding-right: 25px; /*Luft til højre*/
     color: #f1f2f4; /*Skriftens farve - mørkegrå*/
-    margin-top: -5px; 
 }
 
 

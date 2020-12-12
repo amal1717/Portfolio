@@ -2,7 +2,7 @@
             <nav class="navbar navbar-expand-lg navbar-dark bg-custom">
                     
  
-                <a class="navbar-brand" href="index.html"><div id="logo"><h1>Amalies læringsportfolio</h1></div></a> 
+                <a class="navbar-brand" href="index.php"><div id="logo"><h1>Amalies læringsportfolio</h1></div></a> 
                 
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -17,12 +17,12 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kodning</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="../html.php">HTML</a>
-                            <a class="dropdown-item" href="../css.php">CSS</a>
-                            <a class="dropdown-item" href="../serverbegrebet.php">Serverbegrebet</a>
+                            <a class="dropdown-item" href="html.php">HTML</a>
+                            <a class="dropdown-item" href="css.php">CSS</a>
+                            <a class="dropdown-item" href="serverbegrebet.php">Serverbegrebet</a>
                             <a class="dropdown-item" href="">Serverside scripting</a>
                             <a class="dropdown-item" href="">Versionstyring</a>
-                            <a class="dropdown-item" href="">Framework</a>
+                            <a class="dropdown-item" href="frameworks.php">Framework</a>
                         </div>
                     </li>
     

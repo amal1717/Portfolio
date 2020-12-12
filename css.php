@@ -39,7 +39,7 @@
                                     <li><a class="list-item" href="#css grid">CSS Grid</a></li>
                                     <li><a class="list-item" href="#layoutstrategier">Layoutstrategier</a></li>
                                     <li><a class="list-item" href="#layoutformer">Layoutformer</a></li>
-                                    <li><a class="list-item" href="#mobile first">Mobile first</a></li>
+                                    <li><a class="list-item" href="#mobilefirst">Mobile first</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                     <li><a class="list-item" href="#kilder">Kilder</a></li>
                                 </ul>

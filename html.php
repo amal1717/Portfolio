@@ -66,7 +66,7 @@
                         </section>
                     
                     
-                    <section id="tabel1">
+                    <section>
                         <table id="tabel">
                               <tr>
                                 <th>HTML tags</th>
@@ -164,7 +164,7 @@
                         
                     </section>
                     
-                    <section id="tabel2">
+                    <section>
                             <table id="tabel">
                                   <tr>
                                     <th>Semantiske tags</th>
