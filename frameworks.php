@@ -52,6 +52,9 @@
                         <section id="bootstrap">
                             <h2>Bootstrap</h2>
                             <p>Bootstrap er en virksomhed som tilbyder både HTML, CSS og JavaScript frameworks, som bruges til at udvikle responsive hjemmesider ud fra mobile first tilgangen. Man skal derfor ikke anvende forskellige frameworks til forskellige skærmstørrelser, men kun anvende ét framework, idet de tilpasser sig alle skærme. Bootstrap giver adgang til mange forskellige slags frameworks f.eks. både skabeloner til hele hjemmesider, komponenter og ikoner (Østergaard, Serverside Scripting + frameworks, 2020). </p>
+                            
+                            <p><a href="Bootstrap/bootstrap.html">Se opgave omkring forskellige Bootstrap frameworks</a></p>
+                            
                         </section>
                 
                     <section>

@@ -128,10 +128,6 @@ body {
 
 
 
-
-
-
-
 /*......@MEDIA 600PX......*/
 
 @media (min-width:600px) {
@@ -139,9 +135,6 @@ body {
         padding: 10px; 
     }
 }
-
-
-
 
 
 
@@ -189,6 +182,58 @@ body {
 /*........HEADER SLUT..........*/
 
 
+
+
+
+
+
+/*........FORSIDE..........*/
+
+
+#forsidetekst {
+    grid-area: forsidetekst; 
+    font-style: italic;
+    text-align: center; 
+    margin: 5%
+    }
+
+#amaliebillede {
+    grid-area: amaliebillede;
+    padding: 15%;
+    padding-top: 0%; 
+}
+
+
+/*@MEDIA (00PX*/
+
+@media (min-width:800px) {
+   #forsideafsnit {
+    display: grid; 
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+        "forsidetekst amaliebillede"
+    }
+    
+    #amaliebillede {
+        padding: 0%; 
+        padding-left: 5%;
+        display: flex;
+        align-self:  center; 
+        max-width: 500px; 
+    }
+    
+    #forsidetekst{
+        margin: 0%;
+        padding-right: 5%;
+       display: flex;
+        align-items: center; 
+    }
+    #forsideafsnit {
+        padding: 10%; 
+    }
+
+}
 
 
 
@@ -268,9 +313,15 @@ section p {
     line-height: 25px; /*Linjehøjde*/
     /*MARGIN*/
     margin-left: 25px; 
-    margin-right: 25px; 
+    padding-right:  25px; 
     padding-bottom: 10px;
+    
 }
+
+section p a {
+    word-wrap: break-word; 
+}
+
 
 
 /*LISTER*/
@@ -334,23 +385,6 @@ td, th {
 }
 
 /*........TABEL SLUT........*/
-
-
-
-
-
-#forsidebillede {
-    padding-left: 40px; 
-    padding-right: 40px; 
-    padding-bottom: 50px; 
-}
-
-#forsidetekst {
-    border: 1px solid #484b54;
-    padding: 10px;
-    font-style: oblique; /*Kursiv skrift*/
-    margin: 35px; 
-}
 
 
 

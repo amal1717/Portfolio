@@ -30,17 +30,18 @@
         </header>    
         
         
-            <section id="Billedeogsearch">
+            <section>
                             
-                <img src="Billeder/Baggrundsbillede_af_CSS_bred.jpg" alt="CSS" style="width:100%;">
+                
+                <img id="forsidebillede2" src="Billeder/forsidebillede_af_css_smal.jpg" alt="CSS" style="width:100%;">
                 
             </section>
         
             <section id="forsideafsnit">
                 
-                <p id="forsidetekst">"Mit navn er Amalie Sørensen og jeg læser til multimediedesigner på Erhvervsakademi Dania i Skive. Jeg har udviklet dette læringsportfolio i forbindelse med vores eksamensprojekt som afslutter uddannelsens 1. semester. Læringsportfoliet er et udviklings-, refleksions- og dokumentationsredskab, som demonstrerer alt den viden jeg har tilegenet mig indtil videre på uddannelsen. Dette portfolio danner samtidig grundlaget for 1. semesterprøven og er et personligt redskab, som ikke kan sammenlignes med en traditionel portfolio." </p>
+                <p id="forsidetekst">"Jeg læser til multimediedesigner på Erhvervsakademi Dania i Skive og har udviklet dette læringsportfolio i forbindelse med vores eksamensprojekt som afslutter uddannelsens 1. semester. Læringsportfoliet er et udviklings-, refleksions- og dokumentationsredskab, som demonstrerer alt den viden jeg har tilegenet mig indtil videre på uddannelsen. Dette portfolio danner samtidig grundlaget for 1. semesterprøven og er et personligt redskab, som ikke kan sammenlignes med en traditionel portfolio." <br><br> - Amalie Sørensen </p>
                             
-                <img id="forsidebillede" src="Billeder/Amalie_portr%C3%A6t.png" alt="Portrætbillede af Amalie Sørensen" style="width:100%;">
+                <img id="amaliebillede" src="Billeder/Amalie_billede.png" alt="Portrætbillede af Amalie Sørensen" width="100%;">
                 
             </section>
         

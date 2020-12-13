@@ -134,7 +134,7 @@
                               </tr>
                         </table>
                         
-                        <p class="billedetekst">Eksempler på forskellige HTML-tags som ofte anvendes (HTML Element Reference, 2020) </p>
+                        <p class="billedetekst">Eksempler på forskellige HTML-tags som ofte anvendes</p> <p>(HTML Element Reference, 2020)</p>
                     </section>
                     
                         <br>
@@ -148,7 +148,7 @@
                 
                     <section id="brackets">
                         <h2>Brackets</h2>
-                        <p>Brackets er en editor, som er et program, hvori man skriver HTML, CSS, JavaScript og mange andre slags koder. Man kan også anvende en af de mange andre editorer f.eks. Visual Studio Code, Notepad++, Edge Code, TextWrangler, Sublime Text, Atom, Ultra Edit og BBEdit. Man bruger altså Brackets eller en af de andre editorer, når man skal kode en hjemmeside eller lignende. Først åbner man Brackets og åbner et nyt dokument. Dette dokument skal gemmes som den rigtig filtype inden man går i gang med at kode, f.eks. index.html, hvis man koder HTML. Hvis man gør dette, kommer Brackets med forslag mens man skriver, så man ikke behøver at skrive alt selv og samtidig øger det processens hastighed. Derudover har Brackets en preview funktion og en highlight funktion. Preview funktionen gør at man kan se ændringerne på hjemmesiden samtidig med at man koder og highlight funktionen markerer de to tags der hører sammen når man klikker på den ene tag (Østergaard, 2020).</p>
+                        <p>Brackets er en editor, som er et program, hvori man skriver HTML, CSS, JavaScript og mange andre slags koder. Man kan også anvende en af de mange andre editorer f.eks. Visual Studio Code, Notepad++, Edge Code, TextWrangler, Sublime Text, Atom, Ultra Edit og BBEdit (Østergaard, Introduktion til HTML, 2020). Man bruger altså Brackets eller en af de andre editorer, når man skal kode en hjemmeside eller lignende. Først åbner man Brackets og åbner et nyt dokument. Dette dokument skal gemmes som den rigtig filtype inden man går i gang med at kode, f.eks. index.html, hvis man koder HTML. Hvis man gør dette, kommer Brackets med forslag mens man skriver, så man ikke behøver at skrive alt selv og det øger processens hastighed. Derudover har Brackets en preview funktion og en highlight funktion. Preview funktionen gør at man kan se ændringerne på hjemmesiden samtidig med man koder og highlight funktionen markerer de to tags der hører sammen når man klikker på den ene tag (Østergaard, Introduktion til HTML, 2020). </p>
                         <br>
                         <img class="billeder" src="Billeder/HTML/Brackets.jpg" alt="Billede af editoren, Brackets">
                     </section>
@@ -191,7 +191,8 @@
                                     <td>Definerer en sektion</td>
                                   </tr>
                             </table>
-                        <p class="billedetekst">Eksempler på semantiske tags (HTML Semantic Elements, 2020)</p>
+                        <p class="billedetekst">Eksempler på semantiske tags</p>
+                        <p>(HTML Semantic Elements, 2020)</p>
                     </section>
                     
                     
@@ -228,9 +229,7 @@
                         <img class="billeder" src="Billeder/HTML/Attributter/id.png" alt="Eksempel på en id" style="height:40px"><br><br>
                             
                         <p>
-                            (HTML Attributes, 2020) 
-                            <br>
-                            (HTML Global Attributes, 2020)
+                            (HTML Attributes, 2020) (HTML Global Attributes, 2020)
                         </p>
                     </section>
                     
@@ -238,7 +237,7 @@
                         <h2>Hyperlinks</h2>
                         <p>Hypertext er en samling af information, som er forbundet via hyperlinks. Hyperlinks kan f.eks. være en tekst, et billede, et symbol eller en knap, som man kan trykke på for at blive sendt videre til en anden side, og derfor beskriver hyperlinks opbygningen af internettet (Hyperlink, 2020). 
                         <br>
-                        Når man koder en hjemmeside, kan man vælge at indsætte eksterne og interne links. Eksterne links vil sige at man linker til et andet HTML-dokument og derved en anden side, og interne links vil sige at man linker til et andet sted i samme HTML-dokument, f.eks. en overskrift længere nede på samme side. Lige meget hvilken type link man vil anvende, skal man altid bruge et anchor tag og indeni denne skal man indsætte attributten href. Herefter er der forskel på om man vil indsætte et eksternt link eller et internt link. Den sorte tekst, som står indeni anchor tagget, er den tekst som man efterfølgende trykker på for at blive sendt derhen hvor linket ender (Østergaard, 2020).</p> <br>
+                        Når man koder en hjemmeside, kan man vælge at indsætte eksterne og interne links. Eksterne links vil sige at man linker til et andet HTML-dokument og derved en anden side, og interne links vil sige at man linker til et andet sted i samme HTML-dokument, f.eks. en overskrift længere nede på samme side. Lige meget hvilken type link man vil anvende, skal man altid bruge et anchor tag og indeni denne skal man indsætte attributten href. Herefter er der forskel på om man vil indsætte et eksternt link eller et internt link. Den sorte tekst, som står indeni anchor tagget, er den tekst som efterfølgende vises på hjemmesiden og som man trykker på for at blive sendt derhen hvor linket ender (Østergaard, 2020).</p> <br>
                                 
                         <p>Hvis man vil indsætte et eksternt link, skriver man følgende:</p>
                         <img class="billeder" src="Billeder/HTML/Hyperlinks/eksternt_link.png" alt="Eksempel på eksterne links"> 
