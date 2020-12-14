@@ -20,8 +20,8 @@
                             <a class="dropdown-item" href="html.php">HTML</a>
                             <a class="dropdown-item" href="css.php">CSS</a>
                             <a class="dropdown-item" href="serverbegrebet.php">Serverbegrebet</a>
-                            <a class="dropdown-item" href="">Serverside scripting</a>
-                            <a class="dropdown-item" href="">Versionstyring</a>
+                            <a class="dropdown-item" href="serversidescripting.php">Serverside scripting</a>
+                            <a class="dropdown-item" href="versionsstyring.php">Versionstyring</a>
                             <a class="dropdown-item" href="frameworks.php">Framework</a>
                         </div>
                     </li>
@@ -46,7 +46,7 @@
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kommunikation</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="">Grundlæggende kommunikation</a>
-                            <a class="dropdown-item" href="">Kvantitativ og kvalitativ empiri</a>
+                            <a class="dropdown-item" href="empiri.php">Kvantitativ og kvalitativ empiri</a>
                             <a class="dropdown-item" href="">Præsentationsteknik</a>
                             <a class="dropdown-item" href="">Usability</a>
                             <a class="dropdown-item" href="">Tekstproduktion</a>

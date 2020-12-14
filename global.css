@@ -237,7 +237,7 @@ body {
     }
 }
 
-/*.....@MEDIA 1300PX.....*/
+/*.....@MEDIA 00PX.....*/
 
 @media (min-width:1300px) {
     #forsidetekst{
@@ -406,6 +406,7 @@ section p a { /*Links under "kilder"*/
     font-style: oblique; /*Kursiv skrift*/
     font-size: 0.9em; /*Skriftstørrelse*/
 }
+
 /*..........BILLEDER SLUTTER..........*/
 
 
