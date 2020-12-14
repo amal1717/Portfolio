@@ -30,24 +30,37 @@ blockquote:before, blockquote:after, q:before, q:after {
 
 
 
-/*BODY*/
 
+
+
+
+
+
+
+/*..........BODY STARTER..........*/
 body { 
-    font-family: sans-serif; /*Skrifttype - uden seriffer*/
+    font-family: apertura, sans-serif; /*Skrifttype - uden seriffer*/
     background-color: #f1f2f4; /*Baggrundsfarve - orange*/
 }
+/*..........BODY SLUTTER..........*/
 
 
 
 
-/*........HEADER..........*/
+
+
+
+
+
+
+/*........HEADER STARTER..........*/
+
 
 
 .header {
     background-color: #484b54; /*Baggrundsfarve på header*/
     box-shadow: 1px 1px 4px 0 rgba(0,0,0,.2); /*Skygge*/
 }
-
 
 
 /*OVERSKRIFT 1 - LOGO*/    
@@ -66,8 +79,6 @@ body {
 }
 
 
-
-
 /*BURGERBAR*/
 
 .navbar button {
@@ -80,10 +91,6 @@ body {
     outline: none; /*Fjerner farve rundt om burgerbaren*/
     box-shadow: none; /*Fjerner skygge rundt om burgerbaren*/
 } 
-
-/*BURGERBAR SLUT*/
-
-
 
 
 /*DROPDOWNELEMENTER I MENUEN*/
@@ -109,8 +116,6 @@ body {
 }
 
 
-
-
 /*HOVEDELEMENTER I MENUEN*/
 #navbarDropdown{
     font-family: apertura, sans-serif; /*Skrifttype*/
@@ -127,7 +132,6 @@ body {
 }
 
 
-
 /*......@MEDIA 600PX......*/
 
 @media (min-width:600px) {
@@ -135,7 +139,6 @@ body {
         padding: 10px; 
     }
 }
-
 
 
 /*......@MEDIA 990PX......*/
@@ -153,8 +156,6 @@ body {
     }
     
 }
-
-
 
 /*......@MEDIA 13000PX......*/
 
@@ -174,71 +175,87 @@ body {
         margin-left: 22%;  
         
     }
-
 }
 
 
-
-/*........HEADER SLUT..........*/
-
+/*........HEADER SLUTTER..........*/
 
 
 
 
 
 
-/*........FORSIDE..........*/
 
 
+
+
+/*........FORSIDE STARTER..........*/
+
+/*Mobile version*/
 #forsidetekst {
-    grid-area: forsidetekst; 
-    font-style: italic;
-    text-align: center; 
-    margin: 5%
+    grid-area: forsidetekst; /*Bruges under grid-template-areas*/
+    font-style: italic; /*Kursiv skrift*/
+    text-align: center; /*Centrer teksten i midten af siden*/
+    margin: 5% /*Margen*/
     }
 
 #amaliebillede {
-    grid-area: amaliebillede;
+    grid-area: amaliebillede; /*Bruges under grid-template-areas*/
+    /*Padding - margen udvider siden*/
     padding: 15%;
     padding-top: 0%; 
 }
 
 
-/*@MEDIA (00PX*/
+/*.....@MEDIA 800PX.....*/
 
+/*Tablet og desktop version*/
 @media (min-width:800px) {
    #forsideafsnit {
-    display: grid; 
-    grid-template-columns: 1fr 1fr; 
-    grid-template-rows: 1fr;
+    display: grid; /*Grid træder i kraft*/
+    grid-template-columns: 1fr 1fr; /*To kolonner hen*/
+    grid-template-rows: 1fr; /*En række ned*/
     grid-template-areas: 
-        "forsidetekst amaliebillede"
+        "forsidetekst amaliebillede" /*Opsætning af side*/
     }
     
     #amaliebillede {
-        padding: 0%; 
-        padding-left: 5%;
-        display: flex;
-        align-self:  center; 
+        padding: 0%; /*Fjerner tidligere padding*/
+        padding-left: 5%; /*Ny padding*/
+        display: flex; /*Placerer billedet i midten af skærmen*/
+        align-self:  center; /*Placerer billedet i midten af skærmen*/
     }
     
     #forsidetekst{
-        margin: 0%;
-        padding-right: 5%;
-       display: flex;
-        align-items: center; 
+        margin: 0%; /*Fjerner tidligere margen*/
+        padding-right: 5%; /*Tilføjer padding*/
+        display: flex; /*Placerer teksten i midten af skærmen*/
+        align-items: center; /*Placerer teksten i midten af skærmen*/
     }
     #forsideafsnit {
-        padding: 10%; 
+        padding: 10%; /*Padding rundt om hele afsnittet*/
     }
-
 }
 
+/*.....@MEDIA 1300PX.....*/
+
+@media (min-width:1300px) {
+    #forsidetekst{
+        font-size: 1.2em; /*Øger skriftsstørelsen*/
+    }
+}
+/*........FORSIDE SLUTTER..........*/
 
 
 
 
-/*..........OVERSIGT..........*/
+
+
+
+
+
+
+/*..........OVERSIGT STARTER..........*/
 
 .list-item {
     display: block; /*Får dem til at stå som en liste*/
@@ -247,8 +264,8 @@ body {
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
-    margin-left: 25px;
-    line-height: 30px; 
+    margin-left: 25px; /*Margen*/
+    line-height: 30px; /*Tekstens linjehøjde*/
 }
 
 .list-item:hover {
@@ -263,17 +280,22 @@ body {
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1.2em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
-    /*MARGIN*/
+    /*PADDING*/
     padding-top: 40px; 
 }
-/*..........OVERSIGT SLUT..........*/
+/*..........OVERSIGT SLUTTER..........*/
 
 
 
 
 
 
-/*OVERSKRIFT 2*/
+
+
+
+
+
+/*..........OVERSKRIFT 2 STARTER..........*/
 h2 {
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 500; /*Skriftens tykkelse*/
@@ -285,10 +307,17 @@ h2 {
     padding-bottom: 10px;
     padding-top: 40px;
 }
+/*..........OVERSKRIFT 2 SLUTTER..........*/
 
 
 
-/*OVERSKRIFT 3*/
+
+
+
+
+
+
+/*..........OVERSKRIFT 3 STARTER..........*/
 h3 {
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 500; /*Skriftens tykkelse*/
@@ -299,10 +328,18 @@ h3 {
     margin-left: 25px; 
     margin-top: 30px; 
 }
+/*..........OVERSKRIFT 3 SLUTTER..........*/
 
 
 
-/*BRØDTEKST*/
+
+
+
+
+
+
+
+/*..........BRØDTEKST STARTER..........*/
 section p {
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 400; /*Skriftens tykkelse*/
@@ -317,13 +354,22 @@ section p {
     
 }
 
-section p a {
-    word-wrap: break-word; 
+section p a { /*Links under "kilder"*/
+    word-wrap: break-word; /*Gør at linksne ikke udvider sidens bredde*/
 }
 
+/*..........BRØDTEKST SLUTTER..........*/
 
 
-/*LISTER*/
+
+
+
+
+
+
+
+
+/*..........LISTER..........*/
 .liste{
     list-style: none; /*Fjerner prikkerne*/
     font-family: apertura, sans-serif; /*Skrifttype*/
@@ -334,12 +380,19 @@ section p a {
     line-height: 25px; /*Linjehøjde*/
     margin-left: 25px; 
 }
+/*..........LISTER SLUTTER..........*/
 
 
 
 
 
-/*BILLEDER*/
+
+
+
+
+
+
+/*..........BILLEDER STARTER..........*/
 
 .billeder {
     box-shadow: 3px 0px 10px #484b54; /*Skygge*/
@@ -353,6 +406,11 @@ section p a {
     font-style: oblique; /*Kursiv skrift*/
     font-size: 0.9em; /*Skriftstørrelse*/
 }
+/*..........BILLEDER SLUTTER..........*/
+
+
+
+
 
 
 
@@ -369,7 +427,7 @@ table {
     font-size: 1em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
     border-collapse: collapse;
-    width: 90%; 
+    width: 90%; /*Bredde - 90%*/
     /*MARGIN*/
     margin-left: 25px;
     margin-top: 25px; 
@@ -383,7 +441,7 @@ td, th {
   padding: 10px; /*Luft omkring teksten i tabellen*/
 }
 
-/*........TABEL SLUT........*/
+/*........TABEL SLUTTER........*/
 
 
 
@@ -392,7 +450,10 @@ td, th {
 
 
 
-/*..........FOOTER..........*/
+
+
+
+/*..........FOOTER STARTER..........*/
 footer {
     text-align: right; /*placerer teksten til højre*/
     font-family: apertura, sans-serif; /*Skrifttype*/
@@ -405,6 +466,7 @@ footer {
     color: #f1f2f4; /*Skriftens farve - mørkegrå*/
 }
 
+/*..........FOOTER SLUTTER..........*/
 
 
 
