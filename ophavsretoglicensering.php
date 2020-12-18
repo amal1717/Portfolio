@@ -42,7 +42,7 @@
                             </nav>
                         </section>
                   
-                        <section id="">
+                        <section id="ophavsret">
                             <h2>Ophavsret</h2>
                             <p>Ophavsret, også kaldet copyright, markeres med mærket © og anvendes som rettighed i forbindelse med kunstneriske eller litterære værker, som f.eks. billeder, film, bøger osv., men også i forbindelse med edb-programmer. For at kunne opnå ophavsret skal ”værket” have en vis værkshøjde, som betyder at værket skal være frembragt af personen selv og have en vis form for originalitet. Når et værk opnår ophavsret, betyder det bl.a. at kunstneren har ret til betaling, når andre gør brug af værket og ret til selv at disponere værket (Systime , 2020) 
                                 <br><br>
@@ -52,7 +52,7 @@
                             Som multimediedesigner støder man ofte på copyright, bl.a. i forbindelse med hjemmesider, logoer, edb-programmer og lignende, så derfor skal man huske at være opmærksom på dette og undersøge det først inden man lige ”låner” noget, da der hurtigt kan opstå̊ en ophavsretskrænkelse. 
                             </p>
                             
-                            <h3>Ophavsret på de sociale medier</h3>
+                            <h3 id="socialemedier">Ophavsret på de sociale medier</h3>
                             <p>Der gælder de samme regler angående ophavsretten på de sociale medier som alle andre steder på nettet. Man må ikke dele musik, billeder, videoer eller lignende uden tilladelse fra rettighedshaveren, men man skal også være opmærksom på at mange af de sociale medier kræver en licens til at må bruge alt det materiale, som man lægger ud på din profil. 
                                 <br><br>
                             Der er ingen specifikke regler i ophavsretsloven angående linking, men i 2014 kom EU-domstolene frem til at det ikke er tilladt at linke materiale på internettet, hvis linket omgår restriktive foranstaltninger og på den måde giver en adgang, der ellers ikke var mulig (Kultur Ministeriet, 2020). 
@@ -60,7 +60,7 @@
                             
                         </section>
                     
-                        <section>
+                        <section id="licensaftaler">
                             <h2>Licensaftaler</h2>
                             <p>En licensaftale er en aftale mellem to parter, hvor licensgiver (indehaver af rettighed) giver licenstager (virksomhed eller privat) tilladelse til at bruge rettigheden mod licensafgift (betaling). Vilkårene i licensaftalen fastlægger hvordan licenstager må råde over rettigheden (Patent- og varemærkestyrelsen, 2020).</p>
                             
