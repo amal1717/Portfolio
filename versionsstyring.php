@@ -106,7 +106,7 @@
                         
                     </section>    
                     
-                    <section>
+                    <section id="begreber">
                             <table id="tabel">
                                   <tr>
                                     <th>Begreb</th>

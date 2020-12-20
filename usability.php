@@ -35,11 +35,11 @@
                                     <li><h2 id="oversigt">Oversigt:</h2></li>
                                     <li><a class="list-item" href="#usability">Usability</a></li>
                                     <li><a class="list-item" href="#gangstertest">Gangstertest</a></li>
-                                    <li><a class="list-item" href="#spørgeskema"></a>Spørgeskema</li>
+                                    <li><a class="list-item" href="#spørgeskema">Spørgeskema</a></li>
                                     <li><a class="list-item" href="#ekspertvurdering">Ekspertvurdering</a></li>
                                     <li><a class="list-item" href="#kortsortering">Kortsortering</a></li>
                                     <li><a class="list-item" href="#brugertest">Brugertest</a></li>
-                                    <li><a class="list-item" href="#tilgængelighedstest"></a>Tilgængelighedstest</li>
+                                    <li><a class="list-item" href="#tilgængelighedstest">Tilgængelighedstest</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                     <li><a class="list-item" href="#kilder">Kilder</a></li>
                                 </ul>

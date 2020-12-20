@@ -48,14 +48,14 @@
                             </p>
                             
                             <ul class="liste">
-                                <li>Fil-server</li>
-                                <li>Print-server</li>
-                                <li>Web-server</li>
-                                <li>FTP-server</li>
-                                <li>Mail-server</li>
-                                <li>Database-server</li>
-                                <li>SSH-server</li>
-                                <li>RDP-server</li>
+                                <li>- Fil-server</li>
+                                <li>- Print-server</li>
+                                <li>- Web-server</li>
+                                <li>- FTP-server</li>
+                                <li>- Mail-server</li>
+                                <li>- Database-server</li>
+                                <li>- SSH-server</li>
+                                <li>- RDP-server</li>
                             </ul>
                             
                                 <br>

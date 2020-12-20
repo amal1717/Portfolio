@@ -35,7 +35,7 @@
                                     <li><a class="list-item" href="#css">CSS</a></li>
                                     <li><a class="list-item" href="#kaskaderegler">Kaskaderegler</a></li>
                                     <li><a class="list-item" href="#farver">Farver</a></li>
-                                    <li><a class="list-item" href="#skriftformer">Skriftformer</a></li>
+                                    <li><a class="list-item" href="#skrifttyper">Skrifttyper</a></li>
                                     <li><a class="list-item" href="#css grid">CSS Grid</a></li>
                                     <li><a class="list-item" href="#layoutstrategier">Layoutstrategier</a></li>
                                     <li><a class="list-item" href="#layoutformer">Layoutformer</a></li>

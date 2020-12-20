@@ -162,8 +162,20 @@
                         <h2>Hey-You-See-So-modellen</h2>
                         <p>Man kan med fordel anvende Hey-You-See-So-modellen hvis man ønsker at påvirke modtagerens adfærd ved hjælp af call to action, så modtageren foretager en handling f.eks. at gå ind på en hjemmeside (Busch A. M., 2015).
                         </p>
-                         <br>
-                        <img class="billeder" src="Billeder/Tekstproduktion/Hey-you-see-so-modellen.png" alt="Billede af hey-you-see-so-modellen">
+                         
+                         <h3>Hey</h3>
+                         <p>Fang læserens opmærksomhed: Hey! Det er spændende, det her!</p>
+                         
+                         <h3>You</h3>
+                         <p>Gør det nærværende: Det er dig, læseren, det handler om!</p>
+                         
+                         <h3>See</h3>
+                         <p>Se konsekvenserne: Det betyder faktisk noget for dig!</p>
+
+                         <h3>So</h3>
+                         <p>Perspektiv og konklusion: Det fører til at....</p>
+                         
+                       
                     </section>
                     
                     <section id="brochure">
@@ -289,7 +301,7 @@
                     <section id="dødssynder">
                         <h2>21 sproglige dødssynder</h2>
                         
-                         <img class="billeder" src="Billeder/Tekstproduktion/21_sproglige_d%C3%B8dssynder.png" alt="21 sproglige dødssynder" style="width:70%">
+                         <img class="billeder" src="Billeder/Tekstproduktion/21_sproglige_doedssynder.png" alt="21 sproglige dødssynder">
                     </section>
                     
                     <section>

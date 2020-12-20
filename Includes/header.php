@@ -48,10 +48,10 @@
                             <a class="dropdown-item" href="">Grundlæggende kommunikation</a>
                             <a class="dropdown-item" href="empiri.php">Kvantitativ og kvalitativ empiri</a>
                             <a class="dropdown-item" href="praesentationsteknik.php">Præsentationsteknik</a>
-                            <a class="dropdown-item" href="">Usability</a>
+                            <a class="dropdown-item" href="usability.php">Usability</a>
                             <a class="dropdown-item" href="tekstproduktion.php">Tekstproduktion</a>
-                            <a class="dropdown-item" href="">Ophavsret og licensering</a>
-                            <a class="dropdown-item" href="">Business Model Canvas</a>
+                            <a class="dropdown-item" href="ophavsretoglicensiering.php">Ophavsret og licensiering</a>
+                            <a class="dropdown-item" href="bmc.php">Business Model Canvas</a>
                         </div>
                     </li>
                         
