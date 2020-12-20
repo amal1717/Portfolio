@@ -113,13 +113,19 @@
 
                                 <br>
                         
-                            <img class="billeder" id="selfservice" src="Billeder/BMC/BMC1.png" alt="Billede af Business Model Canvas">
+                            <img class="billeder" src="Billeder/BMC/BMC1.png" alt="Billede af Business Model Canvas">
                         
                                 <br><br><br>
                         
-                            <img class="billeder" id="selfservice" src="Billeder/BMC/BMC2.png" alt="Billede af Business Model Canvas">
+                            <img class="billeder" src="Billeder/BMC/BMC2.png" alt="Billede af Business Model Canvas">
                         
                             <p>(Andersen, Jensen, Olsen, Olsen, & Schmalz, Kapitel 3, 2015)</p>
+                        
+                            <br><br>
+                        
+                            <img class="billeder" src="Billeder/BMC/Business_Model_Canvas.png" alt="Eksempel på et Business Model Canvas">
+                        
+                            <p class="billedetekst">Eksempel på et Business Model Canvas for McDonalds</p>
                         
                             <br><br>
                             
