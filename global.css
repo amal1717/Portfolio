@@ -407,6 +407,8 @@ section p a { /*Links under "kilder"*/
     font-size: 0.9em; /*Skriftstørrelse*/
 }
 
+
+
 /*..........BILLEDER SLUTTER..........*/
 
 
@@ -442,12 +444,15 @@ td, th {
   padding: 10px; /*Luft omkring teksten i tabellen*/
 }
 
-/*........TABEL SLUTTER........*/
+/*..........TABEL SLUTTER..........*/
 
 
-.video-container {
-   
-}
+
+
+
+
+
+/*..........YOUTUBE VIDEOER STARTER..........*/
 
 .video-container{
     margin-left: 25px; 
@@ -464,6 +469,13 @@ td, th {
     width:100%;
     position:absolute;
 }
+
+/*..........YOUTUBE VIDEOER SLUTTER..........*/
+
+
+
+
+
 
 
 /*..........FOOTER STARTER..........*/
