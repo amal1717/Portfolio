@@ -58,9 +58,9 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Projekter</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="">Hackathon</a>
-                            <a class="dropdown-item" href="">HTML og CSS workshop</a>
-                            <a class="dropdown-item" href="">Design thinking (app)</a>
+                            <a class="dropdown-item" href="hackathon.php">Hackathon</a>
+                            <a class="dropdown-item" href="htmlogcssworkshop.php">HTML og CSS workshop</a>
+                            <a class="dropdown-item" href="designthinking.php">Design thinking (app)</a>
                             <a class="dropdown-item" href="">Peer-to-peer</a>
                             <a class="dropdown-item" href="">One page</a>
                             <a class="dropdown-item" href="">Læringsportfolio</a>
