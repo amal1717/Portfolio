@@ -37,7 +37,7 @@
                             <a class="dropdown-item" href="">Farver</a>
                             <a class="dropdown-item" href="">Typografi</a>
                             <a class="dropdown-item" href="">Kamerateknik</a>
-                            <a class="dropdown-item" href="">Informationsarkitektur</a>
+                            <a class="dropdown-item" href="informationsarkitektur.php">Informationsarkitektur</a>
                         </div>
                     </li>
                         
@@ -45,7 +45,7 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kommunikation</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="">Grundlæggende kommunikation</a>
+                            <a class="dropdown-item" href="grundlæggendekommunikation.php">Grundlæggende kommunikation</a>
                             <a class="dropdown-item" href="empiri.php">Kvantitativ og kvalitativ empiri</a>
                             <a class="dropdown-item" href="praesentationsteknik.php">Præsentationsteknik</a>
                             <a class="dropdown-item" href="usability.php">Usability</a>
