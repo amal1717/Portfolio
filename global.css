@@ -322,13 +322,36 @@ h3 {
     font-family: apertura, sans-serif; /*Skrifttype*/
     font-weight: 500; /*Skriftens tykkelse*/
     font-style: normal; /*Variant af skrifttype*/
-    font-size: 1.1em; /*Skriftstørrelse*/
+    font-size: 1.2em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
     /*MARGIN*/
     margin-left: 25px; 
     margin-top: 30px; 
 }
 /*..........OVERSKRIFT 3 SLUTTER..........*/
+
+
+
+
+
+
+
+
+
+
+/*..........OVERSKRIFT 4 STARTER..........*/
+h4 {
+    font-family: apertura, sans-serif; /*Skrifttype*/
+    font-weight: 500; /*Skriftens tykkelse*/
+    font-style: normal; /*Variant af skrifttype*/
+    font-size: 1em; /*Skriftstørrelse*/
+    color: #484b54; /*Skriftens farve - mørkegrå*/
+    /*MARGIN*/
+    margin-left: 25px; 
+    margin-top: 30px; 
+}
+/*..........OVERSKRIFT 4 SLUTTER..........*/
+
 
 
 
@@ -433,7 +456,7 @@ table {
     width: 90%; /*Bredde - 90%*/
     /*MARGIN*/
     margin-left: 25px;
-    margin-top: 25px; 
+    margin-top: 10px; 
     margin-right: 25px; 
     
 }

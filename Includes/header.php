@@ -45,7 +45,7 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kommunikation</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="grundlæggendekommunikation.php">Grundlæggende kommunikation</a>
+                            <a class="dropdown-item" href="kommunikation.php">Grundlæggende kommunikation</a>
                             <a class="dropdown-item" href="empiri.php">Kvantitativ og kvalitativ empiri</a>
                             <a class="dropdown-item" href="praesentationsteknik.php">Præsentationsteknik</a>
                             <a class="dropdown-item" href="usability.php">Usability</a>
