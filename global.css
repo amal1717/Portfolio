@@ -235,9 +235,12 @@ body {
     #forsideafsnit {
         padding: 10%; /*Padding rundt om hele afsnittet*/
     }
+    .adobelogo{
+        float: right; 
+    }
 }
 
-/*.....@MEDIA 00PX.....*/
+/*.....@MEDIA 1300PX.....*/
 
 @media (min-width:1300px) {
     #forsidetekst{
@@ -428,6 +431,12 @@ section p a { /*Links under "kilder"*/
 .billedetekst {
     font-style: oblique; /*Kursiv skrift*/
     font-size: 0.9em; /*Skriftstørrelse*/
+}
+
+.adobelogo {
+    margin-left: 25px; 
+    margin-right: 25px; 
+
 }
 
 
