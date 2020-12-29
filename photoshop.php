@@ -156,7 +156,7 @@
                             <h3>History brush tool </h3>
                             <p>Bruges til at fortryde eller tilføje et værktøj som tidligere er blevet brugt </p>
                             <img class="billeder" src="Billeder/Photoshop/historybrushtool.png" alt="History brush tool i Photoshop">
-                                <br>
+                                <br><br>
                             <p>(Offshore Clipping Path, 2020)</p>
                     
                        
@@ -167,7 +167,7 @@
                             <h2>Layers</h2>
                             <p>Når man arbejder i Photoshop, arbejder man samtidig i lag. Det betyder at de ændringer man foretager undervejs i billedredigeringen ligger i forskellige lag, som kan ses under ’layers’. Disse lag ligger i rækkefølge efter hvornår ændringerne er blevet foretaget, men det er muligt at ændre rækkefølgen på lagene ved at trække dem op eller ned, hvilket ofte kan være nødvendigt. Når man arbejder i Photoshop, er det vigtigt at man navngiver lagene så det giver mening i forhold til hvad lagene indeholder. Dette gør det lettere at holde styr på lagene og finde lagene når man skal bruge dem.
                                 <br><br>
-                            Man har mulighed for at gøre lagene usynlige ved at klikke på øjet til venstre for den enkelte lag, hvis man skal se hvordan billedet ser ud uden laget. Det er ikke altid at et lag indeholder noget konkret, da et lag også blot kan bestå af en lysstyrkejustering eller lignende. Derudover får man nogle forskellige muligheder, hvis man højreklikker på et lag imens laget er markeret f.eks. ’Delete layer’, ’Duplicate layer’, ’Blending options’ og ’Convert to Smart Object’. 
+                            Man har mulighed for at gøre lagene usynlige ved at klikke på øjet til venstre for den enkelte lag, hvis man skal se hvordan billedet ser ud uden laget. Det er ikke altid at et lag indeholder noget konkret, da et lag også blot kan bestå af en lysstyrkejustering eller lignende. Derudover får man nogle forskellige muligheder, hvis man højreklikker på et lag imens laget er markeret f.eks. ’Delete layer’, ’Duplicate layer’, ’Blending options’ og ’Convert to Smart Object’. Når man ændre noget i Photoshop foretages ændringen på det lag som er markeret, og derfor skal man være opmærksom på at vælge det rigtig lag når man skal ændre noget.  
                                 <br><br>
                             Hvis man har lavet et større projekt, vil filen ofte ende med at have mange lag, hvilket gør den endnu større. Derfor kan det være nødvendigt at samle billedet til ét lag ved hjælp af ’Flatten image’ muligheden inden man gemmer billedet som en PNG-fil eller lignende. Hvis det ikke er nok, kan man også ændre størrelsen på billedet under ’Image’ i menubaren og derefter ’Image size’. 
                             </p>
@@ -182,6 +182,14 @@
                             
                             <img class="billeder" src="Billeder/Photoshop/adjustments.png" alt="Adjustments i Photoshop">
                           
+                        </section>
+                    
+                        <section>
+                            <h2>Grafiske illustrationer</h2>
+                            <p>Overordnet set bruges Photoshop til at manipulere og redigere billeder, men programmet kan også bruges til at lave grafiske illustrationer. Dog anvender man oftest Illustrator til dette, fordi programmet har flere værktøjer beregnet til formålet i forhold til Photoshop. Derudover er Illustrator også vektorbaseret, hvilket betyder at kvaliteten bevares selvom grafikken skaleres op eller ned. </p>
+                            
+                            <img class="billeder" src="Billeder/Photoshop/anton.png" alt="Grafisk illustration i Photoshop">
+                        
                         </section>
                     
                     <section id="k3">
