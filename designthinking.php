@@ -32,7 +32,7 @@
                             <nav> 
                                 <ul>
                                     <li><h2 id="oversigt">Oversigt:</h2>
-                                    <li><a class="list-item" href="#projektet">Design Thinking projektet</a></li>
+                                    <li><a class="list-item" href="#projektet">Design Thinking</a></li>
                                     <li><a class="list-item" href="#videoafleveringer">Videoafleveringer</a></li>
                                       <li><a class="list-item" href="#designthinking">Design Thinking metoden</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
@@ -44,7 +44,7 @@
                     
                     <section id="projektet">
                         
-                            <h2>Design Thinking projektet</h2>
+                            <h2>Design Thinking</h2>
                         
                             <p>Dette projekt fokuserede på design thinking metoden og derfor var projektet opdelt i faser, hvor hver fase skulle gennemføres før næste fase måtte påbegyndes. Design thinking metoden består af fem faser, så derfor var projektet også opdelt i fem faser. Dog havde projektet også en sjette fase, implementering, som i dette tilfælde handlede om at "sælge" vores idé. Emnet for projektet var FN’s 17 verdensmål hvor vi ved hjælp af design thinking skulle finde en relevant problemstilling og derefter udvikle en idé til en app, som kunne bidrage til at løse denne problemstilling. I løbet af projektet skulle vi aflevere nogle forskellige videoer hvor vi bl.a. fortalte om hvordan vi havde grebet processen an, hvad vi fandt ud af og hvilket resultat vi var kommet frem til.</p>
                         
@@ -90,7 +90,7 @@
                                       
                     <section id="designthinking">
                         
-                            <h2>Design Thinking</h2>
+                            <h2>Design Thinking metoden</h2>
 
                             <p>Design thinking er en innovationsmetode som bidrager til at identificere de faktiske udfordringer samt brugernes reelle behov og ikke hvad man tror, de har behov for. Metoden hjælper nemlig med at identificere de rigtige spørgsmål, så man ikke går i gang med at udvikle et produkt der ikke løser den faktiske udfordring (Ditmer, 2020). Design thinking metoden består af fem faser, emphathize, define, ideate, prototype og test, som skal følges i samme rækkefølge for at der opnås et optimalt resultat.</p>
 

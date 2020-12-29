@@ -425,7 +425,7 @@ section p a { /*Links under "kilder"*/
     max-width: 90%; /*Maks bredde*/
     height: auto; /*Højde*/
     /*MARGIN*/
-    margin-left: 25px;
+    margin-left: 25px; 
 }
 
 .billedetekst {
@@ -433,11 +433,12 @@ section p a { /*Links under "kilder"*/
     font-size: 0.9em; /*Skriftstørrelse*/
 }
 
-.adobelogo {
-    margin-left: 25px; 
-    margin-right: 25px; 
-
+.andrebilleder {
+    padding-left: 25px; 
+    padding-right: 25px; 
 }
+
+
 
 
 
