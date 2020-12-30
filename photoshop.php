@@ -158,7 +158,8 @@
                             <img class="billeder" src="Billeder/Photoshop/historybrushtool.png" alt="History brush tool i Photoshop">
                                 <br><br>
                             <p>(Offshore Clipping Path, 2020)</p>
-                    
+                            
+                            <p><a href="https://www.photoshopessentials.com/basics/photoshop-tools-toolbar-overview/">Se beskrivelse af alle Photoshop værktøjer</a></p>
                        
                         </section>
                     

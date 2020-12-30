@@ -57,7 +57,9 @@
                     
                         <section id="tools">
                             <h2>Værktøjer</h2>
-                            <p></p>
+                            <p>Illustrator tilbyder mange forskellige værktøjer til udvikling af grafiske illustrationer  </p>
+                            
+                            <p><a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html">Se beskrivelse af alle Illustrator værktøjer</a></p>
                             
                             <h3></h3>
                             <p></p>
