@@ -55,6 +55,7 @@
                         
                         </section>
                     
+                    
                         <section id="tools">
                             <h2>Værktøjer</h2>
                             <p>Illustrator tilbyder mange forskellige værktøjer til udvikling af grafiske illustrationer  </p>
@@ -71,9 +72,14 @@
                         </section>
                     
                     
-                        <section id="">
-                            <h2></h2>
-                            <p>
+                        <section id="layers">
+                            <h2>Layers</h2>
+                            <p>Når man arbejder i Illustrator, arbejder man i lag. Det betyder at de ændringer man foretager i dokumentet, ligger i forskellige lag og kan ses under layers. Lagene ligger i rækkefølge efter hvornår ændringerne er blevet foretaget, men det er muligt at ændre rækkefølgen på lagene ved at trække dem op eller ned, hvilket ofte kan være nødvendigt. Derudover er det vigtigt at navngive lagene så det giver mening i forhold til hvad lagene indeholder. Dette gør det lettere at holde styr på lagene og finde lagene når man skal bruge dem. Man har også mulighed for at gøre lagene usynlige ved at klikke på øjet til venstre for lagene, hvis man skal se hvordan billedet ser ud uden.
+                                <br><br>
+                            Når man arbejder i Illustrator er det ikke nødvendigt at vælge det lag man vil foretage ændringer på under layers ligesom i Photoshop. I Illustrator vælger man blot ’Selection tool’ og klikker på det element man vil ændre og så skifter programmet selv lag under layers. Man kan derfor flytte på forskellige elementer uden at manuelt at skifte lag. 
+                                <br><br>
+                            Hvis man har lavet et større projekt, vil filen ofte ende med at have mange lag, hvilket gør den endnu større. Derfor kan det være nødvendigt at samle billedet til ét lag ved hjælp af ’Flatten artwork’ muligheden inden man gemmer dokumentet. 
+
                             </p>
                         </section>
                               
