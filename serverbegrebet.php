@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -98,8 +98,15 @@
                             
                             Østergaard, N. (11. september 2020). Internettets historie og serverbegrebet. Hentet fra Grundlæggende faglighed:
                             <a href="PDF_filer/Serverbegrebet.pdf">Serverbegrebet.pdf</a>
-                            <br><br> 
+                            
+                            <br><br>
+
+                            <a href="#top">Til toppen</a>
+
+                            <br><br>
+                                
                         </p>
+                        
                     </section>
 
                 </section> <!--MITGRID SLUTTER HER-->

@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -204,9 +204,14 @@
                         <h3>Internetkilder:</h3>
                         <p>
                             Gregersen, O., & Wisler-Poulsen, I. (2018). Kapitel 3 - 10. I Usability (s. 14-137). Taastrup: Wislers Forlag.
+                            
+                            <br><br>
+
+                            <a href="#top">Til toppen</a>
+
+                            <br><br>
+                                
                         </p>
-                        
-                        <br><br>
                         
                     </section>
 

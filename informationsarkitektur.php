@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -35,7 +35,8 @@
                                     <li><h2 id="oversigt">Oversigt:</h2></li>
                                     <li><a class="list-item" href="#informationsarkitektur">Informationsarkitektur</a></li>
                                     <li><a class="list-item" href="#organisering">Organisering af information</a></li>
-                                    <li><a class="list-item" href="#website">Website-strukturer</a></li>
+                                    <li><a class="list-item" href="#websitestrukturer">Website-strukturer</a></li>
+                                    <li><a class="list-item" href="#lego">Øvelse - Organisering af LEGO</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                     <li><a class="list-item" href="#kilder">Kilder</a></li>
                                 </ul>
@@ -97,18 +98,23 @@
                         </section>
                     
                     
-                        <section id="strukturer">
-                            <h2>Kortsortering</h2>
-                            <p>Kortsortering er en nem og enkel metode, som bruges til at evaluere hjemmesiders struktur og navigation. Det testes om brugerne forstår meningen med hjemmesidens menupunkter og den måde de er sammensat på. Det er nemlig vigtigt at teste om brugerne misforstår eller fejlfortolker de begreber som anvendes i forhold til hjemmesidens navigation, da det har stor betydning for brugervenligheden. Metoden går ud på at give testpersonerne nogle helt almindelige kort, hvor der f.eks. står ét menupunkt på hver kort. Disse kort skal testpersonerne opdele i grupper, så det giver mening i forhold til deres egen forståelse af ordene. Derfor er det vigtigt at testpersonerne repræsenterer målgruppen, for så har de kendskab til de forskellige begreber som bruges på hjemmesiden og på den måde opnås en mere præcis test (Gregersen & Wisler-Poulsen, 2018). 
-                                <br><br>
-                            Man kan både anvende kortsorteringsmetoden ved at give testpersonerne menuens overskrifter og bede dem placere kortene under den overskrift, de synes passer bedst til kortet. Man kan også give testpersonerne mulighed for at placere kortene i grupper uden overskrifter, og efterfølgende bede testpersonerne om at give hver gruppe en overskrift. Dog kan de som afholder testen også vælge selv at give de forskellige grupper overskrifter (Gregersen & Wisler-Poulsen, 2018). 
-                            </p>
-                                <br><br>
+                        <section id="websitestrukturer">
+                            <h2>Website-strukturer</h2>
+                            <p>Hjemmesider er bygget op via nogle grundlæggende strukturer og de mest anvendte er sekvens-, hierarki- og webstruktur (Busch A. , Kapitel 11 - Informationsarkitektur, 2015).</p>
                             
+                            <h3>Sekvensstrukturen</h3>
+                            <p>Sekvensstrukturen er den mest velkendte måde at organisere information på og den benyttes ofte til trykte materialer f.eks. magasiner, da der er tale om en lineær struktur. Derudover benyttes den også ofte ved bookinger og køb, hvor brugerne kun har mulighed for at trykke ”fortsæt” eller ”tilbage”, hvilket giver fuld kontrol over rækkefølgen (Busch A. , Kapitel 11 - Informationsarkitektur, 2015). </p>
+                            
+                            <h3>Hierarkistrukturen</h3>
+                            <p>Hierarkistrukturen er den mest anvendte på hjemmesider, da den er specielt velegnet til at organisere komplekse informationer. Strukturen indeholder en global navigation og derfor er det vigtigt at informationen, som hjemmesiden skal indeholde, er velorganiseret. Den mest simple hierarkistruktur er formet som en stjerne hvor forsiden, som er centrum, giver mulighed for at besøge de andre sider. En mere kompleks udgave af strukturen indeholder flere lag og dermed flere undersider (Busch A. , Kapitel 11 - Informationsarkitektur, 2015). </p>
+                            
+                            <h3>Webstrukturen</h3>
+                            <p>Webstrukturen er kendetegnet ved at brugeren har rig mulighed for bevægelse på hjemmesiden både via interne og eksterne links. Strukturen gør det altså muligt for brugeren at følge sine indfald og frit udforske internettet, men det kan samtidig virke forvirrende for brugeren. Denne struktur bruges derfor forholdsvis sjældent til almindelige hjemmesider, men er meget populære til spil, da der er fokus på oplevelse (Busch A. , Kapitel 11 - Informationsarkitektur, 2015).</p>
+                            
+                                <br><br>
                             <div>
                                 <img class="billeder" src="Billeder/Informationsarkitektur/forskellige-strukturer.jpg" alt="De forskellige strukturer til hjemmesider">
                             </div>
-                            
                                 <br><br>
                             
                             <p>I praksis anvendes disse forskellige strukturer dog ofte sammen. Hierarkistrukturen danner hjemmesidens grundlag, sekvensstrukturen anvendes i forbindelse med transaktioner og webstrukturen gør det muligt at besøge de forskellige sider i informationsarkitekturen (Busch A. , Kapitel 11 - Informationsarkitektur, 2015).</p>
@@ -130,6 +136,35 @@
 
                         </section>
                     
+                    <section id="lego">
+                        <h2>Øvelse - Organisering af LEGO</h2>
+                        
+                        <img class="billeder" src="Billeder/Informationsarkitektur/farver.png" alt="Informationsarkitektur - organisering efter farve">
+                        <p class="billedetekst">Organisering efter farve</p>
+                        
+                            <br><br>
+                        
+                        <img class="billeder" src="Billeder/Informationsarkitektur/Former_figurer.png" alt="Informationsarkitektur - organisering efter former/figurer">
+                        <p class="billedetekst">Organisering efter ens former</p>
+                        
+                            <br><br>
+                        
+                        <img class="billeder" src="Billeder/Informationsarkitektur/lignendeformer.png" alt="Informationsarkitektur - organisering efter former/figurer">
+                        <p class="billedetekst">Organisering efter lignende former</p>
+                        
+                            <br><br>
+                        
+                        <img class="billeder" src="Billeder/Informationsarkitektur/nuancer.png" alt="Informationsarkitektur - organisering efter nuancer">
+                        <p class="billedetekst">Organisering efter nuancer</p>
+                        
+                            <br><br>
+                        
+                        <img class="billeder" src="Billeder/Informationsarkitektur/size.png" alt="Informationsarkitektur - organisering efter størrelse">
+                        <p class="billedetekst">Organisering efter størrelse</p>
+                        
+                    
+                    </section>
+                    
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
@@ -146,9 +181,16 @@
                         
                         <h3>Bøger:</h3>
                         
-                        <p>Busch, A. (2015). Kapitel 11 - Informationsarkitektur. I Kommunikation i multimediedesign (s. 165-182). Hans Reitzels Forlag.</p>
+                        <p>
+                            Busch, A. (2015). Kapitel 11 - Informationsarkitektur. I Kommunikation i multimediedesign (s. 165-182). Hans Reitzels Forlag.
                         
-                        <br><br>
+                            <br><br>
+                        
+                            <a href="#top">Til toppen</a>
+                            
+                            <br><br>
+                            
+                        </p>
                         
                     </section>
 

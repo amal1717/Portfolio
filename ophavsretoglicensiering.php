@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -106,9 +106,13 @@
                             Kultur Ministeriet. (6. oktober 2020). Ophavsret på internettet. Hentet fra kum.dk: <a href="https://kum.dk/kulturomraader/ophavsret/ophavsret-paa-internettet">https://kum.dk/kulturomraader/ophavsret/ophavsret-paa-internettet</a>
                                 <br><br>
                             Hvad er Creative Commons? (3. november 2020). Hentet fra medierforalle.skoleblogs.dk: <a href="https://medierforalle.skoleblogs.dk/hvad-er-creative-commons">https://medierforalle.skoleblogs.dk/hvad-er-creative-commons</a>
-                        </p>
+                            
+                            <br><br>
                         
-                        <br><br>
+                            <a href="#top">Til toppen</a>
+                            
+                            <br><br>
+                        </p>
                         
                     </section>
 

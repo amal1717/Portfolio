@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -146,10 +146,14 @@
                             
                             skivefesival.dk. (2. september 2020). Hentet fra skivefestival.dk: <a href="https://skivefestival.dk">https://skivefestival.dk</a>
                             
+                            <br><br> 
+                            
+                            <a href="#top" >Til toppen</a>
+                            
+                            <br><br> 
+                            
                         </p>
                          
-                            <br><br> 
-                       
                     </section>
 
                 </section> <!--MITGRID SLUTTER HER-->

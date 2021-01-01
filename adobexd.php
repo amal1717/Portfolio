@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -125,10 +125,14 @@
                         <h3>Internetkilder:</h3>
                         <p>
                             Reininger, L. (17. januar 2020). Hvad kan Adobe XD? Her får du en gennegang af programmet. Hentet fra blog.softworld.dk: <a href="https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator">https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator</a>
-                        </p>
-                    
+                            
+                            <br><br>
                         
-                        <br><br>
+                        <a href="#top" >Til toppen</a>
+                            
+                        </p>
+                        
+                            <br><br>
                         
                     </section>
 

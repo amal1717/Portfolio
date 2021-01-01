@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -86,8 +86,11 @@
                             
                             Pexels. (28. oktober 2020). Hentet fra pexels.com: <a href="https://www.pexels.com/da-dk/">https://www.pexels.com/da-dk/</a>
                             
-                                <br><br>
+                            <br><br>
+                        
+                            <a href="#top">Til toppen</a>
                             
+                            <br><br>
                         </p>
                        
                     </section>

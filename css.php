@@ -19,7 +19,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -386,7 +386,12 @@
                             Østergaard, N. (14. september 2020). Intro til CSS. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/Intro_til_CSS.pdf">Intro til CSS.pdf</a>
                             <br><br>
                             Østergaard, N. (9. december 2020). Responsive design + CSS Grid. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/CSS_grid.pdf">CSS Grid.pdf</a> og <a href="PDF_filer/Responsiv_design.pdf">Responsiv design.pdf</a>
-                            <br><br>
+                            
+                            <br><br> 
+                          
+                            <a href="#top" >Til toppen</a>
+                            
+                            <br><br> 
                         </p>
                         
                     </section>

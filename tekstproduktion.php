@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -321,11 +321,19 @@
                             Friis, N. (2015). Kapitel 5. I H.-C. Christiansen, & G. B. Rose, Sprog og formidling (s. 186-222). Hans Reitzels Forlag. <a href="PDF_filer/Online%20kommunikation_kap_5.pdf">Online kommunikation - kapitel 5.pdf</a>
                         </p>
                     
-                         <h3>Bøger:</h3>
+                        <h3>Bøger:</h3>
                         
-                        <p>Busch, A. M. (2015). Kapitel 17 - Tekstproduktion. I Kommunikation i multimediedesign (s. 235-252). Hans Reitzels Forlag.</p>
+                            <p>
+                                Busch, A. M. (2015). Kapitel 17 - Tekstproduktion. I Kommunikation i multimediedesign (s. 235-252). Hans Reitzels Forlag.
+                                
+                                <br><br>
+
+                                <a href="#top">Til toppen</a>
+
+                                <br><br>
+                                
+                            </p>
                         
-                        <br><br>
                     </section>
 
                 </section> <!--MITGRID SLUTTER HER-->

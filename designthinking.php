@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -169,8 +169,11 @@
                             
                             Hackathon. (2. september 2020). Hentet fra Sommerstart 2020: <a href="https://eadania.mrooms.net/course/view.php?id=2216#section-10">https://eadania.mrooms.net/course/view.php?id=2216#section-10</a>
                             
-                                <br><br>
+                            <br><br>
                             
+                            <a href="#top" >Til toppen</a>
+                            
+                            <br><br>
                         </p>
                        
                     </section>

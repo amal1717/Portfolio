@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -145,11 +145,19 @@
                                 Schmith, M. (23. september 2020). Præsentationsteknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/praesentationsteknik.pdf">Præsentationsteknik.pdf</a>
                             </p>
                             
-                            <h3>Bøger:</h3>
+                        <h3>Bøger:</h3>
                             
-                                <p>Busch, A. (2015). Kapitel 22 . I Kommunikation i multimediedesign (s. 315-330). Hans Reitzels Forlag.</p>
-                            
+                            <p>
+                                Busch, A. (2015). Kapitel 22 . I Kommunikation i multimediedesign (s. 315-330). Hans Reitzels Forlag.
+                                    
                                 <br><br>
+
+                                <a href="#top">Til toppen</a>
+
+                                <br><br>
+                                
+                            </p>
+                        
                     </section>
 
                 </section> <!--MITGRID SLUTTER HER-->

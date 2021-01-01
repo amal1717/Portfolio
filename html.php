@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -302,6 +302,10 @@
 
                             Østergaard, N. (10. september 2020). Grundlæggende faglighed - Introduktion til HTML. Hentet fra eadania.mrooms.net: <a href="PDF_filer/Intro_til_HTML.pdf">Intro til HTML.pdf</a>
 
+                            <br><br> 
+                            
+                            <a href="#top">Til toppen</a>
+                            
                             <br><br> 
                         </p>
                     </section>

@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -127,8 +127,11 @@
                         <p>
                             MMD 2020-2022 One Page projekt - 1. semester. (9. november 2020). Hentet fra eadania.mrooms.net: <a href="https://eadania.mrooms.net/course/view.php?id=2753">https://eadania.mrooms.net/course/view.php?id=2753</a>
                             
-                                <br><br>
+                            <br><br>
+                        
+                            <a href="#top">Til toppen</a>
                             
+                            <br><br>
                         </p>
                        
                     </section>

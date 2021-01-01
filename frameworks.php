@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -32,7 +32,7 @@
                         <nav> 
                             <ul>
                                 <li><h2 id="oversigt">Oversigt:</h2>
-                                <li><a class="list-item" href="#framework">Frameworks</a></li>
+                                <li><a class="list-item" href="#frameworks">Frameworks</a></li>
                                 <li><a class="list-item" href="#bootstrap">Bootstrap</a></li>
                                 <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                 <li><a class="list-item" href="#kilder">Kilder</a></li>
@@ -42,8 +42,8 @@
                     </section>
                     
                   
-                        <section id="framework">
-                            <h2>Framework</h2>
+                        <section id="frameworks">
+                            <h2>Frameworks</h2>
                             <p>Frameworks er færdiggjorte standardiserede kodeelementer, som man kan anvende for ikke at starte forfra og kode elementerne selv. Det kan f.eks. være en menu, en billedkarrusel, en brødkrummesti osv. De bruges altså til at opbygge hjemmesiders layout og funktionalitet. Fordelene ved frameworks er at man ofte sparer en del tid, idet man ikke selv skal kode elementerne. Derudover får man let mange funktioner, da de er lige til at sætte ind og samtidig er det også meget brugervenligt. Dog kan det nogle gange være vanskeligt at ændre på visse funktionerne og designs, og på grund af det kan det være svært at ændre elementerne til unikke designs. Derfor er det en god ide at bruge tid på at sætte sig ind i koden når man anvender frameworks (Østergaard, Serverside Scripting + frameworks, 2020). 
                                 <br><br>
                             Man kan enten anvende frameworks som er hostet i skyen eller som en lokal installation. Hvis frameworks hostets i skyen, linker man til nogle filer som ligger på en server. Derfor afhænger hjemmesiden af driftsstabiliteten og hastigheden hos den virksomhed som tilbyder disse frameworks. Der er heller ingen garanti for at alle frameworks vises på alle computere og man kan heller ikke være helt sikker på at frameworks koderne ikke bliver hacket. Derfor angiver man automatisk en del af kontrollen når man anvender frameworks. Derimod afgiver man ikke kontrol hvis man anvender frameworks via en lokal installation, idet man downloader alle filerne og integrer dem i ens egne filer (Østergaard, Serverside Scripting + frameworks, 2020). </p>
@@ -108,7 +108,13 @@
                             Østergaard, N. (19. oktober 2020). Serverside Scripting + frameworks. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/frameworks.pdf">Framework.pdf</a>
                             
                             <br><br> 
+                            
+                            <a href="#top" >Til toppen</a>
+                            
+                            <br><br> 
+                            
                         </p>
+                        
                     </section>
 
                 </section> <!--MITGRID SLUTTER HER-->

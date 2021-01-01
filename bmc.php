@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -177,9 +177,14 @@
                                  <br><br>
                         
                             Andersen, F. R., Jensen, B. W., Olsen, M. R., Olsen, S. Ø., & Schmalz, P. (2015). Kapitel 3. I International markedsføring (s. 64-67). København: Trojka.
-                        </p>
+                            
+                            <br><br> 
+                          
+                            <a href="#top" >Til toppen</a>
                          
                             <br><br> 
+                            
+                        </p>
                        
                     </section>
 

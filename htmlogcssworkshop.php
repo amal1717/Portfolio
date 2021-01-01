@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -132,10 +132,18 @@
                     <section>
                         <h2 id="kilder">Kilder</h2>
                       
-                        <p><a href="http://10743.apache.eadania.dk/HTML%20Forms/ExtraInfo/Index.html">Kilder vi brugte til at lave HTML og CSS workshop hjemmesiden med</a></p>
+                        <p>
+                            
+                            <a href="http://10743.apache.eadania.dk/HTML%20Forms/ExtraInfo/Index.html">Kilder vi brugte til at lave HTML og CSS workshop hjemmesiden med</a>
                          
                             <br><br> 
-                       
+                            
+                            <a href="#top">Til toppen</a>
+                            
+                            <br><br> 
+                            
+                        </p>
+                        
                     </section>
 
                 </section> <!--MITGRID SLUTTER HER-->

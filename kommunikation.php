@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -243,11 +243,17 @@
                         
                         </p>
                         
-                        <h3>Bøger:</h3>
-                        
-                        <p>Busch, A. (2015). Kapitel 11 - Informationsarkitektur. I Kommunikation i multimediedesign (s. 165-182). Hans Reitzels Forlag.</p>
-                        
-                        <br><br>
+                            <h3>Bøger:</h3>
+
+                            <p>Busch, A. (2015). Kapitel 11 - Informationsarkitektur. I Kommunikation i multimediedesign (s. 165-182). Hans Reitzels Forlag.
+
+                            <br><br>
+
+                            <a href="#top">Til toppen</a>
+
+                            <br><br>
+                            
+                        </p>
                         
                     </section>
 

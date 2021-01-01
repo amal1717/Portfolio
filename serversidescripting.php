@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -92,8 +92,14 @@
                             
                             Østergaard, N. (oktober. 19 2020). Serverside scripting. Hentet fra Grundlæggende faglighed - Serverside scripting + Frameworks: <a href="PDF_filer/serverside_scripting.pdf">Serverside Scripting.pdf</a>
                             
-                            <br><br> 
+                            <br><br>
+
+                            <a href="#top">Til toppen</a>
+
+                            <br><br>
+                                
                         </p>
+                        
                     </section>
 
                 </section> <!--MITGRID SLUTTER HER-->

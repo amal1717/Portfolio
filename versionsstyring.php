@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -166,9 +166,15 @@
                             <br><br>
                             
                             Østergaard, N. (21. september 2020). Versionsstyring. Hentet fra Grundlæggende faglighed : <a href="PDF_filer/versionsstyring.pdf">Versionsstyring.pdf</a>
+                            
+                            <br><br>
 
-                            <br><br> 
+                            <a href="#top">Til toppen</a>
+
+                            <br><br>
+                                
                         </p>
+                        
                     </section>
 
                 </section> <!--MITGRID SLUTTER HER-->

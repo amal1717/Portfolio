@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -190,6 +190,10 @@
                             <br><br>
                             
                         Busch, A. (2015). Kapitel 6. I Kommunikation i multimediedesign (s. 83-102). Hans Reitzels Forlag
+                            
+                            <br><br>
+                            
+                            <a href="#top" >Til toppen</a>
                             
                             <br><br>
                             

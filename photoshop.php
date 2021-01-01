@@ -20,7 +20,7 @@
     
     <body>
         
-        <header class="header">
+        <header class="header" id="top">
                 
        <?php include('includes/header.php'); ?> <!--Inkluderer menuen-->
             
@@ -37,6 +37,7 @@
                                     <li><a class="list-item" href="#tools">Værktøjer</a></li>
                                     <li><a class="list-item" href="#layers">Layers</a></li>
                                     <li><a class="list-item" href="#adjustments">Adjustments</a></li>
+                                    <li><a class="list-item" href="#illustrationer">Grafiske illustrationer</a></li>
                                     <li><a class="list-item" href="#k3">K3 Photoshop projekter</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                     <li><a class="list-item" href="#kilder">Kilder</a></li>
@@ -185,7 +186,7 @@
                           
                         </section>
                     
-                        <section>
+                        <section id="illustrationer">
                             <h2>Grafiske illustrationer</h2>
                             <p>Overordnet set bruges Photoshop til at manipulere og redigere billeder, men programmet kan også bruges til at lave grafiske illustrationer. Dog anvender man oftest Illustrator til dette, fordi programmet har flere værktøjer beregnet til formålet i forhold til Photoshop. Derudover er Illustrator også vektorbaseret, hvilket betyder at kvaliteten bevares selvom grafikken skaleres op eller ned. </p>
                             
@@ -221,9 +222,13 @@
                             Historien om Adobe Photoshop. (28. december 2020). Hentet fra Computer viden: <a href="http://www.computerdk.com/software/photoshop/152270.html">http://www.computerdk.com/software/photoshop/152270.html</a>
                                  <br><br>
                             Offshore Clipping Path. (21. december 2020). Hentet fra Photoshop Toolbar and Tools: <a href="https://www.offshoreclippingpath.com/photoshop-cc-toolbar-tools/">https://www.offshoreclippingpath.com/photoshop-cc-toolbar-tools/</a>
-                        </p>
+                            
+                            <br><br>
                         
-                        <br><br>
+                            <a href="#top">Til toppen</a>
+                            
+                            <br><br>
+                        </p>
                         
                     </section>
 

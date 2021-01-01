@@ -440,23 +440,6 @@ section p a { /*Links under "kilder"*/
     margin-left: 25px;
 }
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-
-
-
 /*..........BILLEDER SLUTTER..........*/
 
 
@@ -488,9 +471,9 @@ table {
 
 
 td, th {
-  border: 1px solid #484b54; /*Selve tabellen*/
-  text-align: left; /*Venstre kant*/
-  padding: 10px; /*Luft omkring teksten i tabellen*/
+    border: 1px solid #484b54; /*Selve tabellen*/
+    text-align: left; /*Venstre kant*/
+    padding: 10px; /*Luft omkring teksten i tabellen*/
 }
 
 /*..........TABEL SLUTTER..........*/
