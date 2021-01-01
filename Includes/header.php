@@ -29,10 +29,10 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Design</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="">Illustrator</a>
-                            <a class="dropdown-item" href="">Photoshop</a>
-                            <a class="dropdown-item" href="">Adobe XD</a>
-                            <a class="dropdown-item" href="">Premiere Rush</a>
+                            <a class="dropdown-item" href="illustrator.php">Illustrator</a>
+                            <a class="dropdown-item" href="photoshop.php">Photoshop</a>
+                            <a class="dropdown-item" href="adobexd.php">Adobe XD</a>
+                            <a class="dropdown-item" href="premiererush.php">Premiere Rush</a>
                             <a class="dropdown-item" href="">Gestaltlovene</a>
                             <a class="dropdown-item" href="">Farver</a>
                             <a class="dropdown-item" href="">Typografi</a>
@@ -61,8 +61,8 @@
                             <a class="dropdown-item" href="hackathon.php">Hackathon</a>
                             <a class="dropdown-item" href="htmlogcssworkshop.php">HTML og CSS workshop</a>
                             <a class="dropdown-item" href="designthinking.php">Design thinking (app)</a>
-                            <a class="dropdown-item" href="">Peer-to-peer</a>
-                            <a class="dropdown-item" href="">One page</a>
+                            <a class="dropdown-item" href="peertopeer.php">Peer-to-peer</a>
+                            <a class="dropdown-item" href="onepage.php">One page</a>
                             <a class="dropdown-item" href="">Læringsportfolio</a>
                         </div>
                     </li>
