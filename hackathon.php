@@ -86,14 +86,13 @@
                         
                         <h2>Billeder af prototypen</h2>
                         
-                            <br>
-                        
-                        <img class="billeder" src="Billeder/Hackathon/hackathon1.png" alt="Prototype af design thinking projekt - Skive festival">
-                        
-                            <br><br><br>
-                        
-                        <img class="billeder" src="Billeder/Hackathon/hackathon2.png" alt="Prototype af design thinking projekt - Skive festival">
-                        
+                            <img class="billeder" src="Billeder/Hackathon/Hackathon1.png" alt="Prototype af design thinking projekt - Skive festival">
+                          
+                            
+                                <br><br><br>
+                            
+                            <img class="billeder" src="Billeder/Hackathon/Hackathon2.png" alt="Prototype af design thinking projekt - Skive festival">
+                          
                     </section>
                     
                    

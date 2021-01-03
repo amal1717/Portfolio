@@ -125,7 +125,17 @@
                             </p>
                             
                         </section>
+                        
+                        <section>
+                            <h2>Nonverbal kommunikation</h2>
+                            <p>Den nonverbale kommunikation er alt afgørende i forhold til vores bedømmelse af andre mennesker. Undersøgelser har vist, at kun omkring 7% af det indtryk vi får af andre mennesker, kommer fra den verbale kommunikation. Det er derfor meget vigtigt at man tænker over den nonverbale kommunikation når man skal præsentere noget. Nonverbal kommunikation omfatter bl.a. stemmeleje, ansigtsudtryk, påklædning osv., men den mest betydningsfulde er kropssprog, som både kan være passivt eller aktivt. Et aktivt kropssprog er energisk og harmonisk og signalerer at man er til stede i rummet, hvor et passivt kropssprog er det modsatte. Derfor er det en god ide at have et aktivt kropssprog under en præsentation. Derudover er det vigtigt at der er en overensstemmelse mellem det man siger og det man udtrykker, for at styrke ens troværdighed (Hald, 2008). 
                             
+                                <br><br>
+                                
+                            <a href="pdf_filer/kropssprog.pdf">Læs mere om kropssprog</a>
+                            </p>
+                            
+                        </section>
                  
     
                     <section>
@@ -149,6 +159,8 @@
                             
                             <p>
                                 Busch, A. (2015). Kapitel 22 . I Kommunikation i multimediedesign (s. 315-330). Hans Reitzels Forlag.
+                                <br><br>
+                                Hald, M. (2008). Kapitel 4 - Kropssprog - Nonverbal kommunikation. I Præsentation og formidling (s. 45-52). København: Hans Reitzels Forlag. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/kropssprog.pdf">Kropssprog.pdf</a>
                                     
                                 <br><br>
 
