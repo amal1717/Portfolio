@@ -48,57 +48,54 @@
                   
                         <section id="css">
                             <h2>CSS</h2>
-                            <p>CSS står for Cascading Style Sheets og er et programmeringssprog, som bruges til style hjemmesider. Det er altså ved hjælp af CSS at man kan ændre på hjemmesiders udseende, f.eks. farver, typografi, layout osv. For at anvende CSS skal man først oprette et HTML-dokument, hvor man koder hjemmesidens indhold. Bagefter kan man vælge at skrive den pågældende CSS i samme dokument eller i et eksternt dokument. Hvis man skriver det i samme dokument, gælder reglerne kun for netop dét dokument, men hvis man vælger et eksternt dokument, kan CSS-dokumentet anvendes i mange HTML-dokumenter og derved sikre mere ensartethed. Hvis man vælger denne løsning, skal man oprette et CSS-dokument. Her skal man referere til det indhold man vil style i HTML-dokumentet. Man forbinder et CSS-dokument til et HTML-dokument ved at linke til det pågældende ”StyleSheet” øverst i HTML-dokumentet, under tagget &#60;head&#62;, og derudover skal man være opmærksom at begge filer skal placeres i samme mappe når dokumenterne gemmes (Østergaard, Intro til CSS, 2020).
+                            <p>CSS står for Cascading Style Sheets og er et programmeringssprog, som bruges til style hjemmesider. Det er altså ved hjælp af CSS at man kan ændre på hjemmesiders udseende, f.eks. farver, typografi, layout osv. For at anvende CSS skal man først oprette et HTML-dokument, hvor man koder hjemmesidens indhold. Bagefter kan man vælge at skrive den pågældende CSS i samme dokument eller i et eksternt dokument. Hvis man skriver det i samme dokument, gælder reglerne kun for netop dét dokument, men hvis man vælger et eksternt dokument, kan CSS-dokumentet anvendes i mange HTML-dokumenter og derved sikre mere ensartethed. Hvis man vælger denne løsning, skal man oprette et CSS-dokument. Her skal man referere til det indhold man vil style i HTML-dokumentet. Man forbinder et CSS-dokument til et HTML-dokument ved at linke til det pågældende ”StyleSheet” øverst i HTML-dokumentet, under tagget &#60;head&#62;, og derudover skal man være opmærksom at begge filer skal placeres i samme mappe når dokumenterne gemmes (Østergaard, Intro til CSS, 2020. 
                             </p>
                             
-                            <div>
-                                 <img class="billeder" src="Billeder/CSS/Eksempel_stylesheet.png" alt="Eksempel på indsætning af stylesheet" style="height:50px;">  
-                                 <p class="billedetekst">Eksempel på hvordan man linker til et StyleSheet</p>
-                            </div>
+                            <img class="billeder" src="Billeder/CSS/Eksempel_stylesheet.png" alt="Eksempel på indsætning af stylesheet" style="height:50px;">  
+                           
+                                <br><br><br>
                             
-                                <br>
+                            <p>Når man skal skrive CSS, skal man følge denne model: </p>
                             
-                                <p>Når man skal skrive CSS, skal man følge denne model: </p>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/CSS/Saadan_skriver_man_CSS.png" alt="Sådan skriver man CSS" style="height:200px;">  
-                            </div>
+                            <img class="billeder" src="Billeder/CSS/Saadan_skriver_man_CSS.png" alt="Sådan skriver man CSS" style="height:200px;">  
+                            <p>(Østergaard, Intro til CSS, 2020)</p>
                             
                                 <br>
                                 
                             <p>Først skal man vælge den selector der skal styles, altså udpege hvad der skal styles i HTML-dokumentet. Det gør man ved at vælge en af følgende selectors: </p>
                             
                             <table id="tabel">
-                              <tr>
-                                <th>Selectors</th>
-                                <th>Eksempel</th>
-                              </tr>
-                              <tr>
-                                <td>Et almindelig tag</td>
-                                <td>body</td>
-                              </tr>
-                              <tr>
-                                <td>Et id</td>
-                                <td>#logo</td>
-                              </tr>
-                              <tr>
-                                <td>En class</td>
-                                <td>.billeder</td>
-                              </tr>
-                              <tr>
-                                <td>En efterkommer</td>
-                                <td>nav ul li a</td>
-                              </tr>
-                              <tr>
-                                <td>En pseudo-class</td>
-                                <td>a:hover</td>
-                              </tr>
+                                  <tr>
+                                    <th>Selectors</th>
+                                    <th>Eksempel</th>
+                                  </tr>
+                                  <tr>
+                                    <td>Et almindelig tag</td>
+                                    <td>body</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Et id</td>
+                                    <td>#logo</td>
+                                  </tr>
+                                  <tr>
+                                    <td>En class</td>
+                                    <td>.billeder</td>
+                                  </tr>
+                                  <tr>
+                                    <td>En efterkommer</td>
+                                    <td>nav ul li a</td>
+                                  </tr>
+                                  <tr>
+                                    <td>En pseudo-class</td>
+                                    <td>a:hover</td>
+                                  </tr>
                             </table>
+                            
+                            <p>(Østergaard, Intro til CSS, 2020)</p>
                             
                                 <br>
                             
                             <p>Derefter indsætter man en krøllet parentes og skriver hvilken egenskab der skal ændres (property) f.eks. background-color, font-family osv. Efterfølgende indsætter man et kolon og skriver hvad egenskaben skal ændres til (value) f.eks. yellow, sans-serif osv. Til sidst slutter af med et semikolon og en krøllet parentes (Østergaard, Intro til CSS, 2020). </p>
-                    
                     
                     
                         <table id="tabel">
@@ -136,18 +133,16 @@
                               </tr>
                         </table>
                         
-                        <p class="billedetekst">Eksempler på properties og values (Østergaard, Intro til CSS, 2020)</p>
+                        <p>(
+                            Østergaard, Intro til CSS, 2020)
                             
-                            <br>
-                        
-                        <p>Se alle CSS properties her: <a href="https://www.w3schools.com/cssref/default.asp">https://www.w3schools.com/cssref/default.asp</a> </p>
+                            <br><br>
                             
-                            <br>
+                            <a href="https://www.w3schools.com/cssref/default.asp">Se alle CSS properties</a>
+                        </p>
                             
-                        <div>
-                            <img class="billeder" src="Billeder/CSS/eksempel_CSS.png" alt="Eksempel på CSS" style="height:300px;">  
-                            <p class="billedetekst">Eksempel på CSS</p>
-                        </div>
+                        <h4>Eksempel på CSS</h4>
+                        <img class="billeder" src="Billeder/CSS/eksempel_css.png" alt="Eksempel på CSS">  
                     
                     </section>
                     
@@ -165,7 +160,8 @@
                         
                             <br>
                         
-                        <img class="billeder" src="Billeder/CSS/Farver_CSS.png" alt="Farver i CSS">  
+                        <img class="billeder" src="Billeder/CSS/Farver_CSS.png" alt="Farver i CSS"> 
+                        <p>(CSS Colors, 2020)</p>
                         
                     </section>
                     
@@ -179,10 +175,12 @@
                             <br>
                         
                         <img class="billeder" src="Billeder/CSS/Adobe_Fonts1.png" alt="Billede af det tegn man skal klikke på når man har valgt en Adobe font">  
+                        <p>(Adobe Fonts, 2021)</p>
                         
                             <br><br>
                         
-                        <img class="billeder" src="Billeder/CSS/Adobe_Fonts2.png" alt="Billede af det man skal indsætte fra Adobe Fonts">  
+                        <img class="billeder" src="Billeder/CSS/Adobe_Fonts2.png" alt="Billede af det man skal indsætte fra Adobe Fonts">
+                        <p>(Adobe Fonts, 2021)</p>
                         
                     </section>
                     
@@ -386,6 +384,8 @@
                             CSS grid-column-start Porperty. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-column-start.asp">https://www.w3schools.com/cssref/pr_grid-column-start.asp</a>
                             <br><br>
                             CSS grid-row-end Property. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-row-end.asp">https://www.w3schools.com/cssref/pr_grid-row-end.asp</a>
+                            <br><br>
+                            Adobe Fonts. (4. januar 2021). Hentet fra fonts.adobe.com: <a href="https://fonts.adobe.com/fonts">https://fonts.adobe.com/fonts</a>
                             <br><br>
                             Østergaard, N. (14. september 2020). Intro til CSS. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/Intro_til_CSS.pdf">Intro til CSS.pdf</a>
                             <br><br>
