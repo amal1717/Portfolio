@@ -384,6 +384,18 @@ section p a { /*Links under "kilder"*/
     word-wrap: break-word; /*Gør at linksne ikke udvider sidens bredde*/
 }
 
+
+.liste {
+    text-decoration: none; 
+    display: block; /*Får dem til at stå som en liste*/
+    font-family: apertura, sans-serif; /*Skrifttype*/
+    font-weight: 400; /*Skriftens tykkelse*/
+    font-style: normal; /*Variant af skrifttype*/
+    font-size: 1em; /*Skriftstørrelse*/
+    color: #484b54; /*Skriftens farve - mørkegrå*/
+    margin-left: 25px; /*Margen*/
+}
+
 /*..........BRØDTEKST SLUTTER..........*/
 
 
@@ -403,7 +415,7 @@ section p a { /*Links under "kilder"*/
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
-    line-height: 25px; /*Linjehøjde*/
+    line-height: 30px; /*Linjehøjde*/
     margin-left: 25px; 
 }
 /*..........LISTER SLUTTER..........*/

@@ -87,42 +87,45 @@
                     
                         <section id="tips1">
                             <h2>Tips og tricks til præsentationsteknik</h2>
-
-                            <p>
-                            1.	Ha’ en rank og naturlig kropsholdning <br>
-                            2.	Bevæg dig, men ikke for meget <br>
-                            3.	Ha’ et åbent kropssprog <br>
-                            4.	Smil og se venlig ud <br>
-                            5.	Brug humor<br>
-                            6.	Få øjenkontakt med de forskellige deltagere<br>
-                            7.	Træk vejret <br>
-                            8.	Kig op når du taler<br>
-                            9.	Øv dig <br>
-                            10.	Fokuser på meningen bag ordne
-                            <br><br> 
-                            (Schmith, 2020)
-                            </p>
+                            
+                            <ul>
+                                <li class="liste">1.	Ha’ en rank og naturlig kropsholdning</li>
+                                <li class="liste">2.	Bevæg dig, men ikke for meget</li>
+                                <li class="liste">3.	Ha’ et åbent kropssprog</li>
+                                <li class="liste">4.	Smil og se venlig ud</li>
+                                <li class="liste">5.	Brug humor</li>
+                                <li class="liste">6.	Få øjenkontakt med de forskellige deltagere</li>
+                                <li class="liste">7.	Træk vejret</li>
+                                <li class="liste">8.	Kig op når du taler</li>
+                                <li class="liste">9.	Øv dig</li>
+                                <li class="liste">10.	Fokuser på meningen bag ordne</li>
+                            </ul>
+                                <br>
+                            
+                            <p>(Schmith, 2020)</p> 
                             
                         </section>
                     
                         <section id="tips2">
                             <h2>Tips og tricks til PowerPoints</h2>
-                            <p>
-                            1.	Et budskab pr. slide <br>
-                            2.	Skriv aldrig hele sætninger <br>
-                            3.	Gør den vigtigste element til det største element<br>
-                            4.	Brug kontraster til at fremhæve det vigtigste<br>
-                            5.	Anvend en mørk farve som baggrund <br>
-                            6.	Ha’ ikke mere end seks elementer på et slide <br>
-                            7.	Antallet af slides er ligegyldigt <br>
-                            8.	Undgå at give teksten animationer<br>
-                            9.	Vælg en typografi som passer til budskabet <br>
-                            10.	Undgå mange punkter på et slide <br>
-                            11.	Brug lidt animationer, men ikke for mange <br>
-                            12.	Ikke brug for mange grafer, tabeller og diagrammer
-                            <br><br>
-                            (Phillips, 2014) (McMillan, 2009)
-                            </p>
+                            
+                            <ul>
+                                <li class="liste">1.	Et budskab pr. slide</li>
+                                <li class="liste">2.	Skriv aldrig hele sætninger</li>
+                                <li class="liste">3.	Gør den vigtigste element til det største element</li>
+                                <li class="liste">4.	Brug kontraster til at fremhæve det vigtigste</li>
+                                <li class="liste">5.	Anvend en mørk farve som baggrund</li>
+                                <li class="liste">6.	Ha’ ikke mere end seks elementer på et slide</li>
+                                <li class="liste">7.	Antallet af slides er ligegyldigt</li>
+                                <li class="liste">8.	Undgå at give teksten animationer</li>
+                                <li class="liste">9.	Vælg en typografi som passer til budskabet</li>
+                                <li class="liste">10.	Undgå mange punkter på et slide</li>
+                                <li class="liste">10.	Brug lidt animationer, men ikke for mange</li>
+                                <li class="liste">10.	Ikke brug for mange grafer, tabeller og diagrammer</li>
+                            </ul>
+                                <br>
+                            
+                            <p>(Phillips, 2014) (McMillan, 2009)</p> 
                             
                         </section>
                         
@@ -133,6 +136,7 @@
                                 <br><br>
                                 
                             <a href="pdf_filer/kropssprog.pdf">Læs mere om kropssprog</a>
+                                
                             </p>
                             
                         </section>

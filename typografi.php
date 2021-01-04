@@ -49,10 +49,8 @@
                             <h2>Typografi</h2>
                             <p>Typografi er essentiel for alle der arbejder med visuel kommunikation, idet typografier ofte er en del af kommunikationen. Det er er nemlig afgørende at man vælger de rigtige typografier til de forskellige projekter man arbejder på og derfor er det vigtigt at man som multimediedesigner kender til de grundlæggende typografiske spilleregler (Rold, Kapitel 16 - Typografi, 2019). Typografi kan både bidrage til at skabe læsevenlighed, blikfang og samtidig være oplysende (Hvad er typografi?, 2020), men derfor kan valgte af en forkert typografi også virke både forvirrende, uoverskuelig og uprofessionelt. 
                             </p>
-                            
-                            <br>
                         
-                             <img class="billeder" src="Billeder/Typografi/typografi.png" alt="Typografiens anatomi">  
+                            <img class="billeder" src="Billeder/Typografi/typografi.png" alt="Typografiens anatomi">  
                             <p>(Anatomy of A Type, 2021)</p>
                             
                         </section>
@@ -132,23 +130,23 @@
                     <section id="skrifttyper">
                         <h2>Skrifttyper</h2>
                         <p>Man kan klassificere skrifttyper på flere forskellige måder, men den mest anvendte er at klassificere dem som en serif eller en sans serif skrifttype. Dog findes der mange skrifttyper som ikke umiddelbart passer ind i en af disse kategorier, så derfor anvender man ofte også andre klassifikationer (Rold, Kapitel 16 - Typografi, 2019). Nedenstående ses et eksempel på hvordan Adobes hjemmeside om fonts klassificerer de forskellige skrifttyper.</p>
-                        <br>
-                        <img class="billeder" src="Billeder/Typografi/Adobe_klassifikation.png" alt="Adobe Fonts forskellige klassfikationer">
+                        
+                        <img class="billeder" src="Billeder/Typografi/Adobe_classification.png" alt="Adobe Fonts forskellige klassfikationer">
                         
                         <h3>Serif</h3>
                         <p>Serif skrifttyperne har fået navnet ’serif’ på grund af de små vandrette ”fødder” som bogstaverne har, idet ordet serif betyder ’fødder’ på fransk. Disse serif skrifttyper er et levn fra dengang man skrev med pen og blæk, og derfor opfatter mange også skrifttyperne som lidt gammeldags. Mange af serif skrifttyperne er faktisk flere hundrede år gamle, men alligevel bruges skrifttyperne stadig meget ofte. Serifferne hjælper nemlig med at gruppere bogstaverne, så de danner en form, hvilket gør det lettere for os at læse. Samtidig skaber de en vandret bevægelse, som gør det lettere for os at fokusere på den linje vi læser. Det er derfor ofte bøger, aviser og andre teksttunge dokumenter som benytter sig af serif skrifttyperne (Rold, Kapitel 16 - Typografi, 2019). Nedenstående ses et eksempel på en serif skrifttype af Adobe Fonts. </p>
-                        <br>
+                        
                         <img class="billeder" src="Billeder/Typografi/serif.png" alt="Eksempel på en serif skrifttype fra Adobe Fonts">
                         
                         <h3>Sans serif</h3>
                         <p>Ordet sans er fransk og betyder ’uden’ og derfor betyder sans serif ’uden fødder’. Det vil altså sige at disse skrifttyper ikke har de små vandrette ”fødder” som serif skrifttyperne har. Sans serif skrifttyperne benyttes ofte til overskrifter, da de giver en god kontrast til serif skrifttyperne og fordi de ikke er lige så letlæselige som serif skrifttyperne. Dog har man i lang tid fortrukket sans serif skrifttyper som brødtekst på hjemmesider bl.a. fordi de er hurtigere at læse end serif skrifttyper. Hjemmesider er nemlig sjældent lige så teksttunge som bøger, aviser og lignende, og samtidig har læsere ofte kortere tid, når de er på deres computer eller mobil (Bogner, Design: Typografi og typografiens historie, 2020). Faktisk bruger man sans serif skrifttyper på motorvejsskilte, fordi de er hurtigere alt læse. Ofte har disse skrifttyper samme stregtykkelse over hele bogstavet, hvilket betyder at kontrasten en meget lav, modsat serif skrifttyperne er har en større kontrast (Rold, Kapitel 16 - Typografi, 2019). Nedenstående ses et eksempel på en sans serif skrifttype fra Adobe Fonts.</p>
-                        <br>
+                        
                         <img class="billeder" src="Billeder/Typografi/sansserif.png" alt="Eksempel på en  sans serif skrifttype fra Adobe Fonts">
                         
                          <h3>Andre skrifttyper</h3>
                         <p>De fleste skrifttyper, som ofte anvendes, falder ind under kategorierne serif eller sans serif, men der findes også nogle mere specielle skrifttyper som ikke gør, f.eks. mono-skrifter og script-skrifter. Mono-skrifter er er skrifttyper hvor alle bogstaverne optager den præcis samme plads på linjen. Derfor bruges de ikke til en tekst der skal være letlæselig, men til tekster hvor bogstaverne skal fremstå tydeligt f.eks. HTML-kode. Script-skrifter er skrifter som ligner en håndskrift og derfor kan det være alt lige fra en flot kursiv skrift til en sjov og barnlig skrift (Rold, Kapitel 16 - Typografi, 2019). Nedenstående ses et par eksempler på andre skrifttyper fra Adobe Fonts.</p>
-                        <br>
-                        <img class="billeder" src="Billeder/Typografi/andre_skrifttyper.png" alt="Eksempel på andre skrifttyper fra Adobe Fonts">
+                        
+                        <img class="billeder" src="Billeder/Typografi/andre_skrifttyper.jpg" alt="Eksempel på andre skrifttyper fra Adobe Fonts">
                         
                     </section>
 
@@ -163,20 +161,20 @@
                     
                     <section id="de10budomtypografi">
                         <h2>De 10 bud om typografi</h2>
-                        
+                    
                         <ul>
-                            <li>1.	Kend dine skrifttypefamilier</li>
-                            <li>2.	Kombiner en sans-serif font med en serif font</li>
-                            <li>3.	Kombiner en serif font med en sans serif font</li>
-                            <li>4.	En kombination af to lignende fonts er ikke godt</li>
-                            <li>5.	Kontrast er vigtigt</li>
-                            <li>6.	Hold dig til to fonts. Kun vælg tre hvis det er nødvendigt</li>
-                            <li>7.	Ikke kombiner forskellige humør</li>
-                            <li>8.	Kombiner fonts med supplerende stemninger og lignende tidsperioder</li>
-                            <li>9.	Brug de forskellige fonts i samme skrifttypefamilie</li>
-                            <li>10.	Undgå helst uprofessionelle fonts som fx comic sans og curlz</li>
+                            <li class="liste">1.	Kend dine skrifttypefamilier</li>
+                            <li class="liste">2.	Kombiner en sans-serif font med en serif font</li>
+                            <li class="liste">3.	Kombiner en serif font med en sans serif font</li>
+                            <li class="liste">4.	En kombination af to lignende fonts er ikke godt</li>
+                            <li class="liste">5.	Kontrast er vigtigt</li>
+                            <li class="liste">6.	Hold dig til to fonts. Kun vælg tre hvis det er nødvendigt</li>
+                            <li class="liste">7.	Ikke kombiner forskellige humør</li>
+                            <li class="liste">8.	Kombiner fonts med supplerende stemninger og lignende tidsperioder</li>
+                            <li class="liste">9.	Brug de forskellige fonts i samme skrifttypefamilie</li>
+                            <li class="liste">10.	Undgå helst uprofessionelle fonts som fx comic sans og curlz</li>
                         </ul>
-                        
+                        <br>
                          <p>(The 10 commandments of typography, 2021)</p>
                     
                     </section>
@@ -187,7 +185,7 @@
                             <br><br>
                         Hvis man vælger at finde en gratis font fra <a href="https://fonts.adobe.com/fonts">Adobe Fonts</a> eller <a href="https://fonts.google.com/">Google Fonts</a> er det selvfølgelig en fordel at fonten er gratis og at der er derfor flere muligheder for at eksperimentere. Derudover er der også et stort udvalg og samtidig er de både lette at finde og lette at bruge. Dog skal man være opmærksom på om fonten er gennemarbejdet, om den har alle bogstaverne og om fonten evt. er blevet misbrugt, fordi den er gratis. 
                             <br><br>
-                        <a href="http://localhost:8888/Portfolio/css.php - skrifttyper">Læs om hvordan man anvender en Adobe font</a> 
+                        <a href="http://localhost:8888/Portfolio/css.php - skrifttyper">Sådan anvender man en Adobe font</a> 
                             <br><br>
                         Hvis man vælger at købe en font, får man automatisk en højere kvalitet og der er også større chance for at få et komplet sæt fonts med forskellige weights, som indeholder alle bogstaver. Man må også godt bruge fonten kommercielt, men det er alligevel en god ide at tjekke det inden. Fonts kan ofte være temmelig dyre, men det kan også godt lade sig gøre at finde nogle der er knap så dyre. På trods af dette er der stadig risiko for at fonten ikke er helt så gennemarbejdet som håbet. Man kan bl.a. købe fonts på <a href="https://www.myfonts.com/">Myfonts.com</a>. 
                         </p>
@@ -214,17 +212,21 @@
                             Hvad er typografi? (24. juli 2020). Hentet fra aproposbureau.dk: <a href="https://aproposbureau.dk/artikler/hvad-er-typografi/">https://aproposbureau.dk/artikler/hvad-er-typografi/</a>
                             <br><br>
                             The 10 commandments of typography. (januar. 4 2021). Hentet fra designmantic.com: <a href="https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg">https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg</a>
+                            <br><br>
+                            Butterick's practical typography. (4. januar 2021). Hentet fra practicaltypography.com: <a href="https://practicaltypography.com">https://practicaltypography.com</a>
                         </p>
                             
                         <h3>Bøger:</h3>
                         <p>
                             Rold, M. (2019). Kapitel 16 - Typografi. I Interfacedesign (s. 161-171). Samfundslitteratur.
-                        </p>
+                       
                             <br><br> 
                             
                             <a href="#top">Til toppen</a>
                             
                             <br><br> 
+                            
+                         </p>
                        
                     </section>
 
