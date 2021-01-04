@@ -178,7 +178,11 @@
                         
                             <br>
                         
-                        <img class="billeder" src="Billeder/CSS/Adobe_Fonts.png" alt="Billede af det man skal indsætte fra Adobe Fonts">  
+                        <img class="billeder" src="Billeder/CSS/Adobe_Fonts1.png" alt="Billede af det tegn man skal klikke på når man har valgt en Adobe font">  
+                        
+                            <br><br>
+                        
+                        <img class="billeder" src="Billeder/CSS/Adobe_Fonts2.png" alt="Billede af det man skal indsætte fra Adobe Fonts">  
                         
                     </section>
                     
