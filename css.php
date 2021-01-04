@@ -251,7 +251,7 @@
                                 <td>Grid-area: a;</td>
                                 <td>Tildeler elementer et grid-area, som bruges til at placere elementerne under grid-template-areas. Bør være sigende navne f.eks. ”header”</td>
                               </tr>
-                         <tr>
+                                <tr>
                                 <td>Grid-template-areas; <br>
                                      ”a a a”<br>
                                     “b c c”<br>

@@ -41,6 +41,7 @@
                                     <li><a class="list-item" href="#figureground">Figure/ground</a></li>
                                     <li><a class="list-item" href="#Symmetryorder">Symmetry & order</a></li>
                                     <li><a class="list-item" href="#whitespace">White space</a></li>
+                                    <li><a class="list-item" href="#visuelthierarki">Visuelt hierarki</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                     <li><a class="list-item" href="#kilder">Kilder</a></li>
                                 </ul>
@@ -52,6 +53,7 @@
                             <p>Når mennesker ser forskellige kombinationer af visuelle elementer f.eks. hjemmesider, malerier og lignende ser vi helhederne, før vi ser de enkelte dele, der udgør helhederne. Dette princip er sammenfattet i gestaltlovene, som beskriver nogle generelle principper for hvordan vi opfatter objekter i forhold til hinanden f.eks. på en hjemmeside. Disse principper kaldes også for designprincipper og beskriver den menneskelige opfattelsesevne, hvilket er vigtige at kende til, når man arbejder med visuel formidling (Rold, Kapitel 12 - Sidestruktur, 2019). Et designprincip kan i princippet godt stå alene, men i praksis kombineres designprincipperne ofte. </p>
                             
                             <img class="billeder" src="Billeder/Gestaltlovene/Gestalt.png" alt="Gestaltlovene">
+                            <p>(Chapman, 2021)</p>
                             
                         </section>
                     
@@ -93,9 +95,50 @@
                             <p>White space, også kendt som negative space, er den ”luft” i et design, hvor der ikke er andet end en baggrundsfarve eller et baggrundsbillede til stede. Princippet handler derfor om at bruge denne “luft” omkring elementer til f.eks. at skabe et visuelt hierarki eller til at skabe fokus på et element (Schwarz, 2017). Når man udvikler bl.a. hjemmesider er det vigtigt at alle rum ikke udfyldes, men det er selvfølgelig også vigtigt at siden ikke kun består af white space og derfor skal man finde en balance (Bogner, Design: Gestaltlovene, 2020). </p>
                             <img class="billeder" src="Billeder/Gestaltlovene/whitespace.png" alt="Designprincippet white space">
                             <p>(Bogner, Design: Gestaltlovene, 2020)</p>
-                        
                         </section>
     
+                    <section id="visuelthierarki">
+                        <h3>Visuelt hierarki</h3>
+                        <p>Hjemmesiders indhold bør struktureres ud fra et visuelt hierarki og så skal elementernes visuelle fremtræden samtidig understøtte deres funktioner på siden. Det er altså vigtigt at overskrifter ligner overskrifter og ikke links eller andre elementer. På den måde giver det visuelle hierarki brugeren viden om hvor vigtigt et element er og hvad relationen til de andre elementer er. I nedenstående tabel ses otte af de faktorer som påvirker vores opfattelse af elementers visuelle hierarki og relation (Rold, Kapitel 12 - Sidestruktur, 2019).</p>
+                        
+                        <table id="tabel">
+                              <tr>
+                                <td>Størrelse</td>
+                                <td>Et større element tiltrækker mere opmærksomhed end et mindre element</td>
+                              </tr>
+                            <tr>
+                                <td>Farve</td>
+                                <td>Klare og stærke farver fanger brugernes opmærksomhed</td>
+                              </tr>
+                            <tr>
+                                <td>Kontrast</td>
+                                <td>En stærk kontrast kan bruges til at tiltrække opmærksom til et element</td>
+                              </tr>
+                            <tr>
+                                <td>Justering</td>
+                                <td>Venstre- og højremargen kan bruges til at relatere elementer og skabe orden</td>
+                              </tr>
+                            <tr>
+                                <td>Gentagelse</td>
+                                <td>Elementer som er ens og som gentages opfattes som relaterede</td>
+                              </tr>
+                            <tr>
+                                <td>Nærhed</td>
+                                <td>Elementer der er placeret tæt på hinanden opfattes som relaterede</td>
+                              </tr>
+                            <tr>
+                                <td>Luft</td>
+                                <td>Luft omkring et element får det til at træde frem og fanger opmærksomhed</td>
+                              </tr>
+                            <tr>
+                                <td>Tekstur</td>
+                                <td>Mønstret baggrunde og baggrundbillede kan fjerne fokus fra det vigtigste</td>
+                              </tr>
+                        </table>
+                        <p>(Rold, Kapitel 12 - Sidestruktur, 2019)</p>
+                    
+                    </section>
+                    
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
                         <p></p>

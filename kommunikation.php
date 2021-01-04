@@ -65,10 +65,9 @@
                             <p>IMK står for International Markeds Kommunikation og er en model der sætter ”teksten” i fokus som det afsenderen og modtageren producerer i fællesskab, hvilket gør dem ligeværdige i kommunikationen. Det betyder at der ikke eksisterer nogen kommunikation før modtager deltager, hvilket ses som et modsvar til Kotlers model for markedskommunikation. Modellen giver også udtryk for at konteksten, kulturen, medier og genre er med til at forme ”testen” (Busch A. , Kapitel 5 - Grundlæggende kommunikationsteori, 2015). </p>
                             
                                 <br>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/Kommunikation/imk-modellen.png" alt="IMK-modellen">
-                            </div>
+                        
+                            <img class="billeder" src="Billeder/Kommunikation/imk-modellen.png" alt="IMK-modellen">
+                            <p>(Busch A. , Kapitel 5 - Grundlæggende kommunikationsteori, 2015)</p>
                               
                               <h4>Modellens elementer</h4>
                                 <table id="tabel">
@@ -113,10 +112,10 @@
                             <p>Denne model er et samlet redskab, som både forklarer de funktionelle aspekter og de visuelle og æstetiske aspekter af webkommunikation. Modellen kan både anvendes i produktions sammenhæng og i analyse sammenhæng og derudover skaber den forbindelse mellem de forskellige fagområder, som skal spille sammen, når man skal skabe en hjemmeside (Busch A. , Kapitel 5 - Grundlæggende kommunikationsteori, 2015). </p>
                             
                                 <br>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/Kommunikation/thorlacius'kommunikationsmodel.png" alt="Thorlacius’ kommunikationsmodel">
-                            </div>
+
+                            <img class="billeder" src="Billeder/Kommunikation/thorlacius'kommunikationsmodel.png" alt="Thorlacius’ kommunikationsmodel">
+                            <p>(Busch A. , Kapitel 5 - Grundlæggende kommunikationsteori, 2015)</p>
+           
                             
                                  <h4>Modellens elementer</h4>
                                 <table id="tabel">
@@ -175,11 +174,8 @@
                             
                                 <br>
                             
-                            <div>
-                                <img src="Billeder/Kommunikation/S-O-R-modellen.png" alt="S-O-R-modellen">
-                            </div>
-                            
-                               <p>(Busch A. , Kapitel 5 - Grundlæggende kommunikationsteori, 2015)</p>
+                            <img src="Billeder/Kommunikation/S-O-R-modellen.png" alt="S-O-R-modellen">
+                            <p>(Busch A. , Kapitel 5 - Grundlæggende kommunikationsteori, 2015)</p>
 
                         </section>
                     
@@ -191,11 +187,9 @@
                             
                                 <br>
                             
-                            <div>
-                                <img class="billeder" src="Billeder/Kommunikation/Lasswells_formel.png" alt="Lasswells formel">
-                            </div>
-                            
-                               <p>(Schmith, Grundlæggende kommunikation, 2020)</p>
+
+                            <img class="billeder" src="Billeder/Kommunikation/Lasswells_formel.png" alt="Lasswells formel">
+                            <p>(Schmith, Grundlæggende kommunikation, 2020)</p>
 
                         </section>
                     
@@ -205,12 +199,10 @@
                             <p>Lazarsfeldts totrinsmodel bygger på at mennesker ofte påvirkes og inspireres af dem vi ser op til, hvilke bl.a. kan være opinionsledere (Busch A. , Kapitel 5 - Grundlæggende kommunikationsteori, 2015). Dette kan massemedierne udnytte ved at lade opinionslederne bringe budskabet videre til personerne i deres sociale omgivelser, som ikke selv har set budskabet. Derved kan opinionslederne også vælge at stoppe et budskab hvis de vil (Andersen, Jensen, Olsen, Olsen, & Schmalz, Kapitel 23, 2015).</p>
                             
                                 <br>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/Kommunikation/lazarsfeldts_totrinsmodel.png" alt="Lazarsfeldts totrinsmodel">
-                            </div>
-                            
-                               <p></p>
+                           
+                            <img class="billeder" src="Billeder/Kommunikation/Lazarsfeldts_totrinsmodel.jpg" alt="Lazarsfeldts totrinsmodel">
+                            <p>(Busch A. , Kapitel 5 - Grundlæggende kommunikationsteori, 2015)</p>
+                       
 
                         </section>
                     
@@ -220,11 +212,8 @@
                             
                                 <br>
                             
-                            <div>
-                                <img class="billeder" src="Billeder/Kommunikation/Kotlers_model.jpg" alt="Kotlers model for markedskommunikation">
-                            </div>
-                            
-                               <p></p>
+                            <img class="billeder" src="Billeder/Kommunikation/Kotlers_model.jpg" alt="Kotlers model for markedskommunikation">
+                            <p>(Busch A. , Kapitel 5 - Grundlæggende kommunikationsteori, 2015)</p>
 
                         </section>
                     
@@ -239,14 +228,19 @@
                     <section>
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
-                        <p>Østergaard, N. (2. november 2020). Informationsarkitektur. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/informationsarkitektur.pdf" >Informationsarkitektur.pdf</a>
-                        
+                        <p>
+                            Schmith, M. (16. september 2020). Grundlæggende kommunikation. Hentet fra Grundlæggende faglighed : <a href="pdf_filer/kommunikation.pdf" >Kommunikation.pdf</a>
                         </p>
                         
-                            <h3>Bøger:</h3>
+                        <h3>Bøger:</h3>
 
-                            <p>Busch, A. (2015). Kapitel 11 - Informationsarkitektur. I Kommunikation i multimediedesign (s. 165-182). Hans Reitzels Forlag.
-
+                        <p>
+                            Andersen, F. R., Jensen, B. W., Olsen, M. R., Olsen, S. Ø., & Schmalz, P. (2015). Kapitel 23. I International markedsføring (s. 683). København: Trojka.
+                            
+                                <br><br>
+                            
+                            Busch, A. (2015). Kapitel 5 - Grundlæggende kommunikationsteori. I Kommunikation i multimediedesign (s. 67-82). Hans Reitzels Forlag.
+                                
                             <br><br>
 
                             <a href="#top">Til toppen</a>
