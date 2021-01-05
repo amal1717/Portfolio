@@ -33,9 +33,9 @@
                             <a class="dropdown-item" href="photoshop.php">Photoshop</a>
                             <a class="dropdown-item" href="adobexd.php">Adobe XD</a>
                             <a class="dropdown-item" href="premiererush.php">Premiere Rush</a>
-                            <a class="dropdown-item" href="">Gestaltlovene</a>
-                            <a class="dropdown-item" href="">Farver</a>
-                            <a class="dropdown-item" href="">Typografi</a>
+                            <a class="dropdown-item" href="gestaltlovene.php">Gestaltlovene</a>
+                            <a class="dropdown-item" href="farver.php">Farver</a>
+                            <a class="dropdown-item" href="typografi.php">Typografi</a>
                             <a class="dropdown-item" href="">Kamerateknik</a>
                             <a class="dropdown-item" href="informationsarkitektur.php">Informationsarkitektur</a>
                         </div>
@@ -63,7 +63,7 @@
                             <a class="dropdown-item" href="designthinking.php">Design thinking (app)</a>
                             <a class="dropdown-item" href="peertopeer.php">Peer-to-peer</a>
                             <a class="dropdown-item" href="onepage.php">One page</a>
-                            <a class="dropdown-item" href="">Læringsportfolio</a>
+                            <a class="dropdown-item" href="portfolio.php">Læringsportfolio</a>
                         </div>
                     </li>
                         
