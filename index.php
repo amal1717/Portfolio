@@ -39,7 +39,7 @@
         
             <section id="forsideafsnit">
                 
-                <p id="forsidetekst">"Jeg læser til multimediedesigner på Erhvervsakademi Dania i Skive og har udviklet dette læringsportfolio i forbindelse med vores eksamensprojekt som afslutter uddannelsens 1. semester. Læringsportfoliet er et udviklings-, refleksions- og dokumentationsredskab, som demonstrerer alt den viden jeg har tilegenet mig indtil videre på uddannelsen. Dette portfolio danner samtidig grundlaget for 1. semesterprøven og er et personligt redskab, som ikke kan sammenlignes med en traditionel portfolio." <br><br> - Amalie Sørensen </p>
+                <p id="forsidetekst">"Jeg læser til multimediedesigner på Erhvervsakademi Dania i Skive og har udviklet dette læringsportfolio i forbindelse med vores eksamensprojekt som afslutter uddannelsens 1. semester. Læringsportfoliet er et udviklings-, refleksions- og dokumentationsredskab, som demonstrerer alt den viden jeg har tilegnet mig indtil videre på uddannelsen. Portfolioen danner samtidig grundlaget for 1. semesterprøven og er et personligt redskab, som ikke kan sammenlignes med en traditionel portfolio." <br><br> - Amalie Sørensen</p>
                             
                 <img id="amaliebillede" src="Billeder/Amalie_billede.png" alt="Portrætbillede af Amalie Sørensen" width="100%;">
                 

@@ -189,14 +189,13 @@
                         <p>CSS grid tilbyder et gitterbaseret layoutsystem med rækker og kolonner og er med til at gøre det lettere at designe hjemmesider uden at bruge float, clear og positionering (CSS Grid Layout Module, 2020). Derudover gør CSS grid det nemmere at styre og ændre på hjemmesiders layout når man f.eks. anvender media queries (@media) til tablet- og desktopversionerne.  Et grid oprettes ved at definere en container-element som et ”grid” og det gør man ved at give container-elementet et id i HTML-dokumentet og derefter skrive i CSS-dokumentet at containeren skal være et grid. Nedenstående ses hvordan man kan anvende CSS grid på to forskellige måder (Østergaard, Responsive design + CSS Grid, 2020). </p>
                         
                             <br>
-                        
-                         <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/id_mitgrid.png" alt="Containeren gives et id i HTML-dokumentet" style="height:80px"> 
-                            <p class="billedetekst">Containeren gives et id i HTML-dokumentet</p>
+                       
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/id_mitgrid.png" alt="Containeren gives et id i HTML-dokumentet" style="height:80px"> 
+                        <p class="billedetekst">Containeren gives et id i HTML-dokumentet</p>
                              <br>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/display_grid.png" alt="Containeren gives følgende property og value i CSS-dokumentet " style="height:80px">  
-                            <p class="billedetekst">Containeren gives følgende property og value i CSS-dokumentet </p>
-                        </div>
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/display_grid.png" alt="Containeren gives følgende property og value i CSS-dokumentet " style="height:80px">  
+                        <p class="billedetekst">Containeren gives følgende property og value i CSS-dokumentet </p>
+              
                     
                     <h3>Eksempler på CSS som anvendes til CSS Grid</h3>
                     
@@ -273,30 +272,22 @@
                         
                             <br>
                         
-                         <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel1_css.png" alt="Eksempel på CSS grid" style="width:40%;">  
-                        </div>
-                        
+                         <img class="billeder" src="Billeder/CSS/CSS_grid/1_metode_kode.png" alt="Eksempel på CSS grid">  
+                      
                             <br><br>
-                        
-                         <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel1_browser.png" alt="Eksempel på CSS grid" style="">  
-                        </div>
+                    
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/1_metode_browser.png" alt="Eksempel på CSS grid">  
                         
                         <h3>Den anden metode</h3>
                         <p>Ved den anden metode styrer man fordelingen ét sted i CSS-dokumentet, hvilket gør det lettere at ændre i og derfor anvendes denne metode oftest. Dog kræver det at alle elementer navngives med en grid-area udover et id (Østergaard, Responsive design + CSS Grid, 2020).</p>
                         
                             <br>
                         
-                         <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel2_css.png" alt="Eksempel på CSS grid" style="width:40%;">  
-                        </div>
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/2_metode_kode.png" alt="Eksempel på CSS grid"> 
                         
                             <br><br>
-                        
-                         <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/Grid_eksempel2_browser.png" alt="Eksempel på CSS grid" style="">  
-                        </div>
+                    
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/2_metode_browser.png" alt="Eksempel på CSS grid">
                         
                      </section>
                     
