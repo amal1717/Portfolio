@@ -48,21 +48,21 @@
                   
                         <section id="css">
                             <h2>CSS</h2>
-                            <p>CSS står for Cascading Style Sheets og er et programmeringssprog, som bruges til style hjemmesider. Det er altså ved hjælp af CSS at man kan ændre på hjemmesiders udseende, f.eks. farver, typografi, layout osv. For at anvende CSS skal man først oprette et HTML-dokument, hvor man koder hjemmesidens indhold. Bagefter kan man vælge at skrive den pågældende CSS i samme dokument eller i et eksternt dokument. Hvis man skriver det i samme dokument, gælder reglerne kun for netop dét dokument, men hvis man vælger et eksternt dokument, kan CSS-dokumentet anvendes i mange HTML-dokumenter og derved sikre mere ensartethed. Hvis man vælger denne løsning, skal man oprette et CSS-dokument. Her skal man referere til det indhold man vil style i HTML-dokumentet. Man forbinder et CSS-dokument til et HTML-dokument ved at linke til det pågældende ”StyleSheet” øverst i HTML-dokumentet, under tagget &#60;head&#62;, og derudover skal man være opmærksom at begge filer skal placeres i samme mappe når dokumenterne gemmes (Østergaard, Intro til CSS, 2020. 
+                            <p>CSS står for Cascading Style Sheets og er et programmeringssprog, som bruges til style hjemmesider. Det er altså ved hjælp af CSS at man kan ændre på hjemmesiders udseende, f.eks. farver, typografi, layout osv. For at anvende CSS skal man først oprette et HTML-dokument, hvor man koder hjemmesidens indhold. Bagefter kan man vælge at skrive den pågældende CSS i samme dokument eller i et eksternt dokument. Hvis man skriver det i samme dokument, gælder reglerne kun for netop dét dokument, men hvis man vælger et eksternt dokument, kan CSS-dokumentet anvendes i mange HTML-dokumenter og derved sikre mere ensartethed. Hvis man vælger denne løsning, skal man oprette et CSS-dokument. Her skal man referere til det indhold man vil style i HTML-dokumentet. Man forbinder et CSS-dokument til et HTML-dokument ved at linke til det pågældende ”StyleSheet” øverst i HTML-dokumentet, under tagget <head>, og derudover skal man være opmærksom at begge filer skal placeres i samme mappe når dokumenterne gemmes (Østergaard, Intro til CSS, 2020). Nedenstående billede viser hvordan man linker til et ”stylesheet”.  
                             </p>
                             
-                            <img class="billeder" src="Billeder/CSS/Eksempel_stylesheet.png" alt="Eksempel på indsætning af stylesheet" style="height:50px;">  
+                            <img class="billeder" src="Billeder/CSS/eksempel_stylesheet.png" alt="Eksempel på indsætning af stylesheet">  
                            
                                 <br><br><br>
                             
-                            <p>Når man skal skrive CSS, skal man følge denne model: </p>
+                            <p>Når man skal skrive CSS, skal man følge nedenstående model.</p>
                             
-                            <img class="billeder" src="Billeder/CSS/Saadan_skriver_man_CSS.png" alt="Sådan skriver man CSS" style="height:200px;">  
+                            <img class="billeder" src="Billeder/CSS/saadan_skriver_man_CSS.png" alt="Sådan skriver man CSS">  
                             <p>(Østergaard, Intro til CSS, 2020)</p>
                             
-                                <br>
-                                
-                            <p>Først skal man vælge den selector der skal styles, altså udpege hvad der skal styles i HTML-dokumentet. Det gør man ved at vælge en af følgende selectors: </p>
+                                <br><br>
+                            
+                            <p>Her skal man først og fremmest vælge den selector som skal styles, altså udpege hvad der skal styles i HTML-dokumentet. Det gør man ved at vælge en af de selectors som ses i nedenstående tabel.</p>
                             
                             <table id="tabel">
                                   <tr>
@@ -158,8 +158,6 @@
                         <p>Når man ændrer farverne på en hjemmeside, kan man gøre det på forskellige måder i CSS-dokumentet. Den nemmeste måde er bare at vælge en farve, som editoren foreslår, f.eks. ”darkblue”, de fleste vil nok gerne bruge andre farver. Derfor kan man også ændre farverne ved hjælp af RGB-værdier, HEX-værdier, HSL-værdier, RGBA-værdier eller HSLA-værdier. På billedet ses hvordan man kan bruge de forskellige værdier til at finde den samme farve samt hvordan man gør farven mere transparent (CSS Colors, 2020).  
                         </p>
                         
-                            <br>
-                        
                         <img class="billeder" src="Billeder/CSS/Farver_CSS.png" alt="Farver i CSS"> 
                         <p>(CSS Colors, 2020)</p>
                         
@@ -174,10 +172,10 @@
                         
                             <br>
                         
-                        <img class="billeder" src="Billeder/CSS/Adobe_Fonts1.png" alt="Billede af det tegn man skal klikke på når man har valgt en Adobe font">  
+                        <img class="billeder" src="Billeder/CSS/adobe_fonts1.png" alt="Billede af det tegn man skal klikke på når man har valgt en Adobe font">  
                         <p>(Adobe Fonts, 2021)</p>
                         
-                            <br><br>
+                            <br>
                         
                         <img class="billeder" src="Billeder/CSS/Adobe_Fonts2.png" alt="Billede af det man skal indsætte fra Adobe Fonts">
                         <p>(Adobe Fonts, 2021)</p>
@@ -186,119 +184,121 @@
                     
                     <section id="css grid">
                         <h2>CSS Grid</h2>
-                        <p>CSS grid tilbyder et gitterbaseret layoutsystem med rækker og kolonner og er med til at gøre det lettere at designe hjemmesider uden at bruge float, clear og positionering (CSS Grid Layout Module, 2020). Derudover gør CSS grid det nemmere at styre og ændre på hjemmesiders layout når man f.eks. anvender media queries (@media) til tablet- og desktopversionerne.  Et grid oprettes ved at definere en container-element som et ”grid” og det gør man ved at give container-elementet et id i HTML-dokumentet og derefter skrive i CSS-dokumentet at containeren skal være et grid. Nedenstående ses hvordan man kan anvende CSS grid på to forskellige måder (Østergaard, Responsive design + CSS Grid, 2020). </p>
+                        <p>CSS grid tilbyder et gitterbaseret layoutsystem med rækker og kolonner og er med til at gøre det lettere at designe hjemmesider uden at bruge float, clear og positionering (CSS Grid Layout Module, 2020). Derudover gør CSS grid det nemmere at styre og ændre på hjemmesiders layout når man f.eks. anvender media queries (@media) til tablet- og desktopversionerne.  Et grid oprettes ved at definere et container-element som et ”grid” og det gør man ved at give container-elementet et id i HTML-dokumentet og derefter skrive i CSS-dokumentet at containeren skal være et grid. Dette vises på nedenstående billeder (Østergaard, Responsive design + CSS Grid, 2020).</p>
                         
                             <br>
+                     
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/Id_Mitgrid.png" alt="Containeren gives et id i HTML-dokumentet"> 
+                          
+                            <br><br><br>
+                            
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/Display_Grid.png" alt="Containeren gives følgende property og value i CSS-dokumentet">  
                        
-                        <img class="billeder" src="Billeder/CSS/CSS_grid/id_mitgrid.png" alt="Containeren gives et id i HTML-dokumentet" style="height:80px"> 
-                        <p class="billedetekst">Containeren gives et id i HTML-dokumentet</p>
-                             <br>
-                        <img class="billeder" src="Billeder/CSS/CSS_grid/display_grid.png" alt="Containeren gives følgende property og value i CSS-dokumentet " style="height:80px">  
-                        <p class="billedetekst">Containeren gives følgende property og value i CSS-dokumentet </p>
-              
+                        <h3>Eksempler på CSS som anvendes til CSS Grid</h3>
+
+                        <table id="tabel">
+                                  <tr>
+                                    <th>Eksempel</th>
+                                    <th>Beskrivelse</th>
+                                  </tr>
+                                  <tr>
+                                    <td>Display: grid; </td>
+                                    <td>Gør at HTML-elementet bliver til en grid container</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Grid-template-colums: 1fr 1fr 1fr; </td>
+                                    <td>Angiver bredden og inddeler indholdet horisontalt i kolonner. Grid regner selv bredderne ud ift. fr som står for fractions. </td>
+                                  </tr>
+                                  <tr>
+                                    <td>Grid-template-rows; 1fr 1fr 1fr; </td>
+                                    <td>Angiver højden og inddeler indholdet vertikalt (fr står for fractions) Skal passe med antallet af rækker i grid-template-areas.</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Grid-column-start: 1;</td>
+                                    <td>Angiver på hvilken kolonnelinje elementet skal begynde</td>
+                                  </tr>
+                                  <tr>
+                                    <td>Grid-column-end: 4;</td>
+                                    <td>Angiver hvor mange kolonner et element skal spænde sig over eller på hvilken kolonnelinje elementet slutter </td>
+                                  </tr>
+                                  <tr>
+                                    <td>Grid-row-end: span 3;</td>
+                                    <td>Definerer hvor mange rækker et element skal strække sig over eller på hvilken række elementet slutter</td>
+                                  </tr>
+                                    <tr>
+                                    <td>Grid-column: 1 / span 4; </td>
+                                    <td>Angiver hvor elementet skal starte og hvor mange rækker det skal strække sig over</td>
+                                  </tr>
+                                    <tr>
+                                    <td>Grid-gap: 10px;</td>
+                                    <td>Justerer mellemrummet mellem både kolonner og rækker til 10px</td>
+                                  </tr>
+                                    <tr>
+                                    <td>Grid-colum-gap: 10px;</td>
+                                    <td>Justerer mellemrummet mellem kolonnerne til 10px</td>
+                                  </tr>
+                                    <tr>
+                                    <td>Grid-row-gap: 10px;</td>
+                                    <td>Justerer mellemrummet mellem rækkerne til 10px</td>
+                                  </tr>
+                                    <tr>
+                                    <td>Grid-area: a;</td>
+                                    <td>Tildeler elementer et grid-area, som bruges til at placere elementerne under grid-template-areas. Bør være sigende navne f.eks. ”header”</td>
+                                  </tr>
+                                    <tr>
+                                    <td>Grid-template-areas; <br>
+                                         ”a a a”<br>
+                                        “b c c”<br>
+                                        “b d d”<br>
+                                        “. e e”
+                                    </td>
+                                    <td>Bruges til at placere de elementer som er blevet tildelt et grid-area og beslutte hvor meget elementerne skal fylde. Hvis man skriver et punktum i stedet for et bogstav, vil feltet stå tomt</td>
+                                  </tr>
+                            </table>
+
+                            <p>(Østergaard, Responsive design + CSS Grid, 2020) <br>
+                                (CSS Grid Layout Module, 2020)<br>
+                                (CSS grid-column-start Porperty, 2020)<br>
+                                (CSS grid-column-end Property , 2020)<br>
+                                (CSS grid-row-end Property, 2020)<br>
+                                (CSS grid-column Property, 2020)<br>
+                            </p>
+                </section>
                     
-                    <h3>Eksempler på CSS som anvendes til CSS Grid</h3>
                     
-                    <table id="tabel">
-                              <tr>
-                                <th>Eksempel</th>
-                                <th>Beskrivelse</th>
-                              </tr>
-                              <tr>
-                                <td>Display: grid; </td>
-                                <td>Gør at HTML-elementet bliver til en grid container</td>
-                              </tr>
-                              <tr>
-                                <td>Grid-template-colums: 1fr 1fr 1fr; </td>
-                                <td>Angiver bredden og inddeler indholdet horisontalt i kolonner. Grid regner selv bredderne ud ift. fr som står for fractions. </td>
-                              </tr>
-                              <tr>
-                                <td>Grid-template-rows; 1fr 1fr 1fr; </td>
-                                <td>Angiver højden og inddeler indholdet vertikalt (fr står for fractions) Skal passe med antallet af rækker i grid-template-areas.</td>
-                              </tr>
-                              <tr>
-                                <td>Grid-column-start: 1;</td>
-                                <td>Angiver på hvilken kolonnelinje elementet skal begynde</td>
-                              </tr>
-                              <tr>
-                                <td>Grid-column-end: 4;</td>
-                                <td>Angiver hvor mange kolonner et element skal spænde sig over eller på hvilken kolonnelinje elementet slutter </td>
-                              </tr>
-                              <tr>
-                                <td>Grid-row-end: span 3;</td>
-                                <td>Definerer hvor mange rækker et element skal strække sig over eller på hvilken række elementet slutter</td>
-                              </tr>
-                                <tr>
-                                <td>Grid-column: 1 / span 4; </td>
-                                <td>Angiver hvor elementet skal starte og hvor mange rækker det skal strække sig over</td>
-                              </tr>
-                                <tr>
-                                <td>Grid-gap: 10px;</td>
-                                <td>Justerer mellemrummet mellem både kolonner og rækker til 10px</td>
-                              </tr>
-                                <tr>
-                                <td>Grid-colum-gap: 10px;</td>
-                                <td>Justerer mellemrummet mellem kolonnerne til 10px</td>
-                              </tr>
-                                <tr>
-                                <td>Grid-row-gap: 10px;</td>
-                                <td>Justerer mellemrummet mellem rækkerne til 10px</td>
-                              </tr>
-                                <tr>
-                                <td>Grid-area: a;</td>
-                                <td>Tildeler elementer et grid-area, som bruges til at placere elementerne under grid-template-areas. Bør være sigende navne f.eks. ”header”</td>
-                              </tr>
-                                <tr>
-                                <td>Grid-template-areas; <br>
-                                     ”a a a”<br>
-                                    “b c c”<br>
-                                    “b d d”<br>
-                                    “. e e”
-                                </td>
-                                <td>Bruges til at placere de elementer som er blevet tildelt et grid-area og beslutte hvor meget elementerne skal fylde. Hvis man skriver et punktum i stedet for et bogstav, vil feltet stå tomt</td>
-                              </tr>
-                        </table>
-                        
-                        <p>(Østergaard, Responsive design + CSS Grid, 2020) <br>
-                            (CSS Grid Layout Module, 2020)<br>
-                            (CSS grid-column-start Porperty, 2020)<br>
-                            (CSS grid-column-end Property , 2020)<br>
-                            (CSS grid-row-end Property, 2020)<br>
-                            (CSS grid-column Property, 2020)<br>
-                        </p>
                     
+                    <section>
                         <h3>Den første metode</h3>
-                        <p>Ved den første metode styrer man fordelingen ved at angive den på hvert element og kan derfor være besværlig at ændre i. Her går det ud på at man tæller stregerne og skriver hvor feltet skal starte og slutte (Østergaard, Responsive design + CSS Grid, 2020). </p>
+                        <p>Man kan anvende CSS grid på to forskellige måder. Ved den første metode styrer man fordelingen ved at angive den på hvert element og kan derfor være besværlig at ændre i. Her går det ud på at man tæller stregerne og skriver hvor feltet skal starte og slutte (Østergaard, Responsive design + CSS Grid, 2020).</p>
                         
-                            <br>
                         
-                         <img class="billeder" src="Billeder/CSS/CSS_grid/1_metode_kode.png" alt="Eksempel på CSS grid">  
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/1_metode_kode.png" alt="Eksempel på CSS grid">  
                       
                             <br><br>
                     
-                        <img class="billeder" src="Billeder/CSS/CSS_grid/1_metode_browser.png" alt="Eksempel på CSS grid">  
-                        
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/1_metode_browser.png" alt="Eksempel på CSS grid"> 
+                    </section>
+                    
+                    
+                    
+                    <section> 
                         <h3>Den anden metode</h3>
                         <p>Ved den anden metode styrer man fordelingen ét sted i CSS-dokumentet, hvilket gør det lettere at ændre i og derfor anvendes denne metode oftest. Dog kræver det at alle elementer navngives med en grid-area udover et id (Østergaard, Responsive design + CSS Grid, 2020).</p>
-                        
-                            <br>
                         
                         <img class="billeder" src="Billeder/CSS/CSS_grid/2_metode_kode.png" alt="Eksempel på CSS grid"> 
                         
                             <br><br>
                     
-                        <img class="billeder" src="Billeder/CSS/CSS_grid/2_metode_browser.png" alt="Eksempel på CSS grid">
-                        
-                     </section>
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/2_metode_browser.png" alt="Eksempel på CSS grid"> 
+                    </section>
+                    
                     
                     
                     <section id="layoutstrategier">
                         <h2>Layoutstrategier</h2>
                         <p>Når man udvikler hjemmesider, skal man være opmærksom på de mange forskellige skærmstørrelser samt skærmenes forskellige opløsninger. Nu til dags bruges både smartphones, tablets, bærbare computere og stationære computere til at surfe på internettet, og udover at disse selvfølgelig har forskellige størrelser, så findes der også mange forskellige størrelser inden for hver variant. Derfor skal hjemmesiderne udvikles til at passe på alle skærme, hvilket også er med til at sikre en optimal brugeroplevelse (Østergaard, Responsive design + CSS Grid, 2020). </p>
-                    </section>
-                    
-                    <section id="layoutformer">
-                        <h2>Layoutformer</h2>
+                   
+                        <h2 id="layoutformer">Layoutformer</h2>
                         <p>Der findes fire overordnede tilgange til layoutformer, hvilket er statisk, flydende, adaptiv og responsiv. </p>
                         
                         <h3>Den statiske layoutform</h3>
@@ -317,36 +317,28 @@
                     </section>
                     
                     
+                    
                     <section id="mobilefirst">
                         <h2>Mobile first</h2>
                         <p>Smartphones bruges oftere og oftere til at surfe på rundt på internettet og bl.a. derfor er mobile first den fortrukne designstrategi. Derudover er det ofte sværest at tilpasse information på begrænset plads og det er derfor en god ide at starte med det sværeste først, for så det bliver lettere når man begynder at udvikle til større skærme. Samtidig er det vigtigt at mobil versionen er veldesignet for at få de besøgende til at blive på siden længst muligt, idet der findes mange distraktioner på en mobil. Når man er færdig med at udvikle mobil versionen, går man over til tablet versionen og til sidst desktop versionen (Østergaard, Responsive design + CSS Grid, 2020). 
                             <br>
                         Man koder ud fra mobile first tilgangen ved at starte med at kode hjemmesiden, så den passer til en smartphone. Derefter tilføjer man breakpoints hvor versionerne skal ændre sig f.eks. ved 800px og ved 1200px. Et breakpoint er nemlig den bredde hvor en regel overtager en anden regel. Responsive hjemmesider har typisk to breakpoints eller mere, altså minimum et breakpoint til tablet versionen og minimum et breakpoint til desktop versionen. Disse breakpoints laves ved hjælp af media queries og ser ofte således ud:</p>
                             
-                            <br>
-                            
-                        <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/Media%20queries.png" alt="Sådan skriver man en media querie i css" style="height:50px">  
-                        </div>
-                            
-                            <br>
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/Media_queries.png" alt="Sådan skriver man en media querie i css">  
+                    
+                            <br><br>
                             
                         <p>Hvis man koder efter mobile first princippet bruger man min-width i sine breakpoints og hvis man koder efter dekstop first princippet bruger man max-width i sine breakpoints. På den måde kan man hurtig se på koden om der er tale om mobile first eller dekstop first. Inden i disse breakpoints skriver man altså hvad der skal ændres på siden når disse breakpoints nås, f.eks. CSS grid.</p>
                         
                             <br>
-                            
-                        <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/CSS_Grid.png" alt="Eksempel på CSS grid" style="">  
-                        </div>
-                        
+    
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/CSS_Grid.png" alt="Eksempel på CSS grid">    
                             <br>
                             
                         <p>Når man anvender media queries skal man altid indsætte dette meta-tag under &#60;head&#62; i HTML-dokumentet. Ellers risikerer man at disse media queries ikke virker og at browseren prøver at presse et desktop-site ned på en mobil.</p>
                         
-                        
-                        <div>
-                            <img class="billeder" src="Billeder/CSS/CSS_grid/viewport.png" alt="Viewport skal indsættes i html" style="">  
-                        </div>
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/viewport.png" alt="Viewport skal indsættes i html">  
+
                         
                         <p>(Østergaard, Responsive design + CSS Grid, 2020)</p>
                         
