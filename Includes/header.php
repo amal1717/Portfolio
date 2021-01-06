@@ -36,7 +36,7 @@
                             <a class="dropdown-item" href="gestaltlovene.php">Gestaltlovene</a>
                             <a class="dropdown-item" href="farver.php">Farver</a>
                             <a class="dropdown-item" href="typografi.php">Typografi</a>
-                            <a class="dropdown-item" href="">Kamerateknik</a>
+                            <a class="dropdown-item" href="kamerateknik.php">Kamerateknik</a>
                             <a class="dropdown-item" href="informationsarkitektur.php">Informationsarkitektur</a>
                         </div>
                     </li>
