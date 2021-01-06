@@ -66,7 +66,7 @@
                             
                             <h3 id="eksponeringstrekanten">Eksponeringstrekanten</h3>
                             <p>Denne model illustrerer at blændetallet, lukkertiden og ISO-værdien danner billeders eksponering, altså den mængde lys der rammer sensoren. Derfor er det disse faktorer som man justerer på for at opnå den ”perfekte eksponering”. Eksponeringstrekanten angiver også at de tre parametre påvirker hinanden. Hvis man justerer på ét parameter, skal man derfor også justere de andre parametre, hvis man ønsker at beholde samme eksponering. Dog er det ofte en god idé at undgå at øge ISO-værdien, fordi det skaber støj i billedet (Kjøller, 2021).</p>
-                            <img src="Billeder/Kamerateknik/eksponeringstrekanten.png" alt="Eksponeringstrekanten">  
+                            <img src="Billeder/Kamerateknik/Eksponeringstrekanten.png" alt="Eksponeringstrekanten">  
                             
                         </section>
                     
@@ -75,7 +75,7 @@
                             <h2>Lukker og lukkertid</h2>
                             <p>Lukkeren sidder foran sensoren og åbner hver gang man tager et billede. Man kan justere på hvor lang tid lukkeren skal være åben, hvilket udtrykkes gennem lukkertiden. Jo længere lukkertiden er, desto lysere bliver billedet, men hvis lukkertiden er lang, medfører det også bevægelsessløring og rystelser. Derfor skal man kun anvende lang lukkertid, hvis objektet i billedet er fuldstændig stille, medmindre man decideret ønsker bevægelsessløring i billedet. Nedenstående billede et eksempel på to ens billeder der er taget med forskellig lukkertid (Østergaard, Kamerateknik, 2020). </p>
 
-                            <img class="billeder" src="Billeder/Kamerateknik/kort_og_lang_lukkertid.png" alt="Eksempel på billede med kort lukkertid og eksempel på billede med lang lukkertid">
+                            <img class="billeder" src="Billeder/Kamerateknik/kort_og_lang_lukkertid_eksempel.png" alt="Eksempel på billede med kort lukkertid og eksempel på billede med lang lukkertid">
                         </section>
 
                         <section id="blaende">
@@ -123,21 +123,18 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Bogner, C. (25. september 2020). Design: Typografi og typografiens historie. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/typografi.pdf">Typografi.pdf</a>
+                            Østergaard, N. (23. oktober 2020). Kamerateknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/introduktion_til_fotografering.pdf">Introduktion til fotografering.pdf</a>
                             <br><br>
-                            Adobe Fonts. (4. januar 2021). Hentet fra fonts.adobe.com: <a href="https://fonts.adobe.com/fonts">https://fonts.adobe.com/fonts</a>
-                           
-                        </p>
-                       
-                        <p>
-                       
+                            Kjøller, J. (6. januar 2021). Vejen til den perfekte eksponering. Hentet fra fotomalia.dk: <a href="https://fotomalia.dk/vejen-til-den-perfekte-eksponering/">https://fotomalia.dk/vejen-til-den-perfekte-eksponering/</a>
+                            <br><br>
+                            Pexels. (28. oktober 2020). Hentet fra pexels.com: <a href="https://www.pexels.com/da-dk/">https://www.pexels.com/da-dk/</a>
+                            
                             <br><br> 
                             
                             <a href="#top">Til toppen</a>
                             
                             <br><br> 
-                            
-                         </p>
+                        </p>
                        
                     </section>
 

@@ -29,20 +29,11 @@
            
                 <section id="mitgrid">
                     
-                        <section id="oversigtoversiden">
-                            <nav>
-                                <ul>
-                                    <li><h2 id="oversigt">Oversigt:</h2></li>
-                                    <li><a class="list-item" href="#forloeb">Forløb</a></li>
-                                    <li><a class="list-item" href="#refleksion"></a>Refleksion</li>
-                                </ul>s
-                            </nav>
-                        </section>
                     
                     <section id="forloeb">
                         <h2>Læringsportfolio</h2>
                         
-                        <h3>Forløb</h3>
+                        <h3>Forløbet</h3>
                         
                         <h4>Emner</h4>
                         <p>Jeg startede forløbet med at danne mig et overblik over de forskellige emner vi har haft om og det gjorde jeg bl.a. ved at gennemgå hver sektion i moodlerummet ’Grundlæggende faglighed’. Dog har vi også haft nogle projekter som ikke er placeret under ’Grundlæggende faglighed’, så derfor gennemgik jeg også de resterende moodlerum. Undervejs skrev jeg alle de forskellige emner ned på et stykke papir og da jeg havde fundet dem alle, besluttede jeg at skrive emnerne ned på individuelle kort for at foretage en kortsortering. Jeg startede med at overveje hvad overskrifterne, altså menupunkterne, skulle være, men besluttede derefter at inddele kortene først. Kortene blev inddelt ud fra hvad jeg synes der passede sammen og derefter besluttede jeg at overskrifterne skulle være ’Kodning’, ’Design’, ’Kommunikation’ og ’Projekter’. Jeg var lidt i tvivl om jeg skulle vælge at bruge ordet ’kodning’ eller om jeg skulle finde på et andet ord f.eks. ’webudvikling’. Dog synes jeg at ordet ’webudvikling’ er et begreb som dækker over alle de emner vi har haft om og derfor valgte jeg ordet ’kodning’. Det er jo også en del af webudvikling at man kan designe logoer og skrive tekster.</p>
