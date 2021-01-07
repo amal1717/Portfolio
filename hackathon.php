@@ -47,6 +47,19 @@
                         <p>Dette projekt handlede om at anvende design thinking til at udvikle løsninger, som skulle afhjælpe Skive Festival med deres forskellige udfordringer. Skive Festival var ude på skolen for at give en præsentation om selve festivallen og deres udfordringer, hvorefter vi skulle arbejde i grupper og forberede et oplæg, som vi skulle præsentere for hele skolen og Skive Festival til sidst i projektet. I grupperne skulle vi ved hjælp af de 5 faser i design thinking metoden vælge en af Skive Festivals udfordringer og finde frem til en konkret problemstilling, som vi skulle finde på løsningsforslag til. Derefter skulle vi vælge hvilke idéer vi ville tage udgangspunkt i og lave en prototype som vi skulle teste inden oplægget. </p>
                     </section>
                     
+                    <section id="billeder">
+                        
+                        <h2>Billeder af prototypen</h2>
+                        
+                            <img class="billeder" src="Billeder/Hackathon/Hackathon1.png" alt="Prototype af design thinking projekt - Skive festival">
+                          
+                            
+                                <br><br><br>
+                            
+                            <img class="billeder" src="Billeder/Hackathon/Hackathon2.png" alt="Prototype af design thinking projekt - Skive festival">
+                          
+                    </section>
+                    
                     <section id="designthinking">
                         <h2>Design Thinking</h2>
                         
@@ -74,28 +87,13 @@
                         
                             <br><br>
                         
-                        <img class="andrebilleder" src="Billeder/Hackathon/Design-Thinking-Model.png" alt="Design thinking model" style="width:100%">
+                        <img class="billederudenskygge" src="Billeder/Hackathon/Design-Thinking-Model.png" alt="Design thinking model" style="width:100%">
                         
                         <p>(Hackathon, 2020)</p>
                     
                     </section>
                     
-                              <br><br>
-                        
-                    <section id="billeder">
-                        
-                        <h2>Billeder af prototypen</h2>
-                        
-                            <img class="billeder" src="Billeder/Hackathon/Hackathon1.png" alt="Prototype af design thinking projekt - Skive festival">
-                          
-                            
-                                <br><br><br>
-                            
-                            <img class="billeder" src="Billeder/Hackathon/Hackathon2.png" alt="Prototype af design thinking projekt - Skive festival">
-                          
-                    </section>
-                    
-                   
+        
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
                         <p></p>

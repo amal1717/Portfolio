@@ -141,7 +141,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Det er næsten umuligt at undgå at benytte en eller flere af designprincipperne når man udvikler en hjemmeside, men det er selvfølgelig bedst hvis man gør det bevidst og gør sig nogle overvejelser. I forhold til denne hjemmeside har jeg bl.a. anvendt white space og proximity. På forsiden ses en del white space rundt om billedet og teksten i bunden, samtidig med at det nedtonede billede på en måde også fungerer som white space. Derudover er der på undersiderne en bred margen i begge sider, hvilket både skaber white space og bidrager til en bedre læse oplevelse og mere fokus på teksten. Proximity anvendes sådan set på alle siderne, fordi jeg bl.a. har været opmærksom på at billederne skal være placeret tættere på den tekst de hører sammen med end teksterne nedenunder.</p>
                     </section>
                     
                     

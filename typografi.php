@@ -153,7 +153,7 @@
                     
                     <section id="skrifter">
                         <h2>Skrifter fortæller historier</h2>
-                        <p>Skrifttyper har stor indflydelse på hvordan læseren opfatter den information som teksten kommunikerer. I forbindelse med tekster er der ikke noget toneleje, kropssprog eller lignende som kan påvirke kommunikationen, ligesom der er når man taler sammen. Til gengæld kan man bruge typografien til dette. Derfor er det vigtigt, at man tænker over hvad teksten skal symbolisere og hvad budskabet er, hvorefter man vælger en skrifttype som også symboliserer dette. Skrifttyper besidder nemlig en indbygget historie, som automatisk bliver en del af læserens fortolkning. Det ville f.eks. virke lidt mærkeligt at læse en regnskabsrapport, som er skrevet med comic sans skrifttypen. Nedenstående billede viser hvordan skrifttyper kan understøtte ordenes budskab.</p>
+                        <p>Skrifttyper har stor indflydelse på hvordan læseren opfatter den information som teksten kommunikerer. I forbindelse med tekster er der ikke noget toneleje, kropssprog eller lignende som kan påvirke kommunikationen, ligesom der er når man taler sammen. Til gengæld kan man bruge typografien til dette. Derfor er det vigtigt, at man tænker over hvad teksten skal symbolisere og hvad budskabet er, hvorefter man vælger en skrifttype som også symboliserer dette. Skrifttyper besidder nemlig en indbygget historie, som automatisk bliver en del af læserens fortolkning (Rold, Kapitel 16 - Typografi, 2019). Det ville f.eks. virke lidt mærkeligt at læse en regnskabsrapport, som er skrevet med comic sans skrifttypen. Nedenstående billede viser hvordan skrifttyper kan understøtte ordenes budskab. .</p>
                         
                          <img class="billeder" src="Billeder/Typografi/skrifter_historier.png" alt="Eksempel på skrifttyper fortæller historier">
                         
@@ -193,7 +193,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Noget af forberedelsen, til den dag hvor vi havde om typografi, bestod i at se nogle videoer på LinkedIn Learning. Generelt får jeg ofte meget ud af at se videoer på LinkedIn Learning og disse videoer var ingen undtagelse. I forbindelse med selve undervisningen var der i PowerPointet mange gode eksempler på hvordan man hensigtsmæssigt anvender typografi og hvordan man ikke skal anvende typografi. Efterfølgende skulle vi i grupper lave en opgave omkring nogle bestemte skrifttyper, hvor vi skulle komme ind på stilart, fontanatomi, designperioder, historie osv. Dog synes jeg at denne opgave var mere forvirrende end gavnende bl.a. fordi det var svært at finde informationerne og fordi typografiens historie er temmelig kompleks. I stedet for har jeg lært at kende forskel på de forskellige skrifttyper og fonts ved bl.a. at bruge Adobe Fonts, idet man kan sortere skrifttyperne ud fra classification, properties og tags.</p>
                     </section>
                     
                     

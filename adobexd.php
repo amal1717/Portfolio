@@ -38,6 +38,7 @@
                                     <li><a class="list-item" href="#prototype">Prototype-funktionen</a></li>
                                     <li><a class="list-item" href="#share">Share-funktionen</a></li>
                                     <li><a class="list-item" href="#preview">Preview</a></li>
+                                    <li><a class="list-item" href="#adobexdprototyper">Adobe XD prototyper</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                     <li><a class="list-item" href="#kilder">Kilder</a></li>
                                 </ul>
@@ -48,24 +49,17 @@
                         <section id="adobe">
                             <h2>Adobe XD</h2>
                             <p>Adobe XD blev i 2016 lanceret under navnet ”Adobe Experience Design” og er et meget populært program til at lave digitale og visuelle prototyper af webdesigns, app design og andre interaktive løsninger. Programmet har alle de værktøjer som gør det muligt at visualisere sine designs og vise dem frem inden der investeres tid og penge i at kode projektet. Adobe XD er ligesom Photoshop og Illustrator udviklet af Adobe og derfor er der flere af de samme værktøjer som går igen i programmerne, f.eks. benytter Adobe XD også lag (Reininger, 2020). </p>
-                            
-                              <br>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/Adobe_XD/adobe_XD.png" alt="Billede af programmet Adobe XD">
-                            </div>
+                           
+                            <img class="billeder" src="Billeder/Adobe_XD/adobe_XD.png" alt="Billede af programmet Adobe XD">
                         
                         </section>
                     
                         <section>
                             <h3>Valg af device</h3>
                             <p>Allerførst skal man vælge hvilket format man vil lave prototypen til, altså om det skal være mobile, tablet eller desktop, men man skal også vælge det præcise device og dermed størrelsen på prototypen. F.eks. kan man vælge imellem iPhone 6, 7, 8 Plus eller iPhone X, XS, 11 Pro. </p>
-                            
-                                <br>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/Adobe_XD/valg-af-device.png" alt="Mulige valg af devices i Adobe XD">
-                            </div>
+                             
+                            <img class="billeder" src="Billeder/Adobe_XD/valg-af-device.png" alt="Mulige valg af devices i Adobe XD">
+                        
                         </section>
                     
                     
@@ -79,34 +73,25 @@
                             <h2>Design-funktionen</h2>
                             <p>Design-funktionen giver mulighed for at lave selve indholdet i prototypen, da man bl.a. bruger funktionen til at designe forskellige ikoner, indsætte tekst, ændre skrifttype, bruge penne værktøjet, ændre device osv. Dog bliver man nødt til at anvende Photoshop eller Illustrator for det mere avancerede grafik og efterfølgende indsætte det i Adobe XD (Reininger, 2020). </p>
                             
-                                <br>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/Adobe_XD/Design-funktionen.png" alt="Billede af design-funktionen i Adobe XD">
-                            </div>
+                            <img class="billeder" src="Billeder/Adobe_XD/Design-funktionen.png" alt="Billede af design-funktionen i Adobe XD">
+                 
                         </section>
                     
                     
-                     <section id="prototype">
+                        <section id="prototype">
                             <h2>Prototype-funktionen</h2>
                             <p>En af de funktioner som gør at man let kan demonstrere brugeroplevelsen, er prototype-funktionen. Denne funktion er en klik-og-træk funktion, som gør prototypen interaktiv, idet den gør det muligt at klikke på forskellige elementer. Hvis et webdesign f.eks. har en brugerbar, kan man bruge denne funktion til at få det til at ligne at burgerbaren åbner sig, når man klikker på den, altså ligesom den gør på en rigtig hjemmeside. Man bruger altså denne funktion til at få prototypen til at opføre sig som en rigtig hjemmeside (Reininger, 2020). </p>
-                            
-                                <br>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/Adobe_XD/prototype-funktionen.png" alt="Billede af prototype-funktionen i Adobe XD">
-                            </div>
+
+                            <img class="billeder" src="Billeder/Adobe_XD/prototype-funktionen.png" alt="Billede af prototype-funktionen i Adobe XD">
+
                         </section>
                     
                        <section id="share">
                             <h2>Share-funktionen</h2>
                             <p>Share-funktionen giver mulighed for at dele sin prototype med andre ved at klikke på ”create link” i højre siden af programmet. Derefter laver programmet et link som man kan sende til andre og dermed give dem mulighed for at se prototypen. Dog skal man være opmærksom på at trykke ”Update link” og sende det opdaterede link, hvis man har lavet nogle ændringer efter man tidligere har trykke ”Create link”. Man kan også invitere andre til prototypen oppe i højre hjørne af programmet, hvis man er flere som skal have mulig for at lave ændringer i prototypen. F.eks. hvis man er et team som arbejder på den samme opgave. </p>
-                            
-                                <br>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/Adobe_XD/share-funktionen.png" alt="Billede af share-funktionen i Adobe XD">
-                            </div>
+            
+                            <img class="billeder" src="Billeder/Adobe_XD/share-funktionen.png" alt="Billede af share-funktionen i Adobe XD">
+
                         </section>
                     
                         <section id="preview">
@@ -114,27 +99,39 @@
                             <p>Man har også mulighed for at bruge preview-funktionen så man kan tjekke om prototypen ser ud som den skal, når den har det præcise format. Denne funktion bruger man ved at klikke på play-ikonet oppe i højre hjørne af programmet. Hvis man vil tjekke mobiludgaven, kan man også installere Adobe XD-appen på sin egen mobil og tjekke prototypen derigennem. </p>
                         </section>
                     
-                    <section>
-                        <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
-                    </section>
+                        <section id="adobexdprototyper">
+                            <h2>Adobe XD prototyper</h2>
+                            <p>
+                                <a href="https://xd.adobe.com/view/694e3691-26b4-4def-9fdd-b74f750f92b2-3c1d/">Mobile prototypen fra One Page projektet</a>
+                                <br><br>
+                                <a href="https://xd.adobe.com/view/aba1397d-dd32-42b5-bc62-149156b1c0a0-fef2/">Tablet prototypen fra One Page projektet</a>
+                                <br><br>
+                                <a href="https://xd.adobe.com/view/4c9ceb0f-84db-43c7-b4ec-ca9ce5abbb87-19cf/">Desktop prototypen fra One Page projektet</a>
+                            </p>
                     
+                        </section>
                     
-                    <section>
-                        <h2 id="kilder">Kilder</h2>
-                        <h3>Internetkilder:</h3>
-                        <p>
-                            Reininger, L. (17. januar 2020). Hvad kan Adobe XD? Her får du en gennegang af programmet. Hentet fra blog.softworld.dk: <a href="https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator">https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator</a>
-                            
-                            <br><br>
-                        
-                        <a href="#top" >Til toppen</a>
-                            
-                        </p>
-                        
-                            <br><br>
-                        
-                    </section>
+                        <section>
+                            <h2 id="refleksion">Refleksion</h2>
+                            <p>Første gang jeg arbejdede med Adobe XD var under One page projektet, men jeg havde heldigvis kort stiftet bekendtskab med programmet forud for dette, hvilket gjorde arbejdet med programmet lidt lettere. Under One page projektet skulle vi udvikle en responsiv hjemmeside, som skulle have minimum to breakpoints, for at give hjemmesiden en mobile version, en tablet version og en desktop version. Vi skulle bruge Adobe XD til at udvikle tre forskellige prototyper af hjemmesiden – én for hver version, hvilket betød at vi brugte programmet en del. Derfor blev det også lettere og lettere at bruge programmet. Derudover er det et forholdsvis simpelt program, så jeg lærte det meste ved at prøve mig frem, men når der opstod nogle udfordringer, hjalp det at sparre med klassekammerarterne.</p>
+                        </section>
+
+
+                        <section>
+                            <h2 id="kilder">Kilder</h2>
+                            <h3>Internetkilder:</h3>
+                            <p>
+                                Reininger, L. (17. januar 2020). Hvad kan Adobe XD? Her får du en gennegang af programmet. Hentet fra blog.softworld.dk: <a href="https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator">https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator</a>
+
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                            </p>
+
+                                <br><br>
+
+                        </section>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

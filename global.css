@@ -406,8 +406,6 @@ section p a { /*Links under "kilder"*/
 
 
 
-
-
 /*..........LISTER..........*/
 .liste{
     list-style: none; /*Fjerner prikkerne*/
@@ -452,6 +450,7 @@ section p a { /*Links under "kilder"*/
     /*MARGIN*/
     margin-left: 25px;
 }
+
 
 
 /*..........BILLEDER SLUTTER..........*/

@@ -34,6 +34,7 @@
                                 <ul>
                                     <li><h2 id="oversigt">Oversigt:</h2></li>
                                     <li><a class="list-item" href="#farver">Farver</a></li>
+                                    <li><a class="list-item" href="#video">Video om farver</a></li>
                                     <li><a class="list-item" href="#farvecirklen">Farvecirklen</a></li>
                                     <li><a class="list-item" href="#farvesammensætning">Farvesammensætning</a></li>
                                     <li><a class="list-item" href="#farvesystemer">Farvesystemer</a></li>
@@ -48,6 +49,12 @@
                         <section id="farver">
                             <h2>Farver</h2>
                             <p>Det er vigtigt, at man som multimediedesigner generelt forholder sig til farver og altid foretager bevidste farvevalg. Farver er nemlig med til at skabe stemninger og påvirke vores sanser og følelser, så derfor har de stor indflydelse på brugerens følelsesmæssige oplevelse. Dette hænger også sammen med farvesymbolik og kulturer, som man også skal være opmærksom på. Som multimediedesigner vil man oftest arbejde med farver som et visuelt og æstetisk element, der understøtter oplevelser og følelser hos brugeren (Rold, 2019).</p>
+                            
+                            <h3 id="video">Video om farver</h3>
+                            <div class="video-container">
+                                <iframe class="youtubevideo" width="560" height="315" src="https://www.youtube.com/embed/Qj1FK8n7WgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>  
+
                             
                             <h3>Grundlæggende begreber</h3>
                                <table id="tabel">
@@ -198,7 +205,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Som forberedelse til den dag vi havde om farver skulle vi se den YouTube video, som er indsat øverst på denne side. Jeg har valgt at indsætte denne video, fordi jeg synes det var en god video som lærte mig rigtig meget på kort tid. Til selve undervisningen fik vi en opgave, som handlede om at vi i grupper skulle gå en tur og tage billeder af alle de farvesammensætninger vi kunne få øje på. Opgaven var simpel, men effektiv, for selv 14 dage efter kunne jeg ikke gå en tur uden at se farvesammensætninger over det hele.</p>
                     </section>
                     
                     

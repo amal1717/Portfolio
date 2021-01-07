@@ -54,66 +54,45 @@
                         
                         <section>
                             <h3>Projektets links</h3>
-                            <table id="tabel">
-                                  <tr>
-                                    <td><a href="http://castus.dk/produkter/frugtspaghetti/">Castus' Frugtspaghetti</a></td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="https://github.com/amal1717/One-page-gruppe-3">Filer på Github</a></td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="http://amal1717.web.eadania.dk/one-page-gruppe-3/">One-page hjemmesiden</a></td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="https://xd.adobe.com/view/4c9ceb0f-84db-43c7-b4ec-ca9ce5abbb87-19cf/">Desktop prototypen</a></td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="https://xd.adobe.com/view/aba1397d-dd32-42b5-bc62-149156b1c0a0-fef2/">Tablet prototypen</a></td>
-                                  </tr>
-                                 <tr>
-                                    <td><a href="https://xd.adobe.com/view/694e3691-26b4-4def-9fdd-b74f750f92b2-3c1d/">Mobile prototypen</a></td>
-                                  </tr>
-                            </table>
-                    
+                            
+                            <ul>
+                                <li class="liste"><a href="https://github.com/amal1717/One-page-gruppe-3">Filerne på Github</a></li>
+                                <li class="liste"><a href="http://amal1717.web.eadania.dk/one-page-gruppe-3/">One Page hjemmesiden</a></li>
+                                <li class="liste"><a href="https://xd.adobe.com/view/4c9ceb0f-84db-43c7-b4ec-ca9ce5abbb87-19cf/">Desktop prototypen</a></li>
+                                <li class="liste"><a href="https://xd.adobe.com/view/aba1397d-dd32-42b5-bc62-149156b1c0a0-fef2/">Tablet prototypen</a></li>
+                                <li class="liste"><a href="https://xd.adobe.com/view/694e3691-26b4-4def-9fdd-b74f750f92b2-3c1d/">Mobile prototypen</a></li>
+                            </ul>
+                            
                     </section>
                 
                                       
                     <section id="billeder">
                         
                             <h2>Billeder fra projektet</h2>
-
+                        
+                            <h3>Empathize og define fasen</h3><br>
                             <img class="billeder" src="Billeder/One_page/Empathize_og_define.png" alt="Empathize og define fasen">
                         
-                            <p class="billedetekst">Empathize og define fasen </p>
-                        
                                 <br><br>
                         
+                            <h3>Ideate fasen</h3><br>
                             <img class="billeder" src="Billeder/One_page/Ideate.png" alt="Ideate fasen">
                         
-                            <p class="billedetekst">Ideate fasen</p>
-                        
                                 <br><br>
-                        
+                            
+                            <h3>Wireframes</h3><br>
                             <img class="billeder" src="Billeder/One_page/Wireframes.png" alt="Wireframes">
                         
-                            <p class="billedetekst">Wireframes til alle tre versioner</p>
-                        
                                 <br><br>
                         
+                            <h3>Moodboard</h3><br>
                             <img class="billeder" src="Billeder/One_page/Moodboard.png" alt="Moodboard">
                         
-                            <p class="billedetekst">Moodboard</p>
-                        
                                 <br><br>
                         
+                            <h3>Resultatet</h3><br>
                             <img class="billeder" src="Billeder/One_page/One-page_hjemmesiden.png" alt="Selve one-page hjemmesiden">
-                        
-                            <p class="billedetekst">Starten på hjemmesiden</p>
-                        
-                                <br><br>
-                        
-                        
-                        
+                
                     </section>
                    
                     <section>

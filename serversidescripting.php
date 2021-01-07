@@ -58,18 +58,24 @@
                             Hvis man vil lave headeren i et HTML-dokument om til en PHP-fil skal man kopiere koden til headeren, slette den fra HTML-dokumentet og indsætte den i et nyt dokument, som man kalder header.inc eller header.php. Derefter linker man til denne fil i alle HTML-dokumenter i stedet for at skrive hele koden i hvert dokument og derfor skal PHP-filen gemmes samme sted som de resterende filer til hjemmesiden. <br> Alle HTML-dokumenter der indeholder PHP skal omdøbes til .php i stedet for .html, men det påvirker ikke selve funktionen idet man både kan skrive HTML, JavaScript, PHP og CSS i PHP-filer (Hvad er PHP?, 2020).  Man skal enten bruge ”include” eller ”require” statementet til at indsætte PHP-filen i HTML-dokumentet. Disse statements tager den kode som findes i PHP-filen og kopirer den ind i det dokument hvor PHP’en er indsat. ”Include” og ”require” har i princippet den samme funktion på nær hvis der sker en fejl. ”Include” vil komme med en advarsel og scriptet fortsætter, men ”require” vil stoppe scriptet (PHP Include Files , 2020). Nedenstående billede viser hvordan man linker til en PHP-fil via statementet ”include” så headeren vises. 
                             </p>
                         
-                                <br>
-                        
                             <img class="billeder" src="Billeder/php/include.png" alt="Include statementet i php">
                             
-                            <p></p>
+                        
+                            <h3>Øvelse om PHP</h3>
+                            <p>Den dag vi havde om serverside scripting og PHP fik vi udleveret en opgave bestående af en CSS-fil og fire sammenhængende HTML-filer. Opgaven gik derefter ud på at vi skulle kopiere menuen og indsætte den i et nyt dokument, som skulle navngives menu.inc, fordi det er en include-fil. Herefter skulle vi omdøbe alle HTML-filerne til PHP-filer, indsætte include-filen ved hjælp af PHP i stedet for selve menuen og til sidst oprette en femte HTML-fil, som også indeholdte PHP.
                             
+                                <br><br>
+                                
+                            <a href="http://amal1717.web.eadania.dk/step1kopi/side1.php">Se resultatet af opgaven</a>
+                            
+                            </p>
+                        
                     </section>
-                
+                    
                  
                      <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Den ovenstående opgave om PHP hjalp mig rigtig meget med at forstå hvorfor man bruger PHP og hvordan det virker, samtidig med jeg også fik øvet mig i at bruge skolens servere. Dog har det ikke været oplagt eller nødvendigt at anvende PHP i nogle af de projekter som vi efterfølende har haft, så derfor var det godt at få det genopfrisket i forbindelse med dette projekt.</p>
                     </section>
                 
                     

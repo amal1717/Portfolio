@@ -173,6 +173,9 @@
                                 <br><br>
                             Hvis man har lavet et større projekt, vil filen ofte ende med at have mange lag, hvilket gør den endnu større. Derfor kan det være nødvendigt at samle billedet til ét lag ved hjælp af ’Flatten image’ muligheden inden man gemmer billedet som en PNG-fil eller lignende. Hvis det ikke er nok, kan man også ændre størrelsen på billedet under ’Image’ i menubaren og derefter ’Image size’. 
                             </p>
+                            
+                            
+                            <img class="billeder" src="Billeder/Photoshop/Layers.png" alt="Layers i Photoshop">
                         </section>
                               
 
@@ -180,9 +183,7 @@
                             <h2>Adjustments</h2>
                             <p>Under adjustments har man mulighed for at foretage forskellige justeringer bl.a. Brightness/Contrast, Hue/Saturation og Black/White. Brightness/Contrast handler om at justere lysstyrke og kontrast, og Hue/Saturation handler om at justere farvetone og mætning. Derfor har man også mulighed for at trække bestemte farver ud af billedet. Når man anvender Black/White, bliver billedet selvfølgelig sort/hvid, men det er også muligt at justere den præcise nuance af sort/hvid.</p>
                             
-                                <br>
-                            
-                            <img class="billeder" src="Billeder/Photoshop/adjustments.png" alt="Adjustments i Photoshop">
+                            <img class="billeder" src="Billeder/Photoshop/Adjustments.png" alt="Adjustments i Photoshop">
                           
                         </section>
                     
@@ -209,7 +210,9 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Photoshop er en af de programmer som jeg sammenlagt har brugt mest tid på igennem semesteret og allerede samme dag som vi havde om programmet gik jeg hjem og prøvede nogle forskellige værktøjer. Dog var det først under peer-to-peer projektet at programmet rigtig fangende min interesse. Projektet gav mig lyst til at bruge programmet endnu mere, så i ugerne efter gik jeg i gang med flere K3-projekter, hvor jeg bl.a. fik lavet ovenstående. Disse billeder fik jeg lavet ved hjælp af YouTube videoer, sparing med klassekammerarter og ved bare at prøve mig frem, hvilket jeg har lært meget af. <br>
+                        I forhold til denne side har jeg været meget i tvivl omkring opsætningen af de forskellige værktøjer bl.a. fordi størrelsen på billederne varierer meget. Jeg endte med at anvende en simpel opsætning og besluttede mig for at gå tilbage til siden på en senere tidspunkt for at ændre det. Desværre har jeg ikke haft tid til dette, men jeg håber på at ændre det på et senere tidspunkt. 
+                        </p>
                     </section>
                     
                     

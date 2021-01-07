@@ -35,6 +35,7 @@
                                     <li><h2 id="oversigt">Oversigt:</h2></li>
                                     <li><a class="list-item" href="#illustrator">Illustrator</a></li>
                                     <li><a class="list-item" href="#tools">Værktøjer</a></li>
+                                    <li><a class="list-item" href="#layers">Layers</a></li>
                                     <li><a class="list-item" href="#projekter"> Illustrator projekter</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                     <li><a class="list-item" href="#kilder">Kilder</a></li>
@@ -48,11 +49,9 @@
                             <p>Illustrator blev lanceret i 1987 og er udviklet af Adobe (Adobe Illustrator, 2020). Programmet er et vektorgrafiksoftware, som giver mulighed for at producere forskelligt grafik f.eks. logoer, plakater, produktemballage, ikoner osv. Derudover kan programmet med fordel anvendes til frihåndstegninger f.eks. via en tegneplade eller en iPad, og derfor er det kun fantasien der sætter grænser. Idet Illustrator er et vektorbaseret program, kan grafikken skaleres op og ned uden at miste kvaliteten og derfor bruges programmet især hvis grafikken skal kunne skaleres til forskellige størrelser (Adobe Illustrator, 2020). </p>
                             
                               <br>
-                            
-                            <div>
-                                <img class="billeder" src="Billeder/Illustrator/Illustrator.png" alt="Illustrator">
-                            </div>
                         
+                            <img class="billeder" src="Billeder/Illustrator/Illustrator.png" alt="Illustrator">
+              
                         </section>
                     
                     
@@ -268,11 +267,10 @@
     
                             </table>
                             
-                                <br><br>
+                            <p>(Tool galleries, 2017)</p>
                             
                             <p><a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html">Se beskrivelser og illustrationer af alle Illustrator værktøjer</a></p>
-                            
-                     
+                          
                         </section>
                     
                     
@@ -284,6 +282,8 @@
                                 <br><br>
                             Hvis man har lavet et større projekt, vil filen ofte ende med at have mange lag, hvilket gør den endnu større. Derfor kan det være nødvendigt at samle billedet til ét lag ved hjælp af ’Flatten artwork’ muligheden inden man gemmer dokumentet.</p>
                             
+                                <br>    
+                            
                             <img class="billeder" src="Billeder/Illustrator/Layers.png" alt="Layers i Illustrator">
                             
                         </section>
@@ -291,16 +291,18 @@
                     
                     <section id="projekter">
                         <h2>Illustrator projekter</h2>
+                
+                        <img class="billederudenskygge" src="Billeder/Illustrator/opgave-ikoner.jpg" alt="Forskellige ikoner lavet i Illustrator">
+         
+                        <img class="billederudenskygge" src="Billeder/Illustrator/andreprojekter.jpg" alt="Forskellige ikoner lavet i Illustrator">
                         
-                        <img class="billederudenskygge" src="Billeder/Illustrator/opgave-ikoner.jpg" alt="">
-                         
-                        <img class="billederudenskygge" src="Billeder/Illustrator/andreprojekter.jpg" alt="">
-                       
                     </section>
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Vi havde om Illustrator helt i starten af uddannelsen, hvilket efterhånden er lang tid siden. Jeg har derfor skulle bruge lidt længere tid på at sætte mig ind i programmet, for at kunne lave denne side. Efterfølgende har jeg nemlig ikke fået brugt programmet lige så meget som jeg gerne ville, bl.a. på grund af tekniske udfordringer med min tegneplade og manglende tid. Jeg vil derfor fremadrettet være ekstra opmærksom på at gøre noget ved dette og bruge mere K3 tid i Illustrator. Dog har dette projekt heldigvis hjulpet mig med at få genopfrisket programmet, hvilket forhåbentlig kommer mig til gavn når jeg skal i gang med nogle K3-projekter. <br>
+                        I forhold til selve siden har jeg været en del i tvivl om hvordan jeg skulle præsentere de forskellige værktøjer. Jeg endte med at organisere værktøjerne i en tabel, da jeg synes tabeller bidrager til at skabe overblik, hvilket vil gøre det lettere for mig at finde de værktøjer jeg leder efter fremadrettet. Jeg havde også en udfordring i forhold til organiseringen af de forskellige projekter. Jeg valgte derfor at bruge Photoshop til at samle ikonerne på to billeder, hvilket gør dem lettere at holde styr på i forhold til sidens responsivitet. 
+                        </p>
                     </section>
                     
                     
@@ -311,6 +313,9 @@
                             Adobe Illustrator. (29. december 2020). Hentet fra adobe.com: <a href="https://www.adobe.com/dk/products/illustrator.html">https://www.adobe.com/dk/products/illustrator.html</a>
                                 <br><br>
                             Adobe Illustrator. (29. december 2020). Hentet fra britannica.com: <a href="https://www.britannica.com/technology/Adobe-Illustrator">https://www.britannica.com/technology/Adobe-Illustrator</a>
+                                <br><br>
+                            Tool galleries. (15. november 2017). Hentet fra helpx.adobe.com: <a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html">https://helpx.adobe.com/illustrator/using/tool-galleries.html</a>
+                            
                         
                             <br><br>
                         

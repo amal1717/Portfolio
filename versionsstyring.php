@@ -152,7 +152,7 @@
     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Da vi først blev introduceret til Github havde jeg både svært ved at forstå hvordan det virkede og svært ved at forstå meningen med det. Dog fandt jeg efterfølgende ud af at Github bruges rigtig mange steder og at versionsstyring er ganske vigtigt, så derfor valgte jeg, at jeg ville sætte mig ind i hvordan Github fungerer. Under One Page projektet blev jeg lidt klogere på programmet, fordi vi bl.a. skulle aflevere et link hertil, men det var stadig ikke nok. I starten af dette projekt besluttede jeg derfor at sætte mig ordenligt ind i programmet og bruge det så meget som muligt, så nu giver det meget mere mening for mig.</p>
                     </section>
                     
                     
@@ -169,7 +169,7 @@
                             
                             <br><br>
 
-                            <a href="#top">Til toppen</a>
+                            <a class="tiltoppen" href="#top">Til toppen</a>
 
                             <br><br>
                                 

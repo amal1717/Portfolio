@@ -65,22 +65,22 @@
                             <p>1. Gå ind på <a href="https://getbootstrap.com/">https://getbootstrap.com/</a></p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap1.png" alt="Guide til Bootstrap" style="width:100%;">
                         
-                                <br><br>
+                                <br><br><br>
                         
                             <p>2. Tryk på ”Docs” i menuen</p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap2.png" alt="Guide til Bootstrap" style="width:100%;">
                           
-                                <br><br>
+                                <br><br><br>
                         
                             <p>3. Indsæt disse kodeelementer i HTML-dokumentet</p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap3.png" alt="Guide til Bootstrap" style="width:100%;">
                         
-                                <br><br>
+                                <br><br><br>
                         
                             <p>4. Tryk på ”Components” og vælg det ønskede komponent</p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap4.png" alt="Guide til Bootstrap" style="width:100%;">
                         
-                                <br><br>
+                                <br><br><br>
                         
                             <p>5. Indsæt koden til det ønskede komponent i HTML-dokumentet</p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap5.png" alt="Guide til Bootstrap" style="width:100%;">
@@ -91,7 +91,7 @@
                     
                      <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>I starten af projektet besluttede jeg, at jeg selv ville kode menuen til min hjemmeside, så derfor begyndte jeg at lede efter en YouTube video, der demonstrer hvordan man laver en responsiv, mobile first dropdown menu. Desværre lykkedes det mig ikke at finde en video som levende op til kravene, hvilket fik mig til at søge sparring hos nogle klassekammerarter. Herefter valgte jeg i stedet at anvende Bootstrap til min menu, hvorefter jeg fik en del problemer med at ændre menuens design, så den passede til min hjemmeside. Det er begrænset hvor meget jeg inden dette projekt har benyttet Bootstrap, men efter en del google søgninger og sparing med klassekammerater lykkedes det heldigvis at ændre designet. Denne udfordring har kun gjort mig bedre til både at bruge Bootstrap og forstår hvordan frameworks virker.</p>
                     </section>
                     
                 

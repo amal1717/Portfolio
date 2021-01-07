@@ -64,8 +64,8 @@
                     </section>
                 
                     <section>
-                        <h2 id="skolensserver">Brug af skolens server</h2>
-                            <p>Når man har udviklet en hjemmeside, som skal over på serveren, skal man først sikre at man har oprettet adgang til serveren. Det gør man på <a href="selfservice.itcn.dk">selfservice.itcn.dk</a>, hvor man kan ”tænde” for de forskellige features, f.eks. IIS eller Apache. 
+                        <h2 id="skolensserver">Skolens servere</h2>
+                            <p>Når man har udviklet en hjemmeside, som skal over på en server, skal man først sikre at man har oprettet adgang til en eller flere servere. Det gør man på <a href="selfservice.itcn.dk">selfservice.itcn.dk</a>, hvor man kan ”tænde” for de forskellige servere, f.eks. IIS eller Apache, hvis man er på skolens Wi-Fi.  
                             </p>
                         
                                 <br>
@@ -74,7 +74,7 @@
                         
                                 <br><br>
                         
-                            <p>Derefter skal man installere FTP-klienten ”FileZilla”, som kommunikerer med FTP-serveren og bruges til at udveksle filer til anvendelse på webservere (Østergaard, Internettets historie og serverbegrebet, 2020). Efter man har installeret og åbnet programmet, skal man trække hele mappen med alt indholdet til hjemmesiden over i FileZilla f.eks. i mappen ”_www1_apache”. Man vil derefter kunne finde linket til sin hjemmeside ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.apache.eadania.dk/">http://amal1717.apache.eadania.dk/ </a>. 
+                            <p>Derefter skal man installere FTP-klienten ”FileZilla”, som kommunikerer med FTP-serveren og bruges til at udveksle filer til anvendelse på webservere (Østergaard, Internettets historie og serverbegrebet, 2020). Efter man har installeret og åbnet programmet, skal man trække hele mappen med alt indholdet til hjemmesiden over i FileZilla. Hvis man trækker mappen over i ”_www1_apache” mappen, anvender man Apache serveren og derfor finder man linket til hjemmesiden ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.apache.eadania.dk/">http://amal1717.apache.eadania.dk/</a>. Hvis man derimod trækker mappen over i ”_www1” mappen benytter man IIS serveren og finder linket til hjemmesiden ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.web.eadania.dk/">http://amal1717.web.eadania.dk/</a>. 
                             </p>
                         
                                 <br>
@@ -85,7 +85,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Efterhånden som jeg har brugt skolens servere flere og flere gange, er jeg også blevet mere rutineret i brugen af disse. Udover at jeg har fået lettere ved at bruge dem har jeg også lært at IIS serveren ofte er mere stabil end Apache serveren og at hvilken server man skal eller kan bruge kommer an på projektet. Derudover har jeg lært, at man kan bruge bogmærkefunktionen til at gemme ens login oplysninger, hvilket er med til at gøre brugen af programmet lettere.</p>
                     </section>
                     
                     <section>

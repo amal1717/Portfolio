@@ -347,7 +347,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>CSS er et af de emner jeg har arbejdet mest med, idet man anvender CSS hver gang man koder en hjemmeside. Udover at jeg har arbejdet en del med CSS i undervisningen, har jeg også arbejdet meget med det derhjemme bl.a. i forhold til skoleprojekter og K3-projekter. HTML og CSS-workshoppen var vores første projekt som omhandlende CSS, idet vi skulle udvikle en hjemmeside. Dog var det svært at deles om at kode og style hjemmesiden, fordi det foregik over Zoom og fordi vi ikke havde helt styr på Github endnu. Derfor fik jeg desværre ikke kodet særlig meget, men i stedet for besluttede jeg efterfølgende at bruge en del K3-tid på dette. Jeg fandt nogle videoer på YouTube og lærte derigennem at kode og style en mobile first responsiv navbar, hvor burgerbaren endda bliver til et kryds, når man klikker på den. Generelt har jeg lært en masse om CSS ved at se forskellige YouTube videoer, hvilket jeg synes fungerer rigtig godt, især hvis videoerne indeholder en beskrivelse af processen.</p>
                     </section>
                     
                     
