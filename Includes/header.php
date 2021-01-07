@@ -69,7 +69,7 @@
                         
     
                     <li class="nav-item">
-                        <a class="nav-link" id="navbarDropdown" href="#">Kilder</a>
+                        <a class="nav-link" id="navbarDropdown" href="kilder.php">Kilder</a>
                     </li>
     
                     </ul>
