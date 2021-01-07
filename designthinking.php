@@ -47,15 +47,7 @@
                             <h2>Design Thinking</h2>
                         
                             <p>Dette projekt fokuserede på design thinking metoden og derfor var projektet opdelt i faser, hvor hver fase skulle gennemføres før næste fase måtte påbegyndes. Design thinking metoden består af fem faser, så derfor var projektet også opdelt i fem faser. Dog havde projektet også en sjette fase, implementering, som i dette tilfælde handlede om at "sælge" vores idé. Emnet for projektet var FN’s 17 verdensmål hvor vi ved hjælp af design thinking skulle finde en relevant problemstilling og derefter udvikle en idé til en app, som kunne bidrage til at løse denne problemstilling. I løbet af projektet skulle vi aflevere nogle forskellige videoer hvor vi bl.a. fortalte om hvordan vi havde grebet processen an, hvad vi fandt ud af og hvilket resultat vi var kommet frem til.</p>
-                        
-                                <br><br>
-
-                            <img class="billeder" src="Billeder/Design_Thinking_app/design-thinking-app1.png" alt="Design thinking" style="width:100%">
-                        
-                                <br><br><br>
-
-                            <img class="billeder" src="Billeder/Design_Thinking_app/design-thinking-app2.png" alt="Design thinking" style="width:100%">
-                    
+            
                     </section>
                     
                     <section id="videoafleveringer">
@@ -85,6 +77,17 @@
                             <div class="video-container">
                                 <iframe class="youtubevideo" width="560" height="315"  src="https://www.youtube.com/embed/yhRMCSsBOzE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
+                    </section>
+                    
+                    <section>
+                        <h2>Billeder fra projektet</h2>
+                        
+                        <img class="billeder" src="Billeder/Design_Thinking_app/design-thinking-app1.png" alt="Design thinking" style="width:100%">
+                        
+                                <br><br><br>
+
+                        <img class="billeder" src="Billeder/Design_Thinking_app/design-thinking-app2.png" alt="Design thinking" style="width:100%">
+                    
                     </section>
                 
                                       

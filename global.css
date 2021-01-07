@@ -451,7 +451,33 @@ section p a { /*Links under "kilder"*/
     margin-left: 25px;
 }
 
+.centreredebilleder {
+    text-align: center; 
+}
 
+
+
+
+/*HACKATHON BILLEDER*/
+#hackathonbilleder {
+    visibility: hidden; 
+    display: none; 
+}
+
+@media (min-width:600px) {
+    #hackathon1 {
+        visibility: hidden; 
+        display: none; 
+    }
+    #hackathon2 {
+        visibility: hidden; 
+        display: none; 
+    } 
+    #hackathonbilleder {
+    visibility: visible; 
+    display: block; 
+    }
+}
 
 /*..........BILLEDER SLUTTER..........*/
 
