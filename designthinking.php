@@ -46,7 +46,7 @@
                         
                             <h2>Design Thinking</h2>
                         
-                            <p>Dette projekt fokuserede på design thinking metoden og derfor var projektet opdelt i faser, hvor hver fase skulle gennemføres før næste fase måtte påbegyndes. Design thinking metoden består af fem faser, så derfor var projektet også opdelt i fem faser. Dog havde projektet også en sjette fase, implementering, som i dette tilfælde handlede om at "sælge" vores idé. Emnet for projektet var FN’s 17 verdensmål hvor vi ved hjælp af design thinking skulle finde en relevant problemstilling og derefter udvikle en idé til en app, som kunne bidrage til at løse denne problemstilling. I løbet af projektet skulle vi aflevere nogle forskellige videoer hvor vi bl.a. fortalte om hvordan vi havde grebet processen an, hvad vi fandt ud af og hvilket resultat vi var kommet frem til.</p>
+                            <p>Dette projekt fokuserede på design thinking metoden og derfor var projektet opdelt i faser, hvor hver fase skulle gennemføres før næste fase måtte påbegyndes. Design thinking metoden består af fem faser, så derfor var projektet også opdelt i fem faser. Dog havde projektet også en sjette fase, implementering, som i dette tilfælde handlede om at "sælge" vores idé. Emnet for projektet var FN’s 17 verdensmål hvor vi ved hjælp af design thinking skulle finde en relevant problemstilling og derefter udvikle en idé til en app, som kunne bidrage til at løse denne problemstilling. I løbet af projektet skulle vi aflevere nogle forskellige videoer hvor vi bl.a. fortalte om hvordan vi havde grebet processen an, hvad vi fandt ud af og hvilket resultat vi var kommet frem til. Nederst på siden står beskrevet hvad design thinking metoden handler om.</p>
             
                     </section>
                     
@@ -128,7 +128,7 @@
                    
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>I dette projekt var design thinking metoden i fokus, så derfor var det vigtigt at vi overholdte alle faserne og dermed ikke gik videre til næste fase før vi måtte. Idet der var fokus på selve processen, skulle vi heller ikke aflevere noget skriftligt, men i stedet optage nogle korte videoer, som lærerne skulle have. Disse faktorer “tvang” os til at blive i faserne og fokusere på processen, hvilket gjorde at vi blev endnu bedre til at anvende design thinking metoden. Det er ofte meget svært ikke at gå direkte videre til ideate fasen, fordi man ofte tænker på løsninger med det samme. Dette kræver øvelse, lige som så meget andet, så derfor lærte vi meget ved at projektet ”tvang” os til at blive i faserne. Udover at vi lærte en masse om design thinking metoden lærte vi også om de 17 verdensmål, fordi vi skulle researche om disse og vælge en at tage udgangspunkt i. Det var også meget sjovt og lærerigt at projektet handlede om at vi skulle udvikle en ide til en app.</p>
                     </section>
                     
                     <section>

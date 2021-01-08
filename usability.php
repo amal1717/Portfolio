@@ -113,7 +113,13 @@
                                         </td>
                                       </tr>
                                 </table>
-                            <p>(Gregersen & Wisler-Poulsen, 2018)</p>
+                            <p>(Gregersen & Wisler-Poulsen, 2018)
+                              
+                                <br><br>
+                              
+                                <a href="pdf_filer/Usability.pdf" target="_blank">Se undervisningsmateriale om usability</a>
+                            </p>
+                            
                         </section>
 
                         <section id="gangstertest">
@@ -201,7 +207,7 @@
                     
                     <section>
                         <h2 id="kilder">Kilder</h2>
-                        <h3>Internetkilder:</h3>
+                        <h3>Bøger:</h3>
                         <p>
                             Gregersen, O., & Wisler-Poulsen, I. (2018). Kapitel 3 - 10. I Usability (s. 14-137). Taastrup: Wislers Forlag.
                             

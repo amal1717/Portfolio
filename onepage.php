@@ -97,7 +97,7 @@
                    
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Under dette projekt lærte jeg rigtig meget, fordi vi både skulle designe og udvikle en hjemmeside helt fra bunden, men også fordi det var et langt projekt på 14 dage. Selvom vi selvfølgelig godt kunne have brugt et par dage mere, havde vi alligevel tid til at gå i dybden med projektet, være grundige og fokusere på at lære noget. Under projektet prøvede min gruppe at sætte os ind i Github, fordi vi gerne ville bruge programmet til at dele koden med hinanden, så vi alle sammen kunne kode på hjemmesiden. Dog lykkedes det desværre ikke før det var for sent, så derfor var det primært mig der sad med kodningen. Det var selvfølgelig ikke hensigtsmæssigt i forhold til gruppearbejdet, men jeg lærte rigtig meget ved det. Jeg prøvede at inddrage gruppen i kodningen bedst muligt ved at vende forskellige overvejelser, forklare om løsninger og sende filerne. Derudover var det i dette projekt første gang vi skulle lave et moodboard og første gang vi skulle anvende Adobe XD. Inden vi lavede moodboardet læste vi afsnittet om moodboard i bogen ’Interfacedesign´ og søgte inspiration hos de andre grupper, hvorimod vi blot kastede os ud i brugen af Adobe XD. Når vi stødte på nogle udfordringer i Adobe XD sparrede vi med klassekammerarterne, hvilket hjalp rigtig meget.</p>
                     </section>
                     
                     <section>

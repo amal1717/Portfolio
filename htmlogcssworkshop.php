@@ -126,7 +126,7 @@
                    
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Dette projekt foregik imens vi havde online undervisning, hvilket betød at det foregik over Zoom og derudover havde vi endnu ikke helt styr på at anvende Github endnu. Dette gjorde det meget vanskeligt at deles om at kode hjemmesiden, så derfor enten det overordnet set med at min makker kodede hjemmesiden og at jeg lavede indholdet til hjemmesiden, hvilket ikke var optimalt. Vi brugte screenshare funktionen, så jeg kunne følge med i kodning, hvilket jeg var meget glad for, men jeg lærte desværre ikke særlig meget ved det. Det gjorde også sådan, at jeg havde sværere ved at koncentrere mig om at skrive indholdet, idet jeg skulle koncentrere mig om begge dele. Vi havde kun omkring 3 dage til opgaven, hvilket betød at vi var temmelig tidspresset, så derfor blev vi nødt til at udnytte tiden. Vores udbytte af dette projekt ville have været meget større, hvis vi havde sat i samme lokale og kunne finde ud af at anvende Github.</p>
                     </section>
                     
                     <section>

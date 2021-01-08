@@ -66,7 +66,7 @@
                    
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Dette projekt lærte jeg rigtig meget ved bl.a. fordi det var meget begrænset hvor meget jeg forud for projektet havde arbejdet med Photoshop og Illustrator. Derudover var projektet individuelt, hvilket betyder at man selv laver det hele og dermed opnår det maksimale udbytte. Jeg synes ofte at jeg lærer mere ved individuelle opgaver, fordi der ikke er risiko for at opgaverne bliver fordelt mellem gruppemedlemmerne, hvilket kan resultere i at man ikke lærer alt det man skal. Selvom projektet var individuelt, sad vi stadig sammen oppe i klassen og sparrede med hinanden, hvilket virkelig hjalp mig meget. Derudover valgte jeg at få feedback fra vores lærer undervejs i projektet, hvorefter jeg lavede nogle ændringer, som virkelig forbedrede mit resultat.</p>
                     </section>
                     
                     <section>

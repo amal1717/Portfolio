@@ -44,7 +44,7 @@
                     
                     <section id="hackathon">
                         <h2>Hackathon</h2>
-                        <p>Dette projekt handlede om at anvende design thinking til at udvikle løsninger, som skulle afhjælpe Skive Festival med deres forskellige udfordringer. Skive Festival var ude på skolen for at give en præsentation om selve festivallen og deres udfordringer, hvorefter vi skulle arbejde i grupper og forberede et oplæg, som vi skulle præsentere for hele skolen og Skive Festival til sidst i projektet. I grupperne skulle vi ved hjælp af de 5 faser i design thinking metoden vælge en af Skive Festivals udfordringer og finde frem til en konkret problemstilling, som vi skulle finde på løsningsforslag til. Derefter skulle vi vælge hvilke idéer vi ville tage udgangspunkt i og lave en prototype som vi skulle teste inden oplægget. </p>
+                        <p>Dette projekt handlede om at anvende design thinking til at udvikle løsninger, som skulle afhjælpe Skive Festival med deres forskellige udfordringer. Skive Festival var ude på skolen for at give en præsentation om selve festivallen og deres udfordringer, hvorefter vi skulle arbejde i grupper og forbedre et oplæg, som vi skulle præsentere for hele skolen og Skive Festival til sidst i projektet. I grupperne skulle vi ved hjælp af de 5 faser i design thinking metoden vælge en af Skive Festivals udfordringer og finde frem til en konkret problemstilling, som vi skulle finde på løsningsforslag til. Derefter skulle vi vælge hvilke idéer vi ville tage udgangspunkt i og lave en prototype som vi skulle teste inden oplægget. Design thinking metoden er beskrevet under billederne af prototypen.</p>
                     </section>
                     
                     <section id="billeder">
@@ -97,7 +97,7 @@
         
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Hackathon projektet var placeret i den første uge af uddannelse og var dermed en del af vores introforløb. Projektet handlede derfor mere om at vi skulle rystes sammen og lære om design thinking metoden. Lærerne introducerede os i fælleskab til design thinking metoden og hvordan vi skulle bruge den til at hjælpe Skive Festival. Dog havde vi nogle gange lidt svært at anvende metoden og huske hvordan vi skulle gøre, men heldigvis hjalp det at lærerne gik rundt på skolen og guidede os i den rigtige retning, hvis vi var kommet på afveje eller havde misforstået noget. Derudover havde vi selvfølgelig Moodlerummet som indeholder en del informationer omkring metoden og vi lærte også meget ved snakke internt i gruppen og høre hinanden om hvordan vi havde forstået det. Jeg synes, at projektet formåede at ryste os godt sammen, især fordi vi ligesom havde et fælles projekt, som vi kunne tale om i fællesskab og fordi grupperne var temmelig store.</p>
                     </section>
                     
                     <section>
