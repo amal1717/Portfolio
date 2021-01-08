@@ -145,7 +145,7 @@
                     <section id="nyhedsartiklen">
                         <h2>Nyhedsartiklen</h2>
                         <p>Når man læser en nyhedsartikel, vil man helst ikke skulle læse hele artiklen for at nå frem til konklusionen, så derfor bruges nyhedstrekanten til hurtigt at skabe interesse og danne overblik over indholdet i artiklen. Nyhedstrekanten illustrerer en måde at strukturerer artiklens indhold på nemlig at den vigtigste information fortælles i starten af artiklen og det mindst vigtige fortælles i slutningen af artiklen. Derfor starter en nyhedsartikel ofte med en overskrift, en underoverskrift og et referat, som indeholder de informationer der er vigtigst at vide. Dernæst fortælles hvordan og hvorledes nyheden hænger sammen, altså en uddybning, og til sidst fortælles de detaljer som man i princippet sagtens kan undvære (Busch A. M., 2015).</p>
-                        <br>
+                      
                         <img class="billeder" src="Billeder/Tekstproduktion/nyhedstrekanten.jpg" alt="Billede af nyhedstrekanten">
                     </section>
 
@@ -154,7 +154,7 @@
                         <h2>Den subjektive artikel</h2>
                         <p>Dog anvendes nyhedstrekanten primært på objektive nyhedsartikler, så hvis man skal skrive en subjektiv artikel, kan man benytte kommode-strukturen i stedet for. Kommode-strukturen består først og fremmest af kommodens ramme, som beskriver den overordnede information om artiklen. Dernæst består kommoden af nogle skuffer, som indeholder forskellige emner som læseren kan vælge at åbne og læse, men læseren kan også vælge af gå direkte til konklusionen som en i bunden af artiklen. Derfor har læseren mulighed for at udvælge underemner, så læseren ikke behøver at læse hele artiklen. Ofte bruges denne struktur til en portrætartikel (Busch A. M., 2015). 
                         </p>
-                         <br>
+                      
                         <img class="billeder" src="Billeder/Tekstproduktion/kommode_modellen.jpg" alt="Billede af kommode-modellen">
                     </section>
                     
@@ -209,9 +209,9 @@
                             (Busch A. M., 2015)
                             <br><br>
                             Man kan bruge AIDA-modellen til at sikre at man skaber den rigtig opbygning af en annonce, men det er ikke kun opbygningen der er vigtig. Det er også meget vigtigt at man hele tiden fokuserer på målgruppen når man laver annoncen. Billedet og overskriften kan bruges til at fange målgruppens opmærksomhed (attention) enten fordi det er usædvanligt eller fordi læseren har brug for informationen. Annoncens budskab bruges til at vække deres interesse (interest) og hvis interessen er stærk nok, vil målgruppen få lyst til at eje produktet (desire) og det vil få dem til at købe produktet (action), altså foretage en handling, som man også kalder call to action (Busch A. M., 2015) (Schmith, Tekstproduktion, 2020).</p>
-                             <br>
+                            
                             <img class="billeder" src="Billeder/Tekstproduktion/aida_modellen.jpg" alt="Billede af aida-modellen">
-                             <br><br>
+                             <br><br><br><br>
                             <p>Når man laver en annonce, skal man også overveje hvilken strategi man vil bruge i forhold til målgruppen (Busch A. M., 2015).</p>
                         
                              <table id="tabel">
@@ -306,7 +306,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>I forhold til emnet ’tekstproduktion’ lærte jeg mest ved at deltage i selve undervisningen, men også ved at læse forberedelsesmaterialet. Til sidst i undervisningen fik vi en individuel opgave, hvor vi skulle udarbejde to forskellige tekster – én der skulle omskrive og én der skulle skrives. Jeg fik desværre kun udarbejdet den ene tekst, hvilket betyder at jeg ikke fik det maksimale udbytte ud fra denne opgave. Derfor valgte jeg i stedet at bruge ekstra tid på denne side, hvilket jeg også lærte meget af.</p>
                     </section>
                     
                     

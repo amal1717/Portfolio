@@ -289,43 +289,44 @@
                         </section>
                               
                     
-                    <section id="projekter">
-                        <h2>Illustrator projekter</h2>
-                
-                        <img class="billederudenskygge" src="Billeder/Illustrator/opgave-ikoner.jpg" alt="Forskellige ikoner lavet i Illustrator">
-         
-                        <img class="billederudenskygge" src="Billeder/Illustrator/andreprojekter.jpg" alt="Forskellige ikoner lavet i Illustrator">
-                        
-                    </section>
-                    
-                    <section>
-                        <h2 id="refleksion">Refleksion</h2>
-                        <p>Vi havde om Illustrator helt i starten af uddannelsen, hvilket efterhånden er lang tid siden. Jeg har derfor skulle bruge lidt længere tid på at sætte mig ind i programmet, for at kunne lave denne side. Efterfølgende har jeg nemlig ikke fået brugt programmet lige så meget som jeg gerne ville, bl.a. på grund af tekniske udfordringer med min tegneplade og manglende tid. Jeg vil derfor fremadrettet være ekstra opmærksom på at gøre noget ved dette og bruge mere K3 tid i Illustrator. Dog har dette projekt heldigvis hjulpet mig med at få genopfrisket programmet, hvilket forhåbentlig kommer mig til gavn når jeg skal i gang med nogle K3-projekter. <br>
-                        I forhold til selve siden har jeg været en del i tvivl om hvordan jeg skulle præsentere de forskellige værktøjer. Jeg endte med at organisere værktøjerne i en tabel, da jeg synes tabeller bidrager til at skabe overblik, hvilket vil gøre det lettere for mig at finde de værktøjer jeg leder efter fremadrettet. Jeg havde også en udfordring i forhold til organiseringen af de forskellige projekter. Jeg valgte derfor at bruge Photoshop til at samle ikonerne på to billeder, hvilket gør dem lettere at holde styr på i forhold til sidens responsivitet. 
-                        </p>
-                    </section>
-                    
-                    
-                    <section>
-                        <h2 id="kilder">Kilder</h2>
-                        <h3>Internetkilder:</h3>
-                        <p>
-                            Adobe Illustrator. (29. december 2020). Hentet fra adobe.com: <a href="https://www.adobe.com/dk/products/illustrator.html">https://www.adobe.com/dk/products/illustrator.html</a>
+                        <section id="projekter">
+                            <h2>Illustrator projekter</h2>
+
+                            <div class="centreredebilleder">
+                                <img class="billederudenskygge" src="Billeder/Illustrator/opgave-ikoner.jpg" alt="Forskellige ikoner lavet i Illustrator">
+
+                                <img class="billederudenskygge" src="Billeder/Illustrator/andreprojekter.jpg" alt="Forskellige ikoner lavet i Illustrator">
+                            </div>
+                        </section>
+
+                        <section>
+                            <h2 id="refleksion">Refleksion</h2>
+                            <p>Vi havde om Illustrator helt i starten af uddannelsen, hvilket efterhånden er lang tid siden. Jeg har derfor skulle bruge lidt længere tid på at sætte mig ind i programmet, for at kunne lave denne side. Efterfølgende har jeg nemlig ikke fået brugt programmet lige så meget som jeg gerne ville, bl.a. på grund af tekniske udfordringer med min tegneplade og manglende tid. Jeg vil derfor fremadrettet være ekstra opmærksom på at gøre noget ved dette og bruge mere K3 tid i Illustrator. Dog har dette projekt heldigvis hjulpet mig med at få genopfrisket programmet, hvilket forhåbentlig kommer mig til gavn når jeg skal i gang med nogle K3-projekter. <br>
+                            I forhold til selve siden har jeg været en del i tvivl om hvordan jeg skulle præsentere de forskellige værktøjer. Jeg endte med at organisere værktøjerne i en tabel, da jeg synes tabeller bidrager til at skabe overblik, hvilket vil gøre det lettere for mig at finde de værktøjer jeg leder efter fremadrettet. Jeg havde også en udfordring i forhold til organiseringen af de forskellige projekter. Jeg valgte derfor at bruge Photoshop til at samle ikonerne på to billeder, hvilket gør dem lettere at holde styr på i forhold til sidens responsivitet. 
+                            </p>
+                        </section>
+
+
+                        <section>
+                            <h2 id="kilder">Kilder</h2>
+                            <h3>Internetkilder:</h3>
+                            <p>
+                                Adobe Illustrator. (29. december 2020). Hentet fra adobe.com: <a href="https://www.adobe.com/dk/products/illustrator.html">https://www.adobe.com/dk/products/illustrator.html</a>
+                                    <br><br>
+                                Adobe Illustrator. (29. december 2020). Hentet fra britannica.com: <a href="https://www.britannica.com/technology/Adobe-Illustrator">https://www.britannica.com/technology/Adobe-Illustrator</a>
+                                    <br><br>
+                                Tool galleries. (15. november 2017). Hentet fra helpx.adobe.com: <a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html">https://helpx.adobe.com/illustrator/using/tool-galleries.html</a>
+
+
                                 <br><br>
-                            Adobe Illustrator. (29. december 2020). Hentet fra britannica.com: <a href="https://www.britannica.com/technology/Adobe-Illustrator">https://www.britannica.com/technology/Adobe-Illustrator</a>
+
+                             <a href="#top">Til toppen</a>
+
                                 <br><br>
-                            Tool galleries. (15. november 2017). Hentet fra helpx.adobe.com: <a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html">https://helpx.adobe.com/illustrator/using/tool-galleries.html</a>
-                            
-                        
-                            <br><br>
-                        
-                         <a href="#top">Til toppen</a>
-                            
-                            <br><br>
-                            
-                        </p>
-                        
-                    </section>
+
+                            </p>
+
+                        </section>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

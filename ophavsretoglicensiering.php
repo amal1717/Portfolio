@@ -85,7 +85,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Undervisningen angående ophavsret og licensiering bestod i en individuel opgave, som gik ud på at træne formalia til opgaveskrivning og besvare en masse forskellige spørgsmål omkring emnet. Derfor skulle vi google os til rigtig mange informationer og samtidig skulle vi også anvende kildehenvisninger. Jeg har efterfølgende fundet ud af, at mine kildehenvisninger i opgaven ikke var helt korrekte, så derfor har jeg lært at bruge Words referencesystem. Opgaven blev lagt ud på Moodle om morgenen og skulle afleveres om eftermiddagen, hvilket betød at jeg var temmelig tidspresset. Det kunne nemlig tage lang tid at finde de informationer man skulle bruge, men heldigvis nåede jeg alle spørgsmålene, dog uden det sidste underpunkt. Overordnet set synes jeg, at jeg lærte meget ved at lave denne opgave, men jeg kunne godt have brugt lidt længere tid. Ofte kan jeg nemlig godt bruge lidt tid på at finde ud af hvordan jeg vil formulere noget skriftligt.</p>
                     </section>
                     
                     

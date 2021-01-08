@@ -129,7 +129,7 @@
                         
                             <br><br>
                             
-                            <p><a href="https://canvanizer.com/choose-canvas">Lav et Business Model Canvas</a></p>
+                            <p><a href="https://canvanizer.com/choose-canvas" target="_blank">Lav et Business Model Canvas</a></p>
                         
                     </section>
                     
@@ -155,7 +155,8 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Jeg har tidligere skiftet bekendtskab med modellen på en anden uddannelse, men ikke lige så grundigt som på denne uddannelse. Det meste af det jeg har lært om Business Model Canvas modellen har jeg lært igennem undervisningen på klassen, men også ved at se de videoer, som vi skulle se forud for undervisningen. Undervisningen var meget praksisnær og indeholdt meget gruppearbejde og mange eksempler, hvilket både gjorde det nemt og sjovt at arbejde med modellen. Vi skulle også læse i bogen ’Business Model Generation’ forud for undervisningen, hvilket jeg også tildeles lærte noget ved. Dog synes jeg at bogen kan virke lidt forvirrende, måske fordi den er anderledes, så derfor lærte jeg altså mest ved undervisningen og videoerne. 
+                        </p>
                     </section>
                     
                     <section>
@@ -163,11 +164,11 @@
                         <h3>Internetkilder:</h3>
                         <p>
                             
-                            Salesboost. (19. december 2020). Forstå din kunde med Value Proposition Canvas. Hentet fra salesboost.dk: <a href="https://salesboost.dk/forstaa-din-kunde-med-value-proposition-canvas/">https://salesboost.dk/forstaa-din-kunde-med-value-proposition-canvas/</a>
+                            Salesboost. (19. december 2020). Forstå din kunde med Value Proposition Canvas. Hentet fra salesboost.dk: <a href="https://salesboost.dk/forstaa-din-kunde-med-value-proposition-canvas/" target="_blank">https://salesboost.dk/forstaa-din-kunde-med-value-proposition-canvas/</a>
                             
                              <br><br>
                             
-                            Schmith, M. (4. november 2020). Business Model Canvas. Hentet fra Grundlæggende kommunikation: <a href="PDF_filer/BMC.pdf">Business Model Canvas.pdf</a> 
+                            Schmith, M. (4. november 2020). Business Model Canvas. Hentet fra Grundlæggende kommunikation: <a href="PDF_filer/BMC.pdf" target="_blank">Business Model Canvas.pdf</a> 
                         </p>
                             
                         <h3>Bøger:</h3>

@@ -152,7 +152,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Angående undervisningen om kvantitativ og kvalitativ empiri lærte jeg mest ved at lave den individuelle opgave fremfor de præsentationer vi skulle lave i grupper. Efter vi havde afleveret den individuelle opgave, kunne vi vælge at få feedback fra vores lærer, og her blev jeg opmærksom på at jeg havde misforstået hvordan man kildehenviser. Derfor har jeg efterfølgende sat mig ind i hvordan man gør det rigtig og lært at bruge Words referencesystem, hvilket jeg brugt i dette projekt. Jeg har haft en hel del om kvantitativ og kvalitativ empiri på en anden uddannelse, så derfor kendte jeg meget til emnet i forvejen. Dog husker man det bedre, jo flere gange man har om et emne, så derfor er det bare godt at få den genopfrisket.</p>
                     </section>
                     
                     

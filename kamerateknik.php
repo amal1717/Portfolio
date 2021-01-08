@@ -112,31 +112,31 @@
 
                         </section>
 
-                    
-                    <section>
-                        <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
-                    </section>
-                    
-                    
-                    <section>
-                        <h2 id="kilder">Kilder</h2>
-                        <h3>Internetkilder:</h3>
-                        <p>
-                            Østergaard, N. (23. oktober 2020). Kamerateknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/introduktion_til_fotografering.pdf">Introduktion til fotografering.pdf</a>
-                            <br><br>
-                            Kjøller, J. (6. januar 2021). Vejen til den perfekte eksponering. Hentet fra fotomalia.dk: <a href="https://fotomalia.dk/vejen-til-den-perfekte-eksponering/">https://fotomalia.dk/vejen-til-den-perfekte-eksponering/</a>
-                            <br><br>
-                            Pexels. (28. oktober 2020). Hentet fra pexels.com: <a href="https://www.pexels.com/da-dk/">https://www.pexels.com/da-dk/</a>
-                            
-                            <br><br> 
-                            
-                            <a href="#top">Til toppen</a>
-                            
-                            <br><br> 
-                        </p>
-                       
-                    </section>
+
+                        <section>
+                            <h2 id="refleksion">Refleksion</h2>
+                            <p>Undervisningen om kamerateknik havde fokus på en kameraworkshop, hvor vi i grupper skulle deles om et kamera og følge nogle bestemte opgaver. Flere fra klassen har en del erfaring med fotografi, så de blev placeret i forskellige grupper, hvilket gjorde at workshoppen forløb forholdsvis gnidningsfrit. Overordnet set lærte jeg meget denne dag, men jeg synes stadigvæk ikke, at jeg havde lige så meget styr på det, som jeg gerne ville. Derfor valgte jeg at opsøge en klassekammerart, som har erfaring med fotografi, i forbindelse med denne side, for at sikre at jeg havde forstået det rigtig. Det var rart at få emnet genopfrisket da jeg lavede denne side, så nu synes jeg, at jeg er ved at have styr på det.</p>
+                        </section>
+
+
+                        <section>
+                            <h2 id="kilder">Kilder</h2>
+                            <h3>Internetkilder:</h3>
+                            <p>
+                                Østergaard, N. (23. oktober 2020). Kamerateknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/introduktion_til_fotografering.pdf">Introduktion til fotografering.pdf</a>
+                                <br><br>
+                                Kjøller, J. (6. januar 2021). Vejen til den perfekte eksponering. Hentet fra fotomalia.dk: <a href="https://fotomalia.dk/vejen-til-den-perfekte-eksponering/">https://fotomalia.dk/vejen-til-den-perfekte-eksponering/</a>
+                                <br><br>
+                                Pexels. (28. oktober 2020). Hentet fra pexels.com: <a href="https://www.pexels.com/da-dk/">https://www.pexels.com/da-dk/</a>
+
+                                <br><br> 
+
+                                <a href="#top">Til toppen</a>
+
+                                <br><br> 
+                            </p>
+
+                        </section>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

@@ -221,7 +221,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Kommunikation bruges i alle brancher, fordi man altid kommunikerer. Derfor har jeg også haft en del om især verbal og nonverbal kommunikation på de andre uddannelser jeg har gået på, hvilket gør at jeg efterhånden husker det temmelig godt. Dog har jeg ikke tidligere prøvet den kommunikationsøvelse hvor man sidder med ryggen til hinanden og skal formå at bygge den samme Lego figur kun ved at tale sammen, hvilket var en god øvelse. Jeg har heller ikke tidligere haft specielt meget undervisning i de forskellige paradigmer, hvilket nok var tiltrængt. Sidst på dagen skulle vi nemlig i grupper lave en fremlæggelse om en hjemmeside fra hvert paradigme, men det viste sig at min gruppe havde misforstået opgaven og paradigmerne. Vi fik os derfor lidt af en aha-oplevelse under fremlæggelserne, hvilket nok har gjort at vi husker det endnu bedre nu.</p>
                     </section>
                     
                     

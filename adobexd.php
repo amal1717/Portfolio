@@ -102,11 +102,11 @@
                         <section id="adobexdprototyper">
                             <h2>Adobe XD prototyper</h2>
                             <p>
-                                <a href="https://xd.adobe.com/view/694e3691-26b4-4def-9fdd-b74f750f92b2-3c1d/">Mobile prototypen fra One Page projektet</a>
+                                <a href="https://xd.adobe.com/view/694e3691-26b4-4def-9fdd-b74f750f92b2-3c1d/" target="_blank">Mobile prototypen fra One Page projektet</a>
                                 <br><br>
-                                <a href="https://xd.adobe.com/view/aba1397d-dd32-42b5-bc62-149156b1c0a0-fef2/">Tablet prototypen fra One Page projektet</a>
+                                <a href="https://xd.adobe.com/view/aba1397d-dd32-42b5-bc62-149156b1c0a0-fef2/" target="_blank">Tablet prototypen fra One Page projektet</a>
                                 <br><br>
-                                <a href="https://xd.adobe.com/view/4c9ceb0f-84db-43c7-b4ec-ca9ce5abbb87-19cf/">Desktop prototypen fra One Page projektet</a>
+                                <a href="https://xd.adobe.com/view/4c9ceb0f-84db-43c7-b4ec-ca9ce5abbb87-19cf/" target="_blank">Desktop prototypen fra One Page projektet</a>
                             </p>
                     
                         </section>
@@ -121,7 +121,7 @@
                             <h2 id="kilder">Kilder</h2>
                             <h3>Internetkilder:</h3>
                             <p>
-                                Reininger, L. (17. januar 2020). Hvad kan Adobe XD? Her får du en gennegang af programmet. Hentet fra blog.softworld.dk: <a href="https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator">https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator</a>
+                                Reininger, L. (17. januar 2020). Hvad kan Adobe XD? Her får du en gennegang af programmet. Hentet fra blog.softworld.dk: <a href="https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator" target="_blank">https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator</a>
 
                                 <br><br>
 

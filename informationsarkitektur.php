@@ -168,7 +168,7 @@
                     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Som forberedelse til undervisningen om informationsarkitektur skulle vi bl.a. se nogle videoer, som hurtigt og simpelt forklarede hvad emnet handler om. Især den ene video fangede min interesse og fik mig til at forstå begrebet, fordi den gav mange gode eksempler og samtidig var underholdende. I undervisningen skulle vi lave en øvelse hvor vi i små grupper skulle inddele nogle legoklodser på så mange forskellige måder som muligt, hvilket ses på ovenstående billeder. Selvom det var en meget simpel opgave understregede den, at der findes mange måder at anvende informationsarkitektur på samt at det som giver mening for nogle, måske ikke giver lige så meget mening for andre.</p>
                     </section>
                     
                     

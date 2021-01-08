@@ -45,7 +45,7 @@
                   
                         <section id="praesentationsteknik">
                             <h2>Præsentationsteknik</h2>
-                            <p>Når man arbejder med multimediedesign vil man ofte skulle præsentere sine resultater og løsninger for andre og derfor er det vigtigt at man er klar over hvordan man bedst præsenterer dem (Busch, Kapitel 22 , 2015). En præsentations formål kan være forskelligt, da det f.eks. kan være at informere, sælge, uddanne, underholde osv. og derfor er det vigtigt først og fremmest at klarlægge formålet inden man går i gang med selve præsentationen (Schmith, 2020).</p>
+                            <p>Når man arbejder med multimediedesign vil man ofte skulle præsentere sine resultater og løsninger for andre og derfor er det vigtigt at man er klar over hvordan man bedst præsenterer dem (Busch, Kapitel 22 , 2015). En præsentations formål kan være forskelligt, da det f.eks. kan være at informere, sælge, uddanne, underholde osv. og derfor er det vigtigt først og fremmest at klarlægge formålet inden man går i gang med selve præsentationen (Schmith, 2020). Nedenstående video</p>
                         </section>
                     
                 
@@ -127,6 +127,12 @@
                             
                             <p>(Phillips, 2014) (McMillan, 2009)</p> 
                             
+                            <h3 id="video">How to avoid death by PowerPoint</h3><br>
+                            <div class="video-container">
+                                <iframe class="youtubevideo" width="560" height="315" src="https://www.youtube.com/embed/Iwpi1Lm6dFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div> 
+                            <p>(Phillips, 2014)</p>
+                            
                         </section>
                         
                         <section>
@@ -144,7 +150,7 @@
     
                     <section>
                         <h2 id="refleksion">Refleksion</h2>
-                        <p></p>
+                        <p>Den dag vi havde om præsentationsteknik var jeg desværre ikke i skole, så derfor har jeg primært lært om emnet ved at læse det materiale vi havde for, gennemgå undervisningsmaterialet og se de videoer som ligger i Moodlerummet. Derudover fandt jeg ovenstående video, som lærte mig rigtig meget, fordi den forklarer det godt og kommer med nogle gode eksempler og pointer.</p>
                     </section>
                     
                     
@@ -154,7 +160,7 @@
                             <p>
                                 McMillan, D. (9. november 2009). Life after death by PowerPoint . Hentet fra Youtube.com: <a href="https://www.youtube.com/watch?v=KbSPPFYxx3o">https://www.youtube.com/watch?v=KbSPPFYxx3o</a> 
                                 <br><br>
-                                Phillips, D. J. (14. april 2014). How to aviod death by PowerPoint . Hentet fra Youtube.com: <a href="https://www.youtube.com/watch?v=Iwpi1Lm6dFo">https://www.youtube.com/watch?v=Iwpi1Lm6dFo</a>
+                                Phillips, D. J. (14. april 2014). How to avoid death by PowerPoint . Hentet fra Youtube.com: <a href="https://www.youtube.com/watch?v=Iwpi1Lm6dFo">https://www.youtube.com/watch?v=Iwpi1Lm6dFo</a>
                                 <br><br>
                                 Schmith, M. (23. september 2020). Præsentationsteknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/praesentationsteknik.pdf">Præsentationsteknik.pdf</a>
                             </p>
