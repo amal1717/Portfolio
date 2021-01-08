@@ -78,7 +78,7 @@
                             
                                 <br>
                             
-                            <p><a href="pdf_filer/Ophavsret_og_licensering.pdf">Se opgaven om ophavsret og licensering</a></p>
+                            <p><a href="pdf_filer/Ophavsret_og_licensering.pdf" target="_blank">Se opgaven om ophavsret og licensering</a></p>
                             
                         </section>
                     
@@ -93,19 +93,19 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Systime . (3. november 2020). Immaterielle rettigheder - Teori . Hentet fra i.systime.dk: <a href="https://i.systime.dk/?id=432">https://i.systime.dk/?id=432</a> 
+                            Systime . (3. november 2020). Immaterielle rettigheder - Teori . Hentet fra i.systime.dk: <a href="https://i.systime.dk/?id=432" target="_blank">https://i.systime.dk/?id=432</a> 
                                 <br><br>
-                            Patent- og varemærkestyrelsen. (3. november 2020). Licensaftaler. Hentet fra Patent- og varemærkestyrelsen: <a href="http://www.ip-handelsportal.dk/aftaleindgaaelse/valg-af-aftale/licensaftaler.aspx">http://www.ip-handelsportal.dk/aftaleindgaaelse/valg-af-aftale/licensaftaler.aspx</a> 
+                            Patent- og varemærkestyrelsen. (3. november 2020). Licensaftaler. Hentet fra Patent- og varemærkestyrelsen: <a href="http://www.ip-handelsportal.dk/aftaleindgaaelse/valg-af-aftale/licensaftaler.aspx" target="_blank">http://www.ip-handelsportal.dk/aftaleindgaaelse/valg-af-aftale/licensaftaler.aspx</a> 
                                 <br><br>
-                            MIT License. (3. november 2020). Hentet fra choosealicense.com: <a href="https://choosealicense.com/licenses/mit/">https://choosealicense.com/licenses/mit/</a> 
+                            MIT License. (3. november 2020). Hentet fra choosealicense.com: <a href="https://choosealicense.com/licenses/mit/" target="_blank">https://choosealicense.com/licenses/mit/</a> 
                                 <br><br>
-                            License FAQs. (3. november 2020). Hentet fra getbootstrap.com: <a href="https://getbootstrap.com/docs/4.0/about/license/">https://getbootstrap.com/docs/4.0/about/license/</a>
+                            License FAQs. (3. november 2020). Hentet fra getbootstrap.com: <a href="https://getbootstrap.com/docs/4.0/about/license/" target="_blank">https://getbootstrap.com/docs/4.0/about/license/</a>
                                 <br><br>
-                            LegalDesk. (4. november 2020). Ophavsret. Hentet fra legaldesk.dk: <a href="https://www.legaldesk.dk/artikler/ophavsret">https://www.legaldesk.dk/artikler/ophavsret</a>
+                            LegalDesk. (4. november 2020). Ophavsret. Hentet fra legaldesk.dk: <a href="https://www.legaldesk.dk/artikler/ophavsret" target="_blank">https://www.legaldesk.dk/artikler/ophavsret</a>
                                 <br><br>
-                            Kultur Ministeriet. (6. oktober 2020). Ophavsret på internettet. Hentet fra kum.dk: <a href="https://kum.dk/kulturomraader/ophavsret/ophavsret-paa-internettet">https://kum.dk/kulturomraader/ophavsret/ophavsret-paa-internettet</a>
+                            Kultur Ministeriet. (6. oktober 2020). Ophavsret på internettet. Hentet fra kum.dk: <a href="https://kum.dk/kulturomraader/ophavsret/ophavsret-paa-internettet" target="_blank">https://kum.dk/kulturomraader/ophavsret/ophavsret-paa-internettet</a>
                                 <br><br>
-                            Hvad er Creative Commons? (3. november 2020). Hentet fra medierforalle.skoleblogs.dk: <a href="https://medierforalle.skoleblogs.dk/hvad-er-creative-commons">https://medierforalle.skoleblogs.dk/hvad-er-creative-commons</a>
+                            Hvad er Creative Commons? (3. november 2020). Hentet fra medierforalle.skoleblogs.dk: <a href="https://medierforalle.skoleblogs.dk/hvad-er-creative-commons" target="_blank">https://medierforalle.skoleblogs.dk/hvad-er-creative-commons</a>
                             
                             <br><br>
                         

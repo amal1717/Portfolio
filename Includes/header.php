@@ -22,7 +22,7 @@
                             <a class="dropdown-item" href="serverbegrebet.php">Serverbegrebet</a>
                             <a class="dropdown-item" href="serversidescripting.php">Serverside scripting</a>
                             <a class="dropdown-item" href="versionsstyring.php">Versionstyring</a>
-                            <a class="dropdown-item" href="frameworks.php">Framework</a>
+                            <a class="dropdown-item" href="frameworks.php">Frameworks</a>
                         </div>
                     </li>
     

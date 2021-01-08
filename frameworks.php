@@ -53,7 +53,7 @@
                             <h2>Bootstrap</h2>
                             <p>Bootstrap er en virksomhed som tilbyder både HTML, CSS og JavaScript frameworks, som bruges til at udvikle responsive hjemmesider ud fra mobile first tilgangen. Man skal derfor ikke anvende forskellige frameworks til forskellige skærmstørrelser, men kun anvende ét framework, idet de tilpasser sig alle skærme. Bootstrap giver adgang til mange forskellige slags frameworks f.eks. både skabeloner til hele hjemmesider, komponenter og ikoner (Østergaard, Serverside Scripting + frameworks, 2020). </p>
                             
-                            <p><a href="Bootstrap/bootstrap.html">Se opgave omkring forskellige Bootstrap frameworks</a></p>
+                            <p><a href="Bootstrap/bootstrap.html" target="_blank">Se opgave omkring forskellige Bootstrap frameworks</a></p>
                             
                         </section>
                 
@@ -62,7 +62,7 @@
                         
                                 <br>
                         
-                            <p>1. Gå ind på <a href="https://getbootstrap.com/">https://getbootstrap.com/</a></p>
+                            <p>1. Gå ind på <a href="https://getbootstrap.com/" target="_blank">https://getbootstrap.com/</a></p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap1.png" alt="Guide til Bootstrap" style="width:100%;">
                         
                                 <br><br><br>
@@ -101,11 +101,11 @@
                         <h3>Internetkilder:</h3>
                         <p>
                             
-                            Bootstrap. (11. december 2020). Hentet fra Bootstrap.com: <a href="https://getbootstrap.com">https://getbootstrap.com</a>
+                            Bootstrap. (11. december 2020). Hentet fra Bootstrap.com: <a href="https://getbootstrap.com" target="_blank">https://getbootstrap.com</a>
                             
                             <br><br>
                             
-                            Østergaard, N. (19. oktober 2020). Serverside Scripting + frameworks. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/frameworks.pdf">Framework.pdf</a>
+                            Østergaard, N. (19. oktober 2020). Serverside Scripting + frameworks. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/frameworks.pdf" target="_blank">Framework.pdf</a>
                             
                             <br><br> 
                             

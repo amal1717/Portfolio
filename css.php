@@ -138,7 +138,7 @@
                             
                             <br><br>
                             
-                            <a href="https://www.w3schools.com/cssref/default.asp">Se alle CSS properties</a>
+                            <a href="https://www.w3schools.com/cssref/default.asp" target="_blank">Se alle CSS properties</a>
                         </p>
                             
                         <h4>Eksempel på CSS</h4>
@@ -167,7 +167,7 @@
                         <h2>Skrifttyper</h2>
                         <p>Det er ikke alle computere der har installeret de samme fonts, og derfor risikerer man at skrifttypen ændrer sig på de computere som ikke har installeret den font man har valgt. En løsning på dette kan være at anvende Adobe fonts eller Google fonts, hvilke er til fri afbenyttelse. Man linker blot til fonten øverst i HTML-dokumentet og indsætter fontens CSS-regler i CSS-dokumentet efterfølgende. Fonten hentes samtidig med at siden hentes (Østergaard, Intro til CSS, 2020).
                             <br><br>
-                        For at finde det som skal indsættes i CSS- og HTML-dokumentet, går man ind på <a href="https://fonts.adobe.com/">https://fonts.adobe.com/</a> og klikker på ”browse fonts” oppe i højre hjørne. Herefter vælger man blot den font som man gerne vil bruge og klikker på tegnet &#60;/&#62; under fonten og tilføjer fonten til et projekt. Derefter skal man klikke ”create” og så kan man se det som man skal indsætte. Øverst på billedet ses det som skal indsættes i HTML-dokumentet og nederst ses det som skal indsættes i CSS-dokumentet.
+                        For at finde det som skal indsættes i CSS- og HTML-dokumentet, går man ind på <a href="https://fonts.adobe.com/" target="_blank">https://fonts.adobe.com/</a> og klikker på ”browse fonts” oppe i højre hjørne. Herefter vælger man blot den font som man gerne vil bruge og klikker på tegnet &#60;/&#62; under fonten og tilføjer fonten til et projekt. Derefter skal man klikke ”create” og så kan man se det som man skal indsætte. Øverst på billedet ses det som skal indsættes i HTML-dokumentet og nederst ses det som skal indsættes i CSS-dokumentet.
                         </p>
                         
                             <br>
@@ -356,23 +356,23 @@
                         <h3>Internetkilder:</h3>
                         <p>
                             
-                            CSS Colors. (8. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/css/css_colors.asp">https://www.w3schools.com/css/css_colors.asp</a>
+                            CSS Colors. (8. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/css/css_colors.asp" target="_blank">https://www.w3schools.com/css/css_colors.asp</a>
                             <br><br>
-                            CSS Grid Layout Module. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/css/css_grid.asp">https://www.w3schools.com/css/css_grid.asp</a>
+                            CSS Grid Layout Module. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/css/css_grid.asp" target="_blank">https://www.w3schools.com/css/css_grid.asp</a>
                             <br><br>
-                            CSS grid-column Property. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-column.asp">https://www.w3schools.com/cssref/pr_grid-column.asp</a>
+                            CSS grid-column Property. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-column.asp" target="_blank">https://www.w3schools.com/cssref/pr_grid-column.asp</a>
                             <br><br>
-                            CSS grid-column-end Property . (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-column-end.asp">https://www.w3schools.com/cssref/pr_grid-column-end.asp</a>
+                            CSS grid-column-end Property . (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-column-end.asp" target="_blank">https://www.w3schools.com/cssref/pr_grid-column-end.asp</a>
                             <br><br>
-                            CSS grid-column-start Porperty. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-column-start.asp">https://www.w3schools.com/cssref/pr_grid-column-start.asp</a>
+                            CSS grid-column-start Porperty. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-column-start.asp" target="_blank">https://www.w3schools.com/cssref/pr_grid-column-start.asp</a>
                             <br><br>
-                            CSS grid-row-end Property. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-row-end.asp">https://www.w3schools.com/cssref/pr_grid-row-end.asp</a>
+                            CSS grid-row-end Property. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-row-end.asp" target="_blank">https://www.w3schools.com/cssref/pr_grid-row-end.asp</a>
                             <br><br>
-                            Adobe Fonts. (4. januar 2021). Hentet fra fonts.adobe.com: <a href="https://fonts.adobe.com/fonts">https://fonts.adobe.com/fonts</a>
+                            Adobe Fonts. (4. januar 2021). Hentet fra fonts.adobe.com: <a href="https://fonts.adobe.com/fonts" target="_blank">https://fonts.adobe.com/fonts</a>
                             <br><br>
-                            Østergaard, N. (14. september 2020). Intro til CSS. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/Intro_til_CSS.pdf">Intro til CSS.pdf</a>
+                            Østergaard, N. (14. september 2020). Intro til CSS. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/Intro_til_CSS.pdf" target="_blank">Intro til CSS.pdf</a>
                             <br><br>
-                            Østergaard, N. (9. december 2020). Responsive design + CSS Grid. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/CSS_grid.pdf">CSS Grid.pdf</a> og <a href="PDF_filer/Responsiv_design.pdf">Responsiv design.pdf</a>
+                            Østergaard, N. (9. december 2020). Responsive design + CSS Grid. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/CSS_grid.pdf" target="_blank">CSS Grid.pdf</a> og <a href="PDF_filer/Responsiv_design.pdf" target="_blank">Responsiv design.pdf</a>
                             
                             <br><br> 
                           

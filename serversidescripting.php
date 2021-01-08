@@ -64,9 +64,9 @@
                             <h3>Øvelse om PHP</h3>
                             <p>Den dag vi havde om serverside scripting og PHP fik vi udleveret en opgave bestående af en CSS-fil og fire sammenhængende HTML-filer. Opgaven gik derefter ud på at vi skulle kopiere menuen og indsætte den i et nyt dokument, som skulle navngives menu.inc, fordi det er en include-fil. Herefter skulle vi omdøbe alle HTML-filerne til PHP-filer, indsætte include-filen ved hjælp af PHP i stedet for selve menuen og til sidst oprette en femte HTML-fil, som også indeholdte PHP.
                             
-                                <br><br>
+                                <br>
                                 
-                            <a href="http://amal1717.web.eadania.dk/step1kopi/side1.php">Se resultatet af opgaven</a>
+                            <a href="http://amal1717.web.eadania.dk/step1kopi/side1.php" target="_blank">Se resultatet af opgaven</a>
                             
                             </p>
                         
@@ -84,19 +84,19 @@
                         <h3>Internetkilder:</h3>
                         <p>
                             
-                            Hvad er PHP? (12. december 2020). Hentet fra Nemprogrammering.dk: <a href="https://www.nemprogrammering.dk/Tutorials/Startviden/teknologierne/php.php">https://www.nemprogrammering.dk/Tutorials/Startviden/teknologierne/php.php</a>
+                            Hvad er PHP? (12. december 2020). Hentet fra Nemprogrammering.dk: <a href="https://www.nemprogrammering.dk/Tutorials/Startviden/teknologierne/php.php" target="_blank">https://www.nemprogrammering.dk/Tutorials/Startviden/teknologierne/php.php</a>
                             
                             <br><br>
                             
-                            Hvad er PHP? Hvordan bruges PHP i wordpress? (12. december 2020). Hentet fra Kinsta.com: <a href="https://kinsta.com/dk/videnbase/hvad-er-php/">https://kinsta.com/dk/videnbase/hvad-er-php/</a>
+                            Hvad er PHP? Hvordan bruges PHP i wordpress? (12. december 2020). Hentet fra Kinsta.com: <a href="https://kinsta.com/dk/videnbase/hvad-er-php/" target="_blank">https://kinsta.com/dk/videnbase/hvad-er-php/</a>
                             
                             <br><br>
                             
-                            PHP Include Files . (12. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/php/php_includes.asp">https://www.w3schools.com/php/php_includes.asp</a>
+                            PHP Include Files . (12. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/php/php_includes.asp" target="_blank">https://www.w3schools.com/php/php_includes.asp</a>
                             
                             <br><br>
                             
-                            Østergaard, N. (oktober. 19 2020). Serverside scripting. Hentet fra Grundlæggende faglighed - Serverside scripting + Frameworks: <a href="PDF_filer/serverside_scripting.pdf">Serverside Scripting.pdf</a>
+                            Østergaard, N. (oktober. 19 2020). Serverside scripting. Hentet fra Grundlæggende faglighed - Serverside scripting + Frameworks: <a href="PDF_filer/serverside_scripting.pdf" target="_blank">Serverside Scripting.pdf</a>
                             
                             <br><br>
 

@@ -123,11 +123,11 @@
                             <h2 id="kilder">Kilder</h2>
                             <h3>Internetkilder:</h3>
                             <p>
-                                Østergaard, N. (23. oktober 2020). Kamerateknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/introduktion_til_fotografering.pdf">Introduktion til fotografering.pdf</a>
+                                Østergaard, N. (23. oktober 2020). Kamerateknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/introduktion_til_fotografering.pdf" target="_blank">Introduktion til fotografering.pdf</a>
                                 <br><br>
-                                Kjøller, J. (6. januar 2021). Vejen til den perfekte eksponering. Hentet fra fotomalia.dk: <a href="https://fotomalia.dk/vejen-til-den-perfekte-eksponering/">https://fotomalia.dk/vejen-til-den-perfekte-eksponering/</a>
+                                Kjøller, J. (6. januar 2021). Vejen til den perfekte eksponering. Hentet fra fotomalia.dk: <a href="https://fotomalia.dk/vejen-til-den-perfekte-eksponering/" target="_blank">https://fotomalia.dk/vejen-til-den-perfekte-eksponering/</a>
                                 <br><br>
-                                Pexels. (28. oktober 2020). Hentet fra pexels.com: <a href="https://www.pexels.com/da-dk/">https://www.pexels.com/da-dk/</a>
+                                Pexels. (28. oktober 2020). Hentet fra pexels.com: <a href="https://www.pexels.com/da-dk/" target="_blank">https://www.pexels.com/da-dk/</a>
 
                                 <br><br> 
 

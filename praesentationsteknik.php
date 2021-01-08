@@ -141,7 +141,7 @@
                             
                                 <br><br>
                                 
-                            <a href="pdf_filer/kropssprog.pdf">Læs mere om kropssprog</a>
+                            <a href="pdf_filer/kropssprog.pdf" target="_blank">Læs mere om kropssprog</a>
                                 
                             </p>
                             
@@ -158,11 +158,11 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                             <p>
-                                McMillan, D. (9. november 2009). Life after death by PowerPoint . Hentet fra Youtube.com: <a href="https://www.youtube.com/watch?v=KbSPPFYxx3o">https://www.youtube.com/watch?v=KbSPPFYxx3o</a> 
+                                McMillan, D. (9. november 2009). Life after death by PowerPoint . Hentet fra Youtube.com: <a href="https://www.youtube.com/watch?v=KbSPPFYxx3o" target="_blank">https://www.youtube.com/watch?v=KbSPPFYxx3o</a> 
                                 <br><br>
-                                Phillips, D. J. (14. april 2014). How to avoid death by PowerPoint . Hentet fra Youtube.com: <a href="https://www.youtube.com/watch?v=Iwpi1Lm6dFo">https://www.youtube.com/watch?v=Iwpi1Lm6dFo</a>
+                                Phillips, D. J. (14. april 2014). How to avoid death by PowerPoint . Hentet fra Youtube.com: <a href="https://www.youtube.com/watch?v=Iwpi1Lm6dFo" target="_blank">https://www.youtube.com/watch?v=Iwpi1Lm6dFo</a>
                                 <br><br>
-                                Schmith, M. (23. september 2020). Præsentationsteknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/praesentationsteknik.pdf">Præsentationsteknik.pdf</a>
+                                Schmith, M. (23. september 2020). Præsentationsteknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/praesentationsteknik.pdf" target="_blank">Præsentationsteknik.pdf</a>
                             </p>
                             
                         <h3>Bøger:</h3>
@@ -170,7 +170,7 @@
                             <p>
                                 Busch, A. (2015). Kapitel 22 . I Kommunikation i multimediedesign (s. 315-330). Hans Reitzels Forlag.
                                 <br><br>
-                                Hald, M. (2008). Kapitel 4 - Kropssprog - Nonverbal kommunikation. I Præsentation og formidling (s. 45-52). København: Hans Reitzels Forlag. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/kropssprog.pdf">Kropssprog.pdf</a>
+                                Hald, M. (2008). Kapitel 4 - Kropssprog - Nonverbal kommunikation. I Præsentation og formidling (s. 45-52). København: Hans Reitzels Forlag. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/kropssprog.pdf" target="_blank">Kropssprog.pdf</a>
                                     
                                 <br><br>
 

@@ -57,7 +57,7 @@
                                 <br><br>
                             Udover at Github bidrager til at holde styr på de forskellige versioner, så fungerer platformen som et site hvor man kan dele koden med hinanden, hvis man f.eks. er flere der samarbejder om et webudviklingsprojekt. Man kan også vælge at gøre sine dokumenter offentlige i Github, så alle har adgang til dem, og derfor er Github også et sted hvor man kan hente forskellige kodeelementer til egne projekter (Østergaard, Versionsstyring, 2020). Der f.eks. mange youtubere der deler deres kode på Github når de laver tutorials. 
                                 <br><br>
-                            For at anvende Github på den optimale måde skal man både downloade Github Desktop og logge ind på deres hjemmeside <a href="https://github.com/">https://github.com/</a>. Github Desktop bruges først og fremmest til at oprette repositoriet, men man bruger også Github desktop hver gang man har foretaget nogle ændringer. Githubs hjemmeside bruges til at gå tilbage til tidligere versioner og dermed til at se præcis hvilke ændringer der er blevet foretaget.  
+                            For at anvende Github på den optimale måde skal man både downloade Github Desktop og logge ind på deres hjemmeside <a href="https://github.com/" target="_blank">https://github.com/</a>. Github Desktop bruges først og fremmest til at oprette repositoriet, men man bruger også Github desktop hver gang man har foretaget nogle ændringer. Githubs hjemmeside bruges til at gå tilbage til tidligere versioner og dermed til at se præcis hvilke ændringer der er blevet foretaget.  
                             </p>
                         </section>
 
@@ -161,11 +161,11 @@
                         <h3>Internetkilder:</h3>
                         <p>
                     
-                            Github. (14. december 2020). Hentet fra Github: <a href="https://github.com">https://github.com</a>
+                            Github. (14. december 2020). Hentet fra Github: <a href="https://github.com" target="_blank">https://github.com</a>
 
                             <br><br>
                             
-                            Østergaard, N. (21. september 2020). Versionsstyring. Hentet fra Grundlæggende faglighed : <a href="PDF_filer/versionsstyring.pdf">Versionsstyring.pdf</a>
+                            Østergaard, N. (21. september 2020). Versionsstyring. Hentet fra Grundlæggende faglighed : <a href="PDF_filer/versionsstyring.pdf" target="_blank">Versionsstyring.pdf</a>
                             
                             <br><br>
 

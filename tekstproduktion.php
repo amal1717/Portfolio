@@ -314,11 +314,11 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Schmith, M. (30. oktober 2020). Tekstproduktion. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/tekstproduktion.pdf">Tekstproduktion.pdf</a>
+                            Schmith, M. (30. oktober 2020). Tekstproduktion. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/tekstproduktion.pdf" target="_blank">Tekstproduktion.pdf</a>
                             <br><br>
-                            Bro kommunikation. (16. december 2020). 21 sproglige dødssynder. Hentet fra Grundlæggende kommunikation: <a href="PDF_filer/21_sproglige_dodssynder.pdf">21 sproglige dødssynder.pdf</a>
+                            Bro kommunikation. (16. december 2020). 21 sproglige dødssynder. Hentet fra Grundlæggende kommunikation: <a href="PDF_filer/21_sproglige_dodssynder.pdf" target="_blank">21 sproglige dødssynder.pdf</a>
                             <br><br>
-                            Friis, N. (2015). Kapitel 5. I H.-C. Christiansen, & G. B. Rose, Sprog og formidling (s. 186-222). Hans Reitzels Forlag. <a href="PDF_filer/Online%20kommunikation_kap_5.pdf">Online kommunikation - kapitel 5.pdf</a>
+                            Friis, N. (2015). Kapitel 5. I H.-C. Christiansen, & G. B. Rose, Sprog og formidling (s. 186-222). Hans Reitzels Forlag. <a href="PDF_filer/Online%20kommunikation_kap_5.pdf" target="_blank">Online kommunikation - kapitel 5.pdf</a>
                         </p>
                     
                         <h3>Bøger:</h3>

@@ -76,15 +76,15 @@
                         
                         <p>
                             
-                            Peer-to-peer: Photoshop - Illustrator. (28. oktober 2020). Hentet fra Grundlæggende faglighed: <a href="https://eadania.mrooms.net/course/view.php?id=2649#section-25">https://eadania.mrooms.net/course/view.php?id=2649#section-25</a>
+                            Peer-to-peer: Photoshop - Illustrator. (28. oktober 2020). Hentet fra Grundlæggende faglighed: <a href="https://eadania.mrooms.net/course/view.php?id=2649#section-25" target="_blank">https://eadania.mrooms.net/course/view.php?id=2649#section-25</a>
                             
                                 <br><br>
                             
-                            Unsplash. (28. oktober 2020). Hentet fra unsplash.com: <a href="https://unsplash.com">https://unsplash.com</a>
+                            Unsplash. (28. oktober 2020). Hentet fra unsplash.com: <a href="https://unsplash.com" target="_blank">https://unsplash.com</a>
                             
                                 <br><br>
                             
-                            Pexels. (28. oktober 2020). Hentet fra pexels.com: <a href="https://www.pexels.com/da-dk/">https://www.pexels.com/da-dk/</a>
+                            Pexels. (28. oktober 2020). Hentet fra pexels.com: <a href="https://www.pexels.com/da-dk/" target="_blank">https://www.pexels.com/da-dk/</a>
                             
                             <br><br>
                         

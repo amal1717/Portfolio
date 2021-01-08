@@ -61,7 +61,7 @@
                             <br>
                             
                             <p>
-                            I forhold til at kode HTML er det også vigtig at lave indrykninger med tabulatortasten, hvilket også ses på billedet. Indrykningerne ignoreres af browsere, men er både en del af god kodeskik, da det gør koden mere læselig for andre, men det er også med til at skabe overblik over indholdet i HTML-dokumentet. Derudover er det vigtigt kun at bruge tabulatortasten og ikke mellemrumstasten. Hvis man vil have gennemgået sin HTML kode kan man bruge følgende hjemmeside: <a href="http://validator.w3.org/">http://validator.w3.org/</a>. Her indsætter man sin HTML kode og så kommer siden med forslag til forbedringer (Østergaard, 2020).    
+                            I forhold til at kode HTML er det også vigtig at lave indrykninger med tabulatortasten, hvilket også ses på billedet. Indrykningerne ignoreres af browsere, men er både en del af god kodeskik, da det gør koden mere læselig for andre, men det er også med til at skabe overblik over indholdet i HTML-dokumentet. Derudover er det vigtigt kun at bruge tabulatortasten og ikke mellemrumstasten. Hvis man vil have gennemgået sin HTML kode kan man bruge følgende hjemmeside: <a href="http://validator.w3.org/" target="_blank">http://validator.w3.org/</a>. Her indsætter man sin HTML kode og så kommer siden med forslag til forbedringer (Østergaard, 2020).    
                             </p>
                         </section>
                     
@@ -160,7 +160,7 @@
                         Semantiske tags er en vigtig del af SEO (søgemaskineoptimering), fordi disse tags fortæller søgemaskinerne hvilken type data hjemmesiden indeholder. På den måde kan semantiske tags bruges til at forbedre hjemmesiders placering på søgemaskiner (Haastrup, 2017). 
                         </p>
                         
-                        <p><a href="http://10854.apache.eadania.dk/semantisk/?fbclid=IwAR29j6hUMGbjaYR4mqHcNC-MS9G0StqHn0EOaALlvMmT_oUTTZORa1hIia4">Se Sine og Nunus side om semantiske tags</a></p>
+                        <p><a href="http://10854.apache.eadania.dk/semantisk/?fbclid=IwAR29j6hUMGbjaYR4mqHcNC-MS9G0StqHn0EOaALlvMmT_oUTTZORa1hIia4" target="_blank">Se Sine og Nunus side om semantiske tags</a></p>
                         
                     </section>
                     
@@ -268,39 +268,39 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Haastrup, D. (31. januar 2017). Semantisk markup og SEO - hvordan påvirker de hinanden? Hentet fra onlinesynlighed.dk: <a href="https://onlinesynlighed.dk/blog/semantisk-markup-og-seo-hvordan-paavirker-de-hinanden/">https://onlinesynlighed.dk/blog/semantisk-markup-og-seo-hvordan-paavirker-de-hinanden/</a>.
+                            Haastrup, D. (31. januar 2017). Semantisk markup og SEO - hvordan påvirker de hinanden? Hentet fra onlinesynlighed.dk: <a href="https://onlinesynlighed.dk/blog/semantisk-markup-og-seo-hvordan-paavirker-de-hinanden/" target="_blank">https://onlinesynlighed.dk/blog/semantisk-markup-og-seo-hvordan-paavirker-de-hinanden/</a>.
 
                             <br><br>
 
-                            HTML Attributes. (3. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/html/html_attributes.asp">https://www.w3schools.com/html/html_attributes.asp</a>.
+                            HTML Attributes. (3. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/html/html_attributes.asp" target="_blank">https://www.w3schools.com/html/html_attributes.asp</a>.
 
                             <br><br>
 
-                            HTML Element Reference. (2. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/tags/default.asp">https://www.w3schools.com/tags/default.asp</a>
+                            HTML Element Reference. (2. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/tags/default.asp" target="_blank">https://www.w3schools.com/tags/default.asp</a>
 
                             <br><br>
 
-                            HTML Global Attributes. (3. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/tags/ref_standardattributes.asp">https://www.w3schools.com/tags/ref_standardattributes.asp</a>
+                            HTML Global Attributes. (3. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/tags/ref_standardattributes.asp" target="_blank">https://www.w3schools.com/tags/ref_standardattributes.asp</a>
 
                             <br><br>
 
-                            HTML Semantic Elements. (2. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/html/html5_semantic_elements.asp">https://www.w3schools.com/html/html5_semantic_elements.asp</a>
+                            HTML Semantic Elements. (2. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank">https://www.w3schools.com/html/html5_semantic_elements.asp</a>
 
                             <br><br>
 
-                            Hyperlink. (3. december 2020). Hentet fra Atak.dk: <a href="https://www.atak.dk/ordbog/hyperlink/">https://www.atak.dk/ordbog/hyperlink/</a> 
+                            Hyperlink. (3. december 2020). Hentet fra Atak.dk: <a href="https://www.atak.dk/ordbog/hyperlink/" target="_blank">https://www.atak.dk/ordbog/hyperlink/</a> 
 
                             <br><br>
 
-                            Iversen, T. (3. december 2020). Relative og absolutte stier i HTML. Hentet fra nemprogrammering.dk: <a href="https://www.nemprogrammering.dk/Tutorials/HTML/T16HTML-relative-stier.php">https://www.nemprogrammering.dk/Tutorials/HTML/T16HTML-relative-stier.php</a>  
+                            Iversen, T. (3. december 2020). Relative og absolutte stier i HTML. Hentet fra nemprogrammering.dk: <a href="https://www.nemprogrammering.dk/Tutorials/HTML/T16HTML-relative-stier.php" target="_blank">https://www.nemprogrammering.dk/Tutorials/HTML/T16HTML-relative-stier.php</a>  
 
                             <br><br>
 
-                            Simmons, J. (19. februar 2020). HTML Essential Traning. Hentet december 2020 fra LinkedIn Learning: <a href="https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=37312532">https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=37312532</a>
+                            Simmons, J. (19. februar 2020). HTML Essential Traning. Hentet december 2020 fra LinkedIn Learning: <a href="https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=37312532" target="_blank">https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=37312532</a>
 
                             <br><br>
 
-                            Østergaard, N. (10. september 2020). Grundlæggende faglighed - Introduktion til HTML. Hentet fra eadania.mrooms.net: <a href="PDF_filer/Intro_til_HTML.pdf">Intro til HTML.pdf</a>
+                            Østergaard, N. (10. september 2020). Grundlæggende faglighed - Introduktion til HTML. Hentet fra eadania.mrooms.net: <a href="PDF_filer/Intro_til_HTML.pdf" target="_blank">Intro til HTML.pdf</a>
 
                             <br><br> 
                             

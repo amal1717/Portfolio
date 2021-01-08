@@ -65,7 +65,7 @@
                 
                     <section>
                         <h2 id="skolensserver">Skolens servere</h2>
-                            <p>Når man har udviklet en hjemmeside, som skal over på en server, skal man først sikre at man har oprettet adgang til en eller flere servere. Det gør man på <a href="selfservice.itcn.dk">selfservice.itcn.dk</a>, hvor man kan ”tænde” for de forskellige servere, f.eks. IIS eller Apache, hvis man er på skolens Wi-Fi.  
+                            <p>Når man har udviklet en hjemmeside, som skal over på en server, skal man først sikre at man har oprettet adgang til en eller flere servere. Det gør man på <a href="selfservice.itcn.dk" target="_blank">selfservice.itcn.dk</a>, hvor man kan ”tænde” for de forskellige servere, f.eks. IIS eller Apache, hvis man er på skolens Wi-Fi.  
                             </p>
                         
                                 <br>
@@ -74,7 +74,7 @@
                         
                                 <br><br>
                         
-                            <p>Derefter skal man installere FTP-klienten ”FileZilla”, som kommunikerer med FTP-serveren og bruges til at udveksle filer til anvendelse på webservere (Østergaard, Internettets historie og serverbegrebet, 2020). Efter man har installeret og åbnet programmet, skal man trække hele mappen med alt indholdet til hjemmesiden over i FileZilla. Hvis man trækker mappen over i ”_www1_apache” mappen, anvender man Apache serveren og derfor finder man linket til hjemmesiden ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.apache.eadania.dk/">http://amal1717.apache.eadania.dk/</a>. Hvis man derimod trækker mappen over i ”_www1” mappen benytter man IIS serveren og finder linket til hjemmesiden ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.web.eadania.dk/">http://amal1717.web.eadania.dk/</a>. 
+                            <p>Derefter skal man installere FTP-klienten ”FileZilla”, som kommunikerer med FTP-serveren og bruges til at udveksle filer til anvendelse på webservere (Østergaard, Internettets historie og serverbegrebet, 2020). Efter man har installeret og åbnet programmet, skal man trække hele mappen med alt indholdet til hjemmesiden over i FileZilla. Hvis man trækker mappen over i ”_www1_apache” mappen, anvender man Apache serveren og derfor finder man linket til hjemmesiden ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.apache.eadania.dk/" target="_blank">http://amal1717.apache.eadania.dk/</a>. Hvis man derimod trækker mappen over i ”_www1” mappen benytter man IIS serveren og finder linket til hjemmesiden ved at tilføje mappernes navne efter dette link: <a href="http://amal1717.web.eadania.dk/" target="_blank">http://amal1717.web.eadania.dk/</a>. 
                             </p>
                         
                                 <br>
@@ -92,12 +92,12 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Server. (10. december 2020). Hentet fra SimpleCode: <a href="https://simplecode.dk/hvad-er-en-server/">https://simplecode.dk/hvad-er-en-server/</a>
+                            Server. (10. december 2020). Hentet fra SimpleCode: <a href="https://simplecode.dk/hvad-er-en-server/" target="_blank">https://simplecode.dk/hvad-er-en-server/</a>
                             
                             <br><br>
                             
                             Østergaard, N. (11. september 2020). Internettets historie og serverbegrebet. Hentet fra Grundlæggende faglighed:
-                            <a href="PDF_filer/Serverbegrebet.pdf">Serverbegrebet.pdf</a>
+                            <a href="PDF_filer/Serverbegrebet.pdf" target="_blank">Serverbegrebet.pdf</a>
                             
                             <br><br>
 

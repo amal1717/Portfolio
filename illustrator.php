@@ -269,7 +269,7 @@
                             
                             <p>(Tool galleries, 2017)</p>
                             
-                            <p><a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html">Se beskrivelser og illustrationer af alle Illustrator værktøjer</a></p>
+                            <p><a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html" target="_blank">Se beskrivelser og illustrationer af alle Illustrator værktøjer</a></p>
                           
                         </section>
                     
@@ -311,11 +311,11 @@
                             <h2 id="kilder">Kilder</h2>
                             <h3>Internetkilder:</h3>
                             <p>
-                                Adobe Illustrator. (29. december 2020). Hentet fra adobe.com: <a href="https://www.adobe.com/dk/products/illustrator.html">https://www.adobe.com/dk/products/illustrator.html</a>
+                                Adobe Illustrator. (29. december 2020). Hentet fra adobe.com: <a href="https://www.adobe.com/dk/products/illustrator.html" target="_blank">https://www.adobe.com/dk/products/illustrator.html</a>
                                     <br><br>
-                                Adobe Illustrator. (29. december 2020). Hentet fra britannica.com: <a href="https://www.britannica.com/technology/Adobe-Illustrator">https://www.britannica.com/technology/Adobe-Illustrator</a>
+                                Adobe Illustrator. (29. december 2020). Hentet fra britannica.com: <a href="https://www.britannica.com/technology/Adobe-Illustrator" target="_blank">https://www.britannica.com/technology/Adobe-Illustrator</a>
                                     <br><br>
-                                Tool galleries. (15. november 2017). Hentet fra helpx.adobe.com: <a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html">https://helpx.adobe.com/illustrator/using/tool-galleries.html</a>
+                                Tool galleries. (15. november 2017). Hentet fra helpx.adobe.com: <a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html" target="_blank">https://helpx.adobe.com/illustrator/using/tool-galleries.html</a>
 
 
                                 <br><br>

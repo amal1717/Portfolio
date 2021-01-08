@@ -54,6 +54,7 @@
                             <div class="video-container">
                                 <iframe class="youtubevideo" width="560" height="315" src="https://www.youtube.com/embed/Qj1FK8n7WgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>  
+                            <p>(Understanding Color, 2014)</p>
 
                             
                             <h3>Grundlæggende begreber</h3>
@@ -81,8 +82,8 @@
                             
                                 <br>
                     
-                            <div>
-                                <img class="billederudenskygge" src="Billeder/Farver/itten%E2%80%99s_farvecirkel.png" alt="Itten’s farvecirkel">
+                            <div class="centreredebilleder">
+                                <img src="Billeder/Farver/itten%E2%80%99s_farvecirkel.png" alt="Itten’s farvecirkel">
                             </div>
                             
                             <br>
@@ -213,15 +214,15 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Bogner, C. (24. september 2020). Design: Farver. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/Design_farver.pdf">Farver.pdf</a>
+                            Bogner, C. (24. september 2020). Design: Farver. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/Design_farver.pdf" target="_blank">Farver.pdf</a>
                             
                                 <br><br>
                             
-                            Farvesymbolik - Lær om farver og farvernes betydning. (2. januar 2021). Hentet fra farvesymbolik.dk: <a href="https://www.farvesymbolik.dk">https://www.farvesymbolik.dk</a>
+                            Farvesymbolik - Lær om farver og farvernes betydning. (2. januar 2021). Hentet fra farvesymbolik.dk: <a href="https://www.farvesymbolik.dk" target="_blank">https://www.farvesymbolik.dk</a>
                             
                                 <br><br>
                                 
-                            Prohazka, M. (21. oktober 2019). Farvecirkel - Lær at sammensætte farver. Hentet fra levendestreg.dk: <a href="https://levendestreg.dk/farvecirkel-laer-at-sammensaette-farver/">https://levendestreg.dk/farvecirkel-laer-at-sammensaette-farver/</a>
+                            Prohazka, M. (21. oktober 2019). Farvecirkel - Lær at sammensætte farver. Hentet fra levendestreg.dk: <a href="https://levendestreg.dk/farvecirkel-laer-at-sammensaette-farver/" target="_blank">https://levendestreg.dk/farvecirkel-laer-at-sammensaette-farver/</a>
                         </p>
                         
                         <h3>Bøger:</h3>

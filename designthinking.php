@@ -136,41 +136,41 @@
                         <h3>Internetkilder:</h3>
                         <p>
                             
-                            Design Thinking projekt - Fase 1 . (5. oktober 2020). Hentet fra MMD 2020-2021 Design Thinking projek: <a href="https://eadania.mrooms.net/course/view.php?id=2759#section-6">https://eadania.mrooms.net/course/view.php?id=2759#section-6</a>
+                            Design Thinking projekt - Fase 1 . (5. oktober 2020). Hentet fra MMD 2020-2021 Design Thinking projek: <a href="https://eadania.mrooms.net/course/view.php?id=2759#section-6" target="_blank">https://eadania.mrooms.net/course/view.php?id=2759#section-6</a>
                             
                                 <br><br>
                             
                             Design Thinking projekt - fase 3. (7. oktober 2020). Hentet fra MMD 2020-2021 Design Thinking projekt: <a href="https://eadania.mrooms.net/course/view.php?id=2759#section-8
-                            ">https://eadania.mrooms.net/course/view.php?id=2759#section-8
+                            " target="_blank">https://eadania.mrooms.net/course/view.php?id=2759#section-8
                             </a>
                             
                                 <br><br>
                         
-                            Ditmer. (20. december 2020). Hvad er Design Thinking, og hvorfor skal du arbejde med det? Hentet fra ditmer.dk: <a href="https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/">https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/</a>
+                            Ditmer. (20. december 2020). Hvad er Design Thinking, og hvorfor skal du arbejde med det? Hentet fra ditmer.dk: <a href="https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/" target="_blank">https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/</a>
                             
                                 <br><br>
                             
-                            Hackathon - Fase 1. (2. september 2020). Hentet fra Design thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2370">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2370</a>
+                            Hackathon - Fase 1. (2. september 2020). Hentet fra Design thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2370" target="_blank">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2370</a>
                             
                                 <br><br>
                             
-                            Hackathon - Fase 2 . (3. september 2020). Hentet fra Design Thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2371">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2371</a>
+                            Hackathon - Fase 2 . (3. september 2020). Hentet fra Design Thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2371" target="_blank">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2371</a>
                             
                                 <br><br>
                             
-                            Hackathon - fase 3. (3. september 2020). Hentet fra Design Thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2372">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2372</a>
+                            Hackathon - fase 3. (3. september 2020). Hentet fra Design Thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2372" target="_blank">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2372</a>
                             
                                 <br><br>
                             
-                            Hackathon - fase 4. (3. september 2020). Hentet fra Design Thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2373">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2373</a>
+                            Hackathon - fase 4. (3. september 2020). Hentet fra Design Thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2373" target="_blank">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2373</a>
                             
                                 <br><br>
                             
-                            Hackathon - fase 5. (3. september 2020). Hentet fra Design Thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2374">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2374</a>
+                            Hackathon - fase 5. (3. september 2020). Hentet fra Design Thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2374" target="_blank">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2374</a>
                             
                                 <br><br>
                             
-                            Hackathon. (2. september 2020). Hentet fra Sommerstart 2020: <a href="https://eadania.mrooms.net/course/view.php?id=2216#section-10">https://eadania.mrooms.net/course/view.php?id=2216#section-10</a>
+                            Hackathon. (2. september 2020). Hentet fra Sommerstart 2020: <a href="https://eadania.mrooms.net/course/view.php?id=2216#section-10" target="_blank">https://eadania.mrooms.net/course/view.php?id=2216#section-10</a>
                             
                             <br><br>
                             

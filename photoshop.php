@@ -160,7 +160,7 @@
                                 <br><br>
                             <p>(Offshore Clipping Path, 2020)</p>
                             
-                            <p><a href="https://www.photoshopessentials.com/basics/photoshop-tools-toolbar-overview/">Se beskrivelse af alle Photoshop værktøjer</a></p>
+                            <p><a href="https://www.photoshopessentials.com/basics/photoshop-tools-toolbar-overview/" target="_blank">Se beskrivelse af alle Photoshop værktøjer</a></p>
                        
                         </section>
                     
@@ -220,11 +220,11 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Hvad er Photoshop? (28. december 2020). Hentet fra nemprogrammering.dk: <a href="https://www.nemprogrammering.dk/Tutorials/Startviden/teknologierne/hvad-er-photoshop.php">https://www.nemprogrammering.dk/Tutorials/Startviden/teknologierne/hvad-er-photoshop.php</a> 
+                            Hvad er Photoshop? (28. december 2020). Hentet fra nemprogrammering.dk: <a href="https://www.nemprogrammering.dk/Tutorials/Startviden/teknologierne/hvad-er-photoshop.php" target="_blank">https://www.nemprogrammering.dk/Tutorials/Startviden/teknologierne/hvad-er-photoshop.php</a> 
                                 <br><br>
-                            Historien om Adobe Photoshop. (28. december 2020). Hentet fra Computer viden: <a href="http://www.computerdk.com/software/photoshop/152270.html">http://www.computerdk.com/software/photoshop/152270.html</a>
+                            Historien om Adobe Photoshop. (28. december 2020). Hentet fra Computer viden: <a href="http://www.computerdk.com/software/photoshop/152270.html" target="_blank">http://www.computerdk.com/software/photoshop/152270.html</a>
                                  <br><br>
-                            Offshore Clipping Path. (21. december 2020). Hentet fra Photoshop Toolbar and Tools: <a href="https://www.offshoreclippingpath.com/photoshop-cc-toolbar-tools/">https://www.offshoreclippingpath.com/photoshop-cc-toolbar-tools/</a>
+                            Offshore Clipping Path. (21. december 2020). Hentet fra Photoshop Toolbar and Tools: <a href="https://www.offshoreclippingpath.com/photoshop-cc-toolbar-tools/" target="_blank">https://www.offshoreclippingpath.com/photoshop-cc-toolbar-tools/</a>
                             
                             <br><br>
                         

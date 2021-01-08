@@ -56,11 +56,11 @@
                             <h3>Projektets links</h3>
                             
                             <ul>
-                                <li class="liste"><a href="https://github.com/amal1717/One-page-gruppe-3">Filerne på Github</a></li>
-                                <li class="liste"><a href="http://amal1717.web.eadania.dk/one-page-gruppe-3/">One Page hjemmesiden</a></li>
-                                <li class="liste"><a href="https://xd.adobe.com/view/4c9ceb0f-84db-43c7-b4ec-ca9ce5abbb87-19cf/">Desktop prototypen</a></li>
-                                <li class="liste"><a href="https://xd.adobe.com/view/aba1397d-dd32-42b5-bc62-149156b1c0a0-fef2/">Tablet prototypen</a></li>
-                                <li class="liste"><a href="https://xd.adobe.com/view/694e3691-26b4-4def-9fdd-b74f750f92b2-3c1d/">Mobile prototypen</a></li>
+                                <li class="liste"><a href="https://github.com/amal1717/One-page-gruppe-3" target="_blank">Filerne på Github</a></li>
+                                <li class="liste"><a href="http://amal1717.web.eadania.dk/one-page-gruppe-3/" target="_blank">One Page hjemmesiden</a></li>
+                                <li class="liste"><a href="https://xd.adobe.com/view/4c9ceb0f-84db-43c7-b4ec-ca9ce5abbb87-19cf/" target="_blank">Desktop prototypen</a></li>
+                                <li class="liste"><a href="https://xd.adobe.com/view/aba1397d-dd32-42b5-bc62-149156b1c0a0-fef2/" target="_blank">Tablet prototypen</a></li>
+                                <li class="liste"><a href="https://xd.adobe.com/view/694e3691-26b4-4def-9fdd-b74f750f92b2-3c1d/" target="_blank">Mobile prototypen</a></li>
                             </ul>
                             
                     </section>
@@ -104,7 +104,7 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            MMD 2020-2022 One Page projekt - 1. semester. (9. november 2020). Hentet fra eadania.mrooms.net: <a href="https://eadania.mrooms.net/course/view.php?id=2753">https://eadania.mrooms.net/course/view.php?id=2753</a>
+                            MMD 2020-2022 One Page projekt - 1. semester. (9. november 2020). Hentet fra eadania.mrooms.net: <a href="https://eadania.mrooms.net/course/view.php?id=2753" target="_blank">https://eadania.mrooms.net/course/view.php?id=2753</a>
                             
                             <br><br>
                         

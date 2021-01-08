@@ -109,11 +109,11 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Hvad kan Adobe Premiere Rush? (22. februar 2019). Hentet fra blog.softworld.dk: <a href="https://blog.softworld.dk/hvad-kan-adobe-premiere-rush">https://blog.softworld.dk/hvad-kan-adobe-premiere-rush</a>
+                            Hvad kan Adobe Premiere Rush? (22. februar 2019). Hentet fra blog.softworld.dk: <a href="https://blog.softworld.dk/hvad-kan-adobe-premiere-rush" target="_blank">https://blog.softworld.dk/hvad-kan-adobe-premiere-rush</a>
                             
                             <br><br>
                             
-                            Bogner, C. (21. oktober 2020). Quick'n Dirty Video. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/quick'n_dirty.pdf">Quick'n Dirty.pdf</a>
+                            Bogner, C. (21. oktober 2020). Quick'n Dirty Video. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/quick'n_dirty.pdf" target="_blank">Quick'n Dirty.pdf</a>
                             
                             <br><br>
 

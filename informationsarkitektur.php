@@ -94,7 +94,7 @@
                             <h3>Kortsortering</h3>
                             <p>Man kan også benytte sig at kortsortering når man skal organisere en hjemmesides indhold. Metoden går ud på at skrive de begreber, som skal struktureres, på individuelle kort hvorefter kortene sorteres ud fra logik og intuition. Man kan både bruge testpersoner til dette, men man kan også selv gøre det (Busch A. , Kapitel 11 - Informationsarkitektur, 2015).</p>
                             
-                            <p><a href="usability.php#kortsortering" >Læs mere om kortsortering</a></p>
+                            <p><a href="usability.php#kortsortering" target="_blank">Læs mere om kortsortering</a></p>
                         </section>
                     
                     
@@ -175,7 +175,7 @@
                     <section>
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
-                        <p>Østergaard, N. (2. november 2020). Informationsarkitektur. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/informationsarkitektur.pdf" >Informationsarkitektur.pdf</a>
+                        <p>Østergaard, N. (2. november 2020). Informationsarkitektur. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/informationsarkitektur.pdf" target="_blank">Informationsarkitektur.pdf</a>
                         
                         </p>
                         

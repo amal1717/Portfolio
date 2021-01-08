@@ -183,11 +183,11 @@
                         <h2>Valg af fonts</h2>
                         <p>Når man skal vælge en font til et projekt, kan man enten bruge en font som allerede er på computeren, finde en gratis font fra f.eks. Adobe eller Google eller så kan man vælge at købe en font. Dog kan det være risikabelt blot at vælge en font på sin computer. Hvis projektet handler om at udvikle en hjemmeside eller lignende, kræver det nemlig at brugerne har installeret sammen font på deres computer for at de også kan se den. Derfor benytter mange én af de andre to muligheder.
                             <br><br>
-                        Hvis man vælger at finde en gratis font fra <a href="https://fonts.adobe.com/fonts">Adobe Fonts</a> eller <a href="https://fonts.google.com/">Google Fonts</a> er det selvfølgelig en fordel at fonten er gratis og at der er derfor flere muligheder for at eksperimentere. Derudover er der også et stort udvalg og samtidig er de både lette at finde og lette at bruge. Dog skal man være opmærksom på om fonten er gennemarbejdet, om den har alle bogstaverne og om fonten evt. er blevet misbrugt, fordi den er gratis. 
+                        Hvis man vælger at finde en gratis font fra <a href="https://fonts.adobe.com/fonts" target="_blank">Adobe Fonts</a> eller <a href="https://fonts.google.com/" target="_blank">Google Fonts</a> er det selvfølgelig en fordel at fonten er gratis og at der er derfor flere muligheder for at eksperimentere. Derudover er der også et stort udvalg og samtidig er de både lette at finde og lette at bruge. Dog skal man være opmærksom på om fonten er gennemarbejdet, om den har alle bogstaverne og om fonten evt. er blevet misbrugt, fordi den er gratis. 
                             <br><br>
-                        <a href="http://localhost:8888/Portfolio/css.php - skrifttyper">Sådan anvender man en Adobe font</a> 
+                        <a href="http://localhost:8888/Portfolio/css.php - skrifttyper" target="_blank">Sådan anvender man en Adobe font</a> 
                             <br><br>
-                        Hvis man vælger at købe en font, får man automatisk en højere kvalitet og der er også større chance for at få et komplet sæt fonts med forskellige weights, som indeholder alle bogstaver. Man må også godt bruge fonten kommercielt, men det er alligevel en god ide at tjekke det inden. Fonts kan ofte være temmelig dyre, men det kan også godt lade sig gøre at finde nogle der er knap så dyre. På trods af dette er der stadig risiko for at fonten ikke er helt så gennemarbejdet som håbet. Man kan bl.a. købe fonts på <a href="https://www.myfonts.com/">Myfonts.com</a>. 
+                        Hvis man vælger at købe en font, får man automatisk en højere kvalitet og der er også større chance for at få et komplet sæt fonts med forskellige weights, som indeholder alle bogstaver. Man må også godt bruge fonten kommercielt, men det er alligevel en god ide at tjekke det inden. Fonts kan ofte være temmelig dyre, men det kan også godt lade sig gøre at finde nogle der er knap så dyre. På trods af dette er der stadig risiko for at fonten ikke er helt så gennemarbejdet som håbet. Man kan bl.a. købe fonts på <a href="https://www.myfonts.com/" target="_blank">Myfonts.com</a>. 
                         </p>
                     </section>
                     
@@ -201,19 +201,19 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Bogner, C. (25. september 2020). Design: Typografi og typografiens historie. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/typografi.pdf">Typografi.pdf</a>
+                            Bogner, C. (25. september 2020). Design: Typografi og typografiens historie. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/typografi.pdf" target="_blank">Typografi.pdf</a>
                             <br><br>
-                            Adobe Fonts. (4. januar 2021). Hentet fra fonts.adobe.com: <a href="https://fonts.adobe.com/fonts">https://fonts.adobe.com/fonts</a>
+                            Adobe Fonts. (4. januar 2021). Hentet fra fonts.adobe.com: <a href="https://fonts.adobe.com/fonts" target="_blank">https://fonts.adobe.com/fonts</a>
                             <br><br>
-                            Google Fonts. (4. januar 2021). Hentet fra fonts.google.com: <a href="https://fonts.google.com/">https://fonts.google.com</a>
+                            Google Fonts. (4. januar 2021). Hentet fra fonts.google.com: <a href="https://fonts.google.com/" target="_blank">https://fonts.google.com</a>
                             <br><br>
-                            Anatomy of A Type. (4. januar 2021). Hentet fra typeplate.com: <a href="http://typeplate.com/img/type-anatomy.jpg">http://typeplate.com/img/type-anatomy.jpg</a>
+                            Anatomy of A Type. (4. januar 2021). Hentet fra typeplate.com: <a href="http://typeplate.com/img/type-anatomy.jpg" target="_blank">http://typeplate.com/img/type-anatomy.jpg</a>
                             <br><br>
-                            Hvad er typografi? (24. juli 2020). Hentet fra aproposbureau.dk: <a href="https://aproposbureau.dk/artikler/hvad-er-typografi/">https://aproposbureau.dk/artikler/hvad-er-typografi/</a>
+                            Hvad er typografi? (24. juli 2020). Hentet fra aproposbureau.dk: <a href="https://aproposbureau.dk/artikler/hvad-er-typografi/" target="_blank">https://aproposbureau.dk/artikler/hvad-er-typografi/</a>
                             <br><br>
-                            The 10 commandments of typography. (januar. 4 2021). Hentet fra designmantic.com: <a href="https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg">https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg</a>
+                            The 10 commandments of typography. (januar. 4 2021). Hentet fra designmantic.com: <a href="https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg" target="_blank">https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg</a>
                             <br><br>
-                            Butterick's practical typography. (4. januar 2021). Hentet fra practicaltypography.com: <a href="https://practicaltypography.com">https://practicaltypography.com</a>
+                            Butterick's practical typography. (4. januar 2021). Hentet fra practicaltypography.com: <a href="https://practicaltypography.com" target="_blank">https://practicaltypography.com</a>
                         </p>
                             
                         <h3>Bøger:</h3>

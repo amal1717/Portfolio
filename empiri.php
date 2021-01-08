@@ -145,7 +145,7 @@
                         
                         <br><br>
                         
-                        <p><a href="pdf_filer/Opgave_kvantitativ_og_kvalitativ_empiri.pdf">Se hele opgaven om kvantitativ og kvalitativ empiri</a></p>
+                        <p><a href="pdf_filer/Opgave_kvantitativ_og_kvalitativ_empiri.pdf" target="_blank">Se hele opgaven om kvantitativ og kvalitativ empiri</a></p>
                         
                     </section>
                     
@@ -163,11 +163,11 @@
                         <br>
                         
                         <p>
-                            Kvalitativ metode. (28. september 2020). Hentet fra bibdok.dk: <a href="http://bibdok.dk/onewebmedia/Kvalitativ%20metode.pdf">http://bibdok.dk/onewebmedia/Kvalitativ%20metode.pdf</a> 
+                            Kvalitativ metode. (28. september 2020). Hentet fra bibdok.dk: <a href="http://bibdok.dk/onewebmedia/Kvalitativ%20metode.pdf" target="_blank">http://bibdok.dk/onewebmedia/Kvalitativ%20metode.pdf</a> 
                             
                             <br><br>
                             
-                            Kvantitativ metode. (28. september 2020). Hentet fra Systime.dk: <a href="https://metodenu.systime.dk/?id=131">https://metodenu.systime.dk/?id=131</a> 
+                            Kvantitativ metode. (28. september 2020). Hentet fra Systime.dk: <a href="https://metodenu.systime.dk/?id=131" target="_blank">https://metodenu.systime.dk/?id=131</a> 
                         </p>
                         
                         
