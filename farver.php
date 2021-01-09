@@ -214,7 +214,7 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Bogner, C. (24. september 2020). Design: Farver. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/Design_farver.pdf" target="_blank">Farver.pdf</a>
+                            Bogner, C. (24. september 2020). Design: Farver. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/Farvelaere.pdf" target="_blank">Farvelære.pdf</a>
                             
                                 <br><br>
                             
