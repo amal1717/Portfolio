@@ -316,17 +316,19 @@
                                 Adobe Illustrator. (29. december 2020). Hentet fra britannica.com: <a href="https://www.britannica.com/technology/Adobe-Illustrator" target="_blank">https://www.britannica.com/technology/Adobe-Illustrator</a>
                                     <br><br>
                                 Tool galleries. (15. november 2017). Hentet fra helpx.adobe.com: <a href="https://helpx.adobe.com/illustrator/using/tool-galleries.html" target="_blank">https://helpx.adobe.com/illustrator/using/tool-galleries.html</a>
-
-
-                                <br><br>
-
-                             <a href="#top">Til toppen</a>
-
-                                <br><br>
-
                             </p>
 
                         </section>
+                    
+                         <div>
+                            <p>
+                                    <br><br>
+
+                                <a href="#top" >Til toppen</a>
+
+                                    <br><br>
+                            </p>
+                        </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

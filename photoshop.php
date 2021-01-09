@@ -225,15 +225,19 @@
                             Historien om Adobe Photoshop. (28. december 2020). Hentet fra Computer viden: <a href="http://www.computerdk.com/software/photoshop/152270.html" target="_blank">http://www.computerdk.com/software/photoshop/152270.html</a>
                                  <br><br>
                             Offshore Clipping Path. (21. december 2020). Hentet fra Photoshop Toolbar and Tools: <a href="https://www.offshoreclippingpath.com/photoshop-cc-toolbar-tools/" target="_blank">https://www.offshoreclippingpath.com/photoshop-cc-toolbar-tools/</a>
-                            
-                            <br><br>
-                        
-                            <a href="#top">Til toppen</a>
-                            
-                            <br><br>
                         </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

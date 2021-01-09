@@ -426,9 +426,6 @@ section p a { /*Links under "kilder"*/
 
 
 
-
-
-
 /*..........BILLEDER STARTER..........*/
 
 .billeder {
@@ -543,6 +540,16 @@ td, th {
 
 /*..........YOUTUBE VIDEOER SLUTTER..........*/
 
+
+
+
+
+
+
+/*..........TIL TOPPEN..........*/
+section div p a:link{
+    color: #e29000; /*Farve - orange*/
+}
 
 
 

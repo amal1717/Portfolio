@@ -373,15 +373,19 @@
                             Østergaard, N. (14. september 2020). Intro til CSS. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/Intro_til_CSS.pdf" target="_blank">Intro til CSS.pdf</a>
                             <br><br>
                             Østergaard, N. (9. december 2020). Responsive design + CSS Grid. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/CSS_grid.pdf" target="_blank">CSS Grid.pdf</a> og <a href="PDF_filer/Responsiv_design.pdf" target="_blank">Responsiv design.pdf</a>
-                            
-                            <br><br> 
-                          
-                            <a href="#top" >Til toppen</a>
-                            
-                            <br><br> 
                         </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

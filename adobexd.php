@@ -122,16 +122,19 @@
                             <h3>Internetkilder:</h3>
                             <p>
                                 Reininger, L. (17. januar 2020). Hvad kan Adobe XD? Her får du en gennegang af programmet. Hentet fra blog.softworld.dk: <a href="https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator" target="_blank">https://blog.softworld.dk/adobe-xd-versus-photoshop-illustrator</a>
-
-                                <br><br>
-
-                            <a href="#top" >Til toppen</a>
-
                             </p>
 
+                        </section>
+                    
+                        <div>
+                            <p>
                                 <br><br>
 
-                        </section>
+                                <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                            </p>
+                        </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

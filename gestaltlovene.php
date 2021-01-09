@@ -160,15 +160,19 @@
                             
                             <p>
                                 Rold, M. (2019). Kapitel 12 - Sidestruktur. I Interfacedesign (s. 119-130). Samfundslitteratur.
-                                <br><br>
-                                
-                                <a href="#top">Til toppen</a>
-
-                                <br><br>
-                                
                             </p>
                         
                     </section>
+                    
+                     <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

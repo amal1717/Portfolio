@@ -106,16 +106,19 @@
                             <br><br>
                             
                             Østergaard, N. (19. oktober 2020). Serverside Scripting + frameworks. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/frameworks.pdf" target="_blank">Framework.pdf</a>
-                            
-                            <br><br> 
-                            
-                            <a href="#top" >Til toppen</a>
-                            
-                            <br><br> 
-                            
                         </p>
                         
                     </section>
+                    
+                     <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

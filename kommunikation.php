@@ -240,16 +240,19 @@
                                 <br><br>
                             
                             Busch, A. (2015). Kapitel 5 - Grundlæggende kommunikationsteori. I Kommunikation i multimediedesign (s. 67-82). Hans Reitzels Forlag.
-                                
-                            <br><br>
-
-                            <a href="#top">Til toppen</a>
-
-                            <br><br>
-                            
                         </p>
                         
                     </section>
+                    
+                     <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

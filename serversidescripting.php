@@ -97,16 +97,19 @@
                             <br><br>
                             
                             Østergaard, N. (oktober. 19 2020). Serverside scripting. Hentet fra Grundlæggende faglighed - Serverside scripting + Frameworks: <a href="PDF_filer/serverside_scripting.pdf" target="_blank">Serverside Scripting.pdf</a>
-                            
-                            <br><br>
-
-                            <a href="#top">Til toppen</a>
-
-                            <br><br>
-                                
                         </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

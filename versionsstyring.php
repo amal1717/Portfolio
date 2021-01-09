@@ -166,16 +166,19 @@
                             <br><br>
                             
                             Østergaard, N. (21. september 2020). Versionsstyring. Hentet fra Grundlæggende faglighed : <a href="PDF_filer/versionsstyring.pdf" target="_blank">Versionsstyring.pdf</a>
-                            
-                            <br><br>
-
-                            <a class="tiltoppen" href="#top">Til toppen</a>
-
-                            <br><br>
-                                
                         </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

@@ -228,15 +228,19 @@
                         <h3>Bøger:</h3>
                         <p>
                             Rold, M. (2019). Kapitel 17 - Farver. I M. Rold, Interfacedesign (s. 173-187). Samfundslitteratur.
-                            
-                            <br><br>
-
-                            <a href="#top">Til toppen</a>
-
-                            <br><br>
                         </p>
                         
                     </section>
+                    
+                     <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

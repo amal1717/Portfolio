@@ -105,15 +105,19 @@
                         <h3>Internetkilder:</h3>
                         <p>
                             MMD 2020-2022 One Page projekt - 1. semester. (9. november 2020). Hentet fra eadania.mrooms.net: <a href="https://eadania.mrooms.net/course/view.php?id=2753" target="_blank">https://eadania.mrooms.net/course/view.php?id=2753</a>
-                            
-                            <br><br>
-                        
-                            <a href="#top">Til toppen</a>
-                            
-                            <br><br>
                         </p>
                        
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

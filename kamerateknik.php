@@ -128,15 +128,19 @@
                                 Kjøller, J. (6. januar 2021). Vejen til den perfekte eksponering. Hentet fra fotomalia.dk: <a href="https://fotomalia.dk/vejen-til-den-perfekte-eksponering/" target="_blank">https://fotomalia.dk/vejen-til-den-perfekte-eksponering/</a>
                                 <br><br>
                                 Pexels. (28. oktober 2020). Hentet fra pexels.com: <a href="https://www.pexels.com/da-dk/" target="_blank">https://www.pexels.com/da-dk/</a>
-
-                                <br><br> 
-
-                                <a href="#top">Til toppen</a>
-
-                                <br><br> 
                             </p>
 
                         </section>
+                    
+                         <div>
+                            <p>
+                                    <br><br>
+
+                                <a href="#top" >Til toppen</a>
+
+                                    <br><br>
+                            </p>
+                        </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

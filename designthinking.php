@@ -171,15 +171,19 @@
                                 <br><br>
                             
                             Hackathon. (2. september 2020). Hentet fra Sommerstart 2020: <a href="https://eadania.mrooms.net/course/view.php?id=2216#section-10" target="_blank">https://eadania.mrooms.net/course/view.php?id=2216#section-10</a>
-                            
-                            <br><br>
-                            
-                            <a href="#top" >Til toppen</a>
-                            
-                            <br><br>
                         </p>
                        
                     </section>
+                    
+                     <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

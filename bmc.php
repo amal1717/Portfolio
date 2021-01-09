@@ -178,16 +178,19 @@
                                  <br><br>
                         
                             Andersen, F. R., Jensen, B. W., Olsen, M. R., Olsen, S. Ø., & Schmalz, P. (2015). Kapitel 3. I International markedsføring (s. 64-67). København: Trojka.
-                            
-                            <br><br> 
-                          
-                            <a href="#top" >Til toppen</a>
-                         
-                            <br><br> 
-                            
                         </p>
                        
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

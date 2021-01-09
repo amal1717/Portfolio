@@ -98,16 +98,19 @@
                             
                             Østergaard, N. (11. september 2020). Internettets historie og serverbegrebet. Hentet fra Grundlæggende faglighed:
                             <a href="PDF_filer/Serverbegrebet.pdf" target="_blank">Serverbegrebet.pdf</a>
-                            
-                            <br><br>
-
-                            <a href="#top">Til toppen</a>
-
-                            <br><br>
-                                
                         </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

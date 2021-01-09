@@ -75,16 +75,19 @@
                         
                         <h4>Andet</h4>
                         <p>Undervejs i projektet er jeg også blevet rutineret i brugen af Words referencesystem, som bruges til at angive kilder i teksten og lave en bibliografi. Jeg valgte fra starten at sætte mig ind i systemet, for at lære systemet at kende og for at gøre kildehenvisningerne lettere for mig selv. Jeg har også fået en meget bedre forståelse af både Github og PHP samt hvordan det fungerer, da jeg har anvendt begge dele gennem hele projektet. I starten af projektet brugte mig og en klassekammerat tid på at sætte os ind i selve opsætningen af begge dele, hvilket jeg lærte meget af og samtidig har det gjort processen meget lettere. Idet hjemmesiden indeholder mange billeder, har jeg også brugt en del tid i Photoshop, især på at ændre billedernes størrelse så de fylder mindst muligt i forhold til hvad der er nødvendigt.
-                            
-                            <br><br>
-                            
-                        <a href="#top">Til toppen</a>
-                            
-                            <br><br>
-                            
                         </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

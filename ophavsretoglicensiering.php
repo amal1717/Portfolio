@@ -106,15 +106,19 @@
                             Kultur Ministeriet. (6. oktober 2020). Ophavsret på internettet. Hentet fra kum.dk: <a href="https://kum.dk/kulturomraader/ophavsret/ophavsret-paa-internettet" target="_blank">https://kum.dk/kulturomraader/ophavsret/ophavsret-paa-internettet</a>
                                 <br><br>
                             Hvad er Creative Commons? (3. november 2020). Hentet fra medierforalle.skoleblogs.dk: <a href="https://medierforalle.skoleblogs.dk/hvad-er-creative-commons" target="_blank">https://medierforalle.skoleblogs.dk/hvad-er-creative-commons</a>
-                            
-                            <br><br>
-                        
-                            <a href="#top">Til toppen</a>
-                            
-                            <br><br>
                         </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

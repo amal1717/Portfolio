@@ -135,16 +135,19 @@
                         <p>
                             
                             <a href="http://10743.apache.eadania.dk/HTML%20Forms/ExtraInfo/Index.html" target="_blank">Kilder vi brugte til at lave HTML og CSS workshop hjemmesiden med</a>
-                         
-                            <br><br> 
-                            
-                            <a href="#top">Til toppen</a>
-                            
-                            <br><br> 
-                            
                         </p>
                         
                     </section>
+                    
+                     <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

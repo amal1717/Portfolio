@@ -171,16 +171,19 @@
                                 Busch, A. (2015). Kapitel 22 . I Kommunikation i multimediedesign (s. 315-330). Hans Reitzels Forlag.
                                 <br><br>
                                 Hald, M. (2008). Kapitel 4 - Kropssprog - Nonverbal kommunikation. I Præsentation og formidling (s. 45-52). København: Hans Reitzels Forlag. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/kropssprog.pdf" target="_blank">Kropssprog.pdf</a>
-                                    
-                                <br><br>
-
-                                <a href="#top">Til toppen</a>
-
-                                <br><br>
-                                
                             </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

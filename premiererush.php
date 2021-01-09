@@ -114,16 +114,19 @@
                             <br><br>
                             
                             Bogner, C. (21. oktober 2020). Quick'n Dirty Video. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/quick'n_dirty.pdf" target="_blank">Quick'n Dirty.pdf</a>
-                            
-                            <br><br>
-
-                            <a href="#top">Til toppen</a>
-
-                            <br><br>
-                                
                         </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

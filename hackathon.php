@@ -143,16 +143,19 @@
                                 <br><br>
                             
                             skivefesival.dk. (2. september 2020). Hentet fra skivefestival.dk: <a href="https://skivefestival.dk" target="_blank">https://skivefestival.dk</a>
-                            
-                            <br><br> 
-                            
-                            <a href="#top" >Til toppen</a>
-                            
-                            <br><br> 
-                            
                         </p>
                          
                     </section>
+                    
+                     <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

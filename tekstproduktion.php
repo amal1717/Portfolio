@@ -325,16 +325,19 @@
                         
                             <p>
                                 Busch, A. M. (2015). Kapitel 17 - Tekstproduktion. I Kommunikation i multimediedesign (s. 235-252). Hans Reitzels Forlag.
-                                
-                                <br><br>
-
-                                <a href="#top">Til toppen</a>
-
-                                <br><br>
-                                
                             </p>
                         
                     </section>
+                    
+                    <div>
+                        <p>
+                                <br><br>
+
+                            <a href="#top" >Til toppen</a>
+
+                                <br><br>
+                        </p>
+                    </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         
