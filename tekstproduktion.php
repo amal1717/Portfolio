@@ -147,6 +147,7 @@
                         <p>Når man læser en nyhedsartikel, vil man helst ikke skulle læse hele artiklen for at nå frem til konklusionen, så derfor bruges nyhedstrekanten til hurtigt at skabe interesse og danne overblik over indholdet i artiklen. Nyhedstrekanten illustrerer en måde at strukturerer artiklens indhold på nemlig at den vigtigste information fortælles i starten af artiklen og det mindst vigtige fortælles i slutningen af artiklen. Derfor starter en nyhedsartikel ofte med en overskrift, en underoverskrift og et referat, som indeholder de informationer der er vigtigst at vide. Dernæst fortælles hvordan og hvorledes nyheden hænger sammen, altså en uddybning, og til sidst fortælles de detaljer som man i princippet sagtens kan undvære (Busch A. M., 2015).</p>
                       
                         <img class="billeder" src="Billeder/Tekstproduktion/nyhedstrekanten.jpg" alt="Billede af nyhedstrekanten">
+                        <p>(Busch A. M., 2015)</p>
                     </section>
 
                     
@@ -156,6 +157,7 @@
                         </p>
                       
                         <img class="billeder" src="Billeder/Tekstproduktion/kommode_modellen.jpg" alt="Billede af kommode-modellen">
+                        <p>(Busch A. M., 2015)</p>
                     </section>
                     
                      <section id="heyyouseesomodellen">
@@ -175,6 +177,7 @@
                          <h3>So</h3>
                          <p>Perspektiv og konklusion: Det fører til at....</p>
                          
+                         <p>(Busch A. M., 2015)</p>
                        
                     </section>
                     
@@ -211,8 +214,9 @@
                             Man kan bruge AIDA-modellen til at sikre at man skaber den rigtig opbygning af en annonce, men det er ikke kun opbygningen der er vigtig. Det er også meget vigtigt at man hele tiden fokuserer på målgruppen når man laver annoncen. Billedet og overskriften kan bruges til at fange målgruppens opmærksomhed (attention) enten fordi det er usædvanligt eller fordi læseren har brug for informationen. Annoncens budskab bruges til at vække deres interesse (interest) og hvis interessen er stærk nok, vil målgruppen få lyst til at eje produktet (desire) og det vil få dem til at købe produktet (action), altså foretage en handling, som man også kalder call to action (Busch A. M., 2015) (Schmith, Tekstproduktion, 2020).</p>
                             
                             <img class="billeder" src="Billeder/Tekstproduktion/aida_modellen.jpg" alt="Billede af aida-modellen">
+                            <p>(Busch A. M., 2015)</p>
                              <br><br><br><br>
-                            <p>Når man laver en annonce, skal man også overveje hvilken strategi man vil bruge i forhold til målgruppen (Busch A. M., 2015).</p>
+                            <p>Når man laver en annonce, skal man også overveje hvilken strategi man vil bruge i forhold til målgruppen (Busch A. M., 2015). Nedenstående ses de forskellige strategier.</p>
                         
                              <table id="tabel">
                                       <tr>
@@ -302,6 +306,7 @@
                         <h2>21 sproglige dødssynder</h2>
                         
                          <img class="billeder" src="Billeder/Tekstproduktion/21_sproglige_doedssynder.png" alt="21 sproglige dødssynder">
+                        <p>(Bro kommunikation, 2020)</p>
                     </section>
                     
                     <section>
@@ -312,7 +317,7 @@
                     
                     <section>
                         <h2 id="kilder">Kilder</h2>
-                        <h3>Internetkilder:</h3>
+                        <h3>PDF-filer:</h3>
                         <p>
                             Schmith, M. (30. oktober 2020). Tekstproduktion. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/tekstproduktion.pdf" target="_blank">Tekstproduktion.pdf</a>
                             <br><br>

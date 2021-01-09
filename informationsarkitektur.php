@@ -111,10 +111,9 @@
                             <h3>Webstrukturen</h3>
                             <p>Webstrukturen er kendetegnet ved at brugeren har rig mulighed for bevægelse på hjemmesiden både via interne og eksterne links. Strukturen gør det altså muligt for brugeren at følge sine indfald og frit udforske internettet, men det kan samtidig virke forvirrende for brugeren. Denne struktur bruges derfor forholdsvis sjældent til almindelige hjemmesider, men er meget populære til spil, da der er fokus på oplevelse (Busch A. , Kapitel 11 - Informationsarkitektur, 2015).</p>
                             
-                                <br><br>
-                            <div>
-                                <img class="billeder" src="Billeder/Informationsarkitektur/forskellige-strukturer.jpg" alt="De forskellige strukturer til hjemmesider">
-                            </div>
+                            <img class="billeder" src="Billeder/Informationsarkitektur/forskellige-strukturer.jpg" alt="De forskellige strukturer til hjemmesider">
+                            <p>(Busch A. , Kapitel 11 - Informationsarkitektur, 2015)</p>
+                            
                                 <br><br>
                             
                             <p>I praksis anvendes disse forskellige strukturer dog ofte sammen. Hierarkistrukturen danner hjemmesidens grundlag, sekvensstrukturen anvendes i forbindelse med transaktioner og webstrukturen gør det muligt at besøge de forskellige sider i informationsarkitekturen (Busch A. , Kapitel 11 - Informationsarkitektur, 2015).</p>
@@ -126,11 +125,9 @@
                             <h3>Placering af elementer</h3>
                             <p>En hjemmesides struktur bør også tage udgangspunkt i hvor brugerne forventer at finde de forskellige elementer og dermed hvad der er almindeligt. Det er nemlig med til at forbedre brugervenligheden hvis brugeren let og hurtigt kan finde det de leder efter. F.eks. er det meget almindeligt at hjemmesidens logo er placeret i oppe i venstre hjørne, så hvis logoet er placeret nederst på siden, vil det mindske brugervenligheden. Nedenstående billede viser illustrationer af hvor brugeren forventer at finde de forskellige elementer (Busch A. , Kapitel 11 - Informationsarkitektur, 2015).</p>
                             
-                                <br><br>
+                            <img class="billeder" src="Billeder/Informationsarkitektur/forventninger_placering.jpg" alt="Brugernes forventninger til placering af elementer på hjemmesider">
+                            <p>(Busch A. , Kapitel 11 - Informationsarkitektur, 2015)</p>
                             
-                            <div>
-                                <img class="billeder" src="Billeder/Informationsarkitektur/forventninger_placering.jpg" alt="Brugernes forventninger til placering af elementer på hjemmesider">
-                            </div>
                             
                                 <br><br>
 
@@ -174,7 +171,7 @@
                     
                     <section>
                         <h2 id="kilder">Kilder</h2>
-                        <h3>Internetkilder:</h3>
+                        <h3>PDF-filer:</h3>
                         <p>Østergaard, N. (2. november 2020). Informationsarkitektur. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/informationsarkitektur.pdf" target="_blank">Informationsarkitektur.pdf</a>
                         
                         </p>

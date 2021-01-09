@@ -86,6 +86,8 @@
                         
                         <h3 id="internet">Internetkilder:</h3>
                         <p>
+                            Adobe Color - Farvehjul. (2. januar 2021). Hentet fra color.adobe.com: <a href="https://color.adobe.com/da/create/color-wheel" target="_blank">https://color.adobe.com/da/create/color-wheel</a>
+                                <br><br>
                             Adobe Fonts. (4. januar 2021). Hentet fra fonts.adobe.com: <a href="https://fonts.adobe.com/fonts" target="_blank">https://fonts.adobe.com/fonts</a>
                                 <br><br>
                             Adobe Illustrator. (29. december 2020). Hentet fra adobe.com: <a href="https://www.adobe.com/dk/products/illustrator.html" target="_blank">https://www.adobe.com/dk/products/illustrator.html</a>

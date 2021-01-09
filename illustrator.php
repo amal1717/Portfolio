@@ -281,8 +281,7 @@
                             Når man arbejder i Illustrator er det ikke nødvendigt at vælge det lag man vil foretage ændringer på under layers ligesom i Photoshop. I Illustrator vælger man blot ’Selection tool’ og klikker på det element man vil ændre og så skifter programmet selv lag under layers. Man kan derfor flytte på forskellige elementer uden at manuelt at skifte lag. 
                                 <br><br>
                             Hvis man har lavet et større projekt, vil filen ofte ende med at have mange lag, hvilket gør den endnu større. Derfor kan det være nødvendigt at samle billedet til ét lag ved hjælp af ’Flatten artwork’ muligheden inden man gemmer dokumentet.</p>
-                            
-                                <br>    
+                              
                             
                             <img class="billeder" src="Billeder/Illustrator/Layers.png" alt="Layers i Illustrator">
                             

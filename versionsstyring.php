@@ -91,22 +91,24 @@
                         
                         <p>1. Vælg repository </p>
                         <img class="billeder" src="Billeder/Versionsstyring/github_online1.png" alt="Githubs hjemmeside">
+                        <p>(Github, 2020)</p>
                         
                             <br><br><br>
                         
                         <p>2. Klik på dokumenterne for at se koden eller klik på ”commits” for at se tidligere versioner</p>
                         <img class="billeder" src="Billeder/Versionsstyring/github_online2.png" alt="Githubs hjemmeside">
+                        <p>(Github, 2020)</p>
                         
                             <br><br><br>
                         
                         <p>3. Klik på den pågældende commit for at se ændringen i koden  </p>
                         <img class="billeder" src="Billeder/Versionsstyring/github_online3.png" alt="Githubs hjemmeside">
-                
                         <p>(Github, 2020)</p>
                         
                     </section>    
                     
                     <section id="begreber">
+                        <h2>Forskellige begreber</h2>
                             <table id="tabel">
                                   <tr>
                                     <th>Begreb</th>
@@ -160,11 +162,11 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                    
                             Github. (14. december 2020). Hentet fra Github: <a href="https://github.com" target="_blank">https://github.com</a>
-
-                            <br><br>
-                            
+                        </p>
+                        
+                        <h3>PDF-filer:</h3>
+                        <p>
                             Østergaard, N. (21. september 2020). Versionsstyring. Hentet fra Grundlæggende faglighed : <a href="PDF_filer/versionsstyring.pdf" target="_blank">Versionsstyring.pdf</a>
                         </p>
                         

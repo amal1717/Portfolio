@@ -64,27 +64,30 @@
                         
                             <p>1. Gå ind på <a href="https://getbootstrap.com/" target="_blank">https://getbootstrap.com/</a></p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap1.png" alt="Guide til Bootstrap" style="width:100%;">
+                            <p>(Bootstrap, 2020)</p>
                         
                                 <br><br><br>
                         
                             <p>2. Tryk på ”Docs” i menuen</p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap2.png" alt="Guide til Bootstrap" style="width:100%;">
+                            <p>(Bootstrap, 2020)</p>
                           
                                 <br><br><br>
                         
                             <p>3. Indsæt disse kodeelementer i HTML-dokumentet</p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap3.png" alt="Guide til Bootstrap" style="width:100%;">
+                            <p>(Bootstrap, 2020)</p>
                         
                                 <br><br><br>
                         
                             <p>4. Tryk på ”Components” og vælg det ønskede komponent</p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap4.png" alt="Guide til Bootstrap" style="width:100%;">
+                            <p>(Bootstrap, 2020)</p>
                         
                                 <br><br><br>
                         
                             <p>5. Indsæt koden til det ønskede komponent i HTML-dokumentet</p>
                             <img class="billeder" src="Billeder/Frameworks/bootstrap5.png" alt="Guide til Bootstrap" style="width:100%;">
-                            
                             <p>(Bootstrap, 2020)</p>
                         
                     </section>
@@ -100,13 +103,11 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            
                             Bootstrap. (11. december 2020). Hentet fra Bootstrap.com: <a href="https://getbootstrap.com" target="_blank">https://getbootstrap.com</a>
-                            
-                            <br><br>
-                            
-                            Østergaard, N. (19. oktober 2020). Serverside Scripting + frameworks. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/frameworks.pdf" target="_blank">Framework.pdf</a>
                         </p>
+                        
+                        <h3>PDF-filer:</h3>
+                        <p>Østergaard, N. (19. oktober 2020). Serverside Scripting + frameworks. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/frameworks.pdf" target="_blank">Framework.pdf</a></p>
                         
                     </section>
                     

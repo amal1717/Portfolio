@@ -227,7 +227,7 @@
                     
                     <section>
                         <h2 id="kilder">Kilder</h2>
-                        <h3>Internetkilder:</h3>
+                        <h3>PDF-filer:</h3>
                         <p>
                             Schmith, M. (16. september 2020). Grundlæggende kommunikation. Hentet fra Grundlæggende faglighed : <a href="pdf_filer/kommunikation.pdf" target="_blank">Kommunikation.pdf</a>
                         </p>

@@ -149,12 +149,15 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                             <p>
-                                Bogner, C. (27. oktober 2020). Design: Gestaltlovene. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/designprincipper.pdf" target="_blank">Designprincipper.pdf</a>
-                                <br><br>
                                 Chapman, C. (3. januar 2021). Exploring the Gestalt Principles of Design. Hentet fra toptal.com: <a href="https://www.toptal.com/designers/ui/gestalt-principles-of-design" target="_blank">https://www.toptal.com/designers/ui/gestalt-principles-of-design</a> 
                                 <br><br>
                                 Schwarz, D. (24. maj 2017). Why is Whitespace in Web Design So Powerful? Hentet fra sympli.io: <a href="https://sympli.io/blog/why-is-whitespace-in-web-design-so-powerful/" target="_blank">https://sympli.io/blog/why-is-whitespace-in-web-design-so-powerful/</a> 
                             </p>
+                        
+                        <h3>PDF-filer:</h3>
+                        <p>
+                             Bogner, C. (27. oktober 2020). Design: Gestaltlovene. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/designprincipper.pdf" target="_blank">Designprincipper.pdf</a>
+                        </p>
                             
                         <h3>Bøger:</h3>
                             

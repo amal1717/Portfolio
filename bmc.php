@@ -121,11 +121,9 @@
                         
                             <p>(Andersen, Jensen, Olsen, Olsen, & Schmalz, Kapitel 3, 2015)</p>
                         
-                            <br><br>
                         
+                            <h4>Eksempel på et Business Model Canvas</h4>
                             <img class="billeder" src="Billeder/BMC/Business_Model_Canvas.png" alt="Eksempel på et Business Model Canvas">
-                        
-                            <p class="billedetekst">Eksempel på et Business Model Canvas for McDonalds</p>
                         
                             <br><br>
                             
@@ -163,11 +161,11 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            
                             Salesboost. (19. december 2020). Forstå din kunde med Value Proposition Canvas. Hentet fra salesboost.dk: <a href="https://salesboost.dk/forstaa-din-kunde-med-value-proposition-canvas/" target="_blank">https://salesboost.dk/forstaa-din-kunde-med-value-proposition-canvas/</a>
-                            
-                             <br><br>
-                            
+                        </p>
+                        
+                        <h3>PDF-filer:</h3>
+                        <p>
                             Schmith, M. (4. november 2020). Business Model Canvas. Hentet fra Grundlæggende kommunikation: <a href="PDF_filer/BMC.pdf" target="_blank">Business Model Canvas.pdf</a> 
                         </p>
                             

@@ -199,30 +199,30 @@
                         </section>
                     
                     
-                    <section>
-                        <h2 id="refleksion">Refleksion</h2>
-                        <p>Den dag vi havde om Usability var jeg desværre ikke i skole, så derfor har jeg primært lært om emnet ved at læse i bogen ’Usability’ og studere undervisningsmaterialet. Jeg fik også tilsendt nogle notater fra en klassekammerart, så jeg kunne få et indblik i undervisningen og hvad de havde lavet. Derudover var emnet fordelt over to dage, hvor jeg kun var væk den ene dag, så derfor deltog jeg i gruppearbejdet på anden dagen som omhandlende brugertest. Jeg fik derfor mulighed for at snakke med gruppen omkring emnet, hvilket hjalp yderligere på forståelsen.  Derudover har vi også arbejdet med og snakket om de forskellige usability metoder i forbindelse med andet undervisning.</p>
-                    </section>
-                    
-                    
-                    <section>
-                        <h2 id="kilder">Kilder</h2>
-                        <h3>Bøger:</h3>
-                        <p>
-                            Gregersen, O., & Wisler-Poulsen, I. (2018). Kapitel 3 - 10. I Usability (s. 14-137). Taastrup: Wislers Forlag.
-                        </p>
-                        
-                    </section>
-                    
-                    <div>
-                        <p>
-                                <br><br>
+                        <section>
+                            <h2 id="refleksion">Refleksion</h2>
+                            <p>Den dag vi havde om Usability var jeg desværre ikke i skole, så derfor har jeg primært lært om emnet ved at læse i bogen ’Usability’ og studere undervisningsmaterialet. Jeg fik også tilsendt nogle notater fra en klassekammerart, så jeg kunne få et indblik i undervisningen og hvad de havde lavet. Derudover var emnet fordelt over to dage, hvor jeg kun var væk den ene dag, så derfor deltog jeg i gruppearbejdet på anden dagen som omhandlende brugertest. Jeg fik derfor mulighed for at snakke med gruppen omkring emnet, hvilket hjalp yderligere på forståelsen.  Derudover har vi også arbejdet med og snakket om de forskellige usability metoder i forbindelse med andet undervisning.</p>
+                        </section>
 
-                            <a href="#top" >Til toppen</a>
 
-                                <br><br>
-                        </p>
-                    </div>
+                        <section>
+                            <h2 id="kilder">Kilder</h2>
+                            <h3>Bøger:</h3>
+                            <p>
+                                Gregersen, O., & Wisler-Poulsen, I. (2018). Kapitel 3 - 10. I Usability (s. 14-137). Taastrup: Wislers Forlag.
+                            </p>
+
+                        </section>
+
+                        <div>
+                            <p>
+                                    <br><br>
+
+                                <a href="#top" >Til toppen</a>
+
+                                    <br><br>
+                            </p>
+                        </div>
 
                 </section> <!--MITGRID SLUTTER HER-->
         

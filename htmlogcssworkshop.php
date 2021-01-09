@@ -43,15 +43,17 @@
                     
                     <section id="workshop">
                         <h2>HTML og CSS workshop</h2>
-                        <p>Dette projekt gik ud på at vi i grupper skulle kode en responsiv hjemmeside som skulle indeholde information om et specifikt emne indenfor HTML og CSS. Der skulle laves en hjemmeside til alle 10 emner og derfor blev vi inddelt i grupper á to personer. Min gruppe fik tildelt emnet ”Formularer, felttyper og formatering”, som handler om de forskellige typer felter man bruger på hjemmesider til at udfylde information f.eks. afkrydsningsfelter og tekstfelter.</p>
+                        <p>Dette projekt gik ud på at vi i grupper skulle kode en responsiv hjemmeside som skulle indeholde information om et specifikt emne indenfor HTML og CSS. Der skulle laves en hjemmeside til alle 10 emner og derfor blev vi inddelt i grupper á to personer. Min gruppe fik tildelt emnet ”Formularer, felttyper og formatering”, som handler om de forskellige typer felter man bruger på hjemmesider til at udfylde information f.eks. afkrydsningsfelter og tekstfelter.
                         
                             <br><br>
-                        
-                        <p><a href="http://10743.apache.eadania.dk/HTML Forms/Index.html" target="_blank">Se hjemmeside om formularer, felttyper og formatering</a></p>
-                        
+                            
+                        <a href="http://10743.apache.eadania.dk/HTML Forms/Index.html" target="_blank">Se hjemmeside om formularer, felttyper og formatering</a>
+                            
                             <br><br>
+                            
+                        </p>
                         
-                         <img class="billeder" src="Billeder/HTML_og_CSS_workshop/Vores_hjemmeside.png" alt="Billede af vores hjemmeside om formularer, felttyper og formatering">
+                        <img class="billeder" src="Billeder/HTML_og_CSS_workshop/Vores_hjemmeside.png" alt="Billede af vores hjemmeside om formularer, felttyper og formatering">
                         
                     </section>
                     
@@ -70,52 +72,52 @@
                               <tr>
                                 <td>Medier - Video og lydintegration</td>
                                 <td>Marie og Niklas</td>
-                                <td><p><a href="http://10763.apache.eadania.dk/video" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://10763.apache.eadania.dk/video" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                                 <tr>
                                 <td>Baggrunde - Billeder og gradients</td>
                                 <td>Drescher og Nicolaj</td>
-                                <td><p><a href="http://10850.apache.eadania.dk/workshop/Index.html" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://10850.apache.eadania.dk/workshop/Index.html" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                                 <tr>
                                 <td>Tabeller - HTML og CSS</td>
                                 <td>Lissi og Veli</td>
-                                <td><p><a href="http://10745.apache.eadania.dk/tables" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://10745.apache.eadania.dk/tables" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                                 <tr>
                                 <td>Formularer, felttyper og formatering</td>
                                 <td>Amalie og Andreas</td>
-                                <td><p><a href="http://10743.apache.eadania.dk/HTML Forms/Index.html" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://10743.apache.eadania.dk/HTML Forms/Index.html" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                                 <tr>
                                 <td>Karaktersæt, emojis, symboler og entities</td>
                                 <td>Hanne og Terkel</td>
-                                <td><p><a href="http://10737.apache.eadania.dk/workshop/" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://10737.apache.eadania.dk/workshop/" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                                 <tr>
                                 <td>Animationer og transitions</td>
                                 <td>Jonas og Maja</td>
-                                <td><p><a href="http://10741.apache.eadania.dk/Animation/" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://10741.apache.eadania.dk/Animation/" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                                 <tr>
                                 <td>CSS selectors</td>
                                 <td>Alberte og Naib</td>
-                                <td><p><a href="http://albe0507.apache.eadania.dk/CSSselectors/" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://albe0507.apache.eadania.dk/CSSselectors/" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                                 <tr>
                                 <td>SVG</td>
                                 <td>Sebastian og Nicklas</td>
-                                <td><p><a href="http://10822.apache.eadania.dk/index.html?fbclid=IwAR2BRTjaVrqqpTgPRj9eL-I7xzOJsTK514zZ1PmaVnD30BL3OMqNBMJhdpE" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://10822.apache.eadania.dk/index.html?fbclid=IwAR2BRTjaVrqqpTgPRj9eL-I7xzOJsTK514zZ1PmaVnD30BL3OMqNBMJhdpE" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                                 <tr>
                                 <td>Rammer og skygger</td>
                                 <td>Bjarne og Christine</td>
-                                <td><p><a href="http://10747.apache.eadania.dk/skygger-og-rammer/index.html" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://10747.apache.eadania.dk/skygger-og-rammer/index.html" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                                 <tr>
                                 <td>Semantiske tags og head</td>
                                 <td>Nuunu og Sine</td>
-                                <td><p><a href="http://10854.apache.eadania.dk/semantisk/?fbclid=IwAR29j6hUMGbjaYR4mqHcNC-MS9G0StqHn0EOaALlvMmT_oUTTZORa1hIia4" target="_blank">Se hjemmeside</a></p></td>
+                                <td><p><a href="http://10854.apache.eadania.dk/semantisk/?fbclid=IwAR29j6hUMGbjaYR4mqHcNC-MS9G0StqHn0EOaALlvMmT_oUTTZORa1hIia4" target="_blank">Hjemmeside</a></p></td>
                               </tr>
                             
                         </table>

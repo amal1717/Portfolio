@@ -49,7 +49,7 @@
                         </section>
                     
                         <section id="kvantitativ">
-                            <h2>Kvantitativ empiri</h2>
+                            <h3>Kvantitativ empiri</h3>
                             <p>Som navnet afslører, handler kvantitative metoder om at måle et kvantum, altså en mængde, og derfor udtrykkes resultaterne ofte i tal, som bl.a. kan bruges til statistik (Andersen, Jensen, Olsen, Olsen, & Schmalz, Kapitel 4 , 2015) (Busch, 2015). Kvantitative undersøgelser kan sagtens være af god kvalitet, men det er ikke her fokus ligger (Busch, 2015). Der fokuseres derimod på hvor mange mennesker der gør noget og hvor ofte, fremfor at fokusere på hvorfor de gør det. Til dette anvendes ofte spørgeskemaer (Busch, 2015), men kvantitative metoder kan også bestå af observationer og eksperimenter. Observationer er ofte en systematisk iagttagelse og registrering af adfærd blandt personer, uden at der kommunikeres med de involverede, men objekter kan også observeres (Andersen, Jensen, Olsen, Olsen, & Schmalz, Kapitel 6, 2015). Eksperimentmetoden kan være en god dataindsamlingsmetode, hvis virksomheder har brug for at måle hvordan elementer hænger sammen og påvirker kunderne. Både observationsmetoden og eksperimentmetoden kan også være kvalitative metoder afhængig af hvordan de udføres (Busch, 2015). I tabellen nedenstående ses de forskellige måder at praktisere spørgeskemaer på.   
                             </p>
                        
@@ -91,7 +91,7 @@
                     </section>
                     
                     <section id="kvalitativ">
-                        <h2>Kvalitativ empiri</h2>
+                        <h3>Kvalitativ empiri</h3>
                         <p>Kvalitative metoder måler kvaliteten og har til formål at opnå en dybere forståelse af hvorfor folk gør, som de gør (Busch, 2015). Derudover er kvalitative metoder specielt gode til at give et godt indblik i motivation og følelser. I den nedenstående tabel ses de mange forskellige kvalitative metoder (Andersen, Jensen, Olsen, Olsen, & Schmalz, Kapitel 5, 2015). Som nævnt tidligere kan observationsmetoden og eksperimentmetoden være enten kvalitative eller kvantitative afhængig af hvordan metoderne udføres.</p>
 
             
@@ -142,8 +142,7 @@
                         
                         <h3>Fordele og ulemper</h3>    
                         <p>Kvalitative undersøgelser sikre generelt dybdegående analyser og giver mulighed for at gå i dybden med et emne. Kvalitative metoder giver også mulighed for at opnå udbydende og velbegrundende svar og kan bidrage til at øge kvaliteten af kvantitative analyser (Andersen, Jensen, Olsen, Olsen, & Schmalz, Kapitel 4 , 2015). Dog vil disse metoder ofte være både meget tidskrævende og bekostelige og samtidig heller ikke give mulighed for at generalisere og på den måde lave en statistik, som man kan med kvantitative metoder. Udover at kvalitative metoder ofte har få deltagere, så kræver metoden at den indsamlede data fortolkes af personen som foretager undersøgelse. Det kan altså være svært at vide om fortolkningen er korrekt eller om den er blevet påvirket af personen som foretager undersøgelsen (Kvalitativ metode, 2020).</p>    
-                        
-                        <br><br>
+                       
                         
                         <p><a href="pdf_filer/Opgave_kvantitativ_og_kvalitativ_empiri.pdf" target="_blank">Se hele opgaven om kvantitativ og kvalitativ empiri</a></p>
                         

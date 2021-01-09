@@ -45,12 +45,9 @@
                     <section id="hackathon">
                         <h2>Hackathon</h2>
                         <p>Dette projekt handlede om at anvende design thinking til at udvikle løsninger, som skulle afhjælpe Skive Festival med deres forskellige udfordringer. Skive Festival var ude på skolen for at give en præsentation om selve festivallen og deres udfordringer, hvorefter vi skulle arbejde i grupper og forbedre et oplæg, som vi skulle præsentere for hele skolen og Skive Festival til sidst i projektet. I grupperne skulle vi ved hjælp af de 5 faser i design thinking metoden vælge en af Skive Festivals udfordringer og finde frem til en konkret problemstilling, som vi skulle finde på løsningsforslag til. Derefter skulle vi vælge hvilke idéer vi ville tage udgangspunkt i og lave en prototype som vi skulle teste inden oplægget. Design thinking metoden er beskrevet under billederne af prototypen.</p>
-                    </section>
                     
-                    <section id="billeder">
-                        
-                        <h2>Billeder af prototypen</h2>
-                        
+                        <h3>Billeder af prototypen</h3>
+                            <br>
                         <img id="hackathonbilleder" class="billeder" src="Billeder/Hackathon/hackathon_billeder.png" alt="Prototype af design thinking projekt - Skive festival">
                     
                         <img id="hackathon1" class="billeder" src="Billeder/Hackathon/hackathon1.png" alt="Prototype af design thinking projekt - Skive festival">
@@ -104,6 +101,10 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
+                            Ditmer. (20. december 2020). Hvad er Design Thinking, og hvorfor skal du arbejde med det? Hentet fra ditmer.dk: <a href="https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/" target="_blank">https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/</a>
+                            
+                                <br><br>
+                            
                             Design Thinking projekt - Fase 1 . (5. oktober 2020). Hentet fra MMD 2020-2021 Design Thinking projek: <a href="https://eadania.mrooms.net/course/view.php?id=2759#section-6" target="_blank">https://eadania.mrooms.net/course/view.php?id=2759#section-6</a>
                             
                                 <br><br>
@@ -114,10 +115,6 @@
                             
                                 <br><br>
                         
-                            Ditmer. (20. december 2020). Hvad er Design Thinking, og hvorfor skal du arbejde med det? Hentet fra ditmer.dk: <a href="https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/" target="_blank">https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/</a>
-                            
-                                <br><br>
-                            
                             Hackathon - Fase 1. (2. september 2020). Hentet fra Design thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2370" target="_blank">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2370</a>
                             
                                 <br><br>

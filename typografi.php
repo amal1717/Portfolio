@@ -132,21 +132,25 @@
                         <p>Man kan klassificere skrifttyper på flere forskellige måder, men den mest anvendte er at klassificere dem som en serif eller en sans serif skrifttype. Dog findes der mange skrifttyper som ikke umiddelbart passer ind i en af disse kategorier, så derfor anvender man ofte også andre klassifikationer (Rold, Kapitel 16 - Typografi, 2019). Nedenstående ses et eksempel på hvordan Adobes hjemmeside om fonts klassificerer de forskellige skrifttyper.</p>
                         
                         <img class="billeder" src="Billeder/Typografi/Adobe_classification.png" alt="Adobe Fonts forskellige klassfikationer">
+                        <p>(Adobe Fonts, 2021)</p>
                         
                         <h3>Serif</h3>
                         <p>Serif skrifttyperne har fået navnet ’serif’ på grund af de små vandrette ”fødder” som bogstaverne har, idet ordet serif betyder ’fødder’ på fransk. Disse serif skrifttyper er et levn fra dengang man skrev med pen og blæk, og derfor opfatter mange også skrifttyperne som lidt gammeldags. Mange af serif skrifttyperne er faktisk flere hundrede år gamle, men alligevel bruges skrifttyperne stadig meget ofte. Serifferne hjælper nemlig med at gruppere bogstaverne, så de danner en form, hvilket gør det lettere for os at læse. Samtidig skaber de en vandret bevægelse, som gør det lettere for os at fokusere på den linje vi læser. Det er derfor ofte bøger, aviser og andre teksttunge dokumenter som benytter sig af serif skrifttyperne (Rold, Kapitel 16 - Typografi, 2019). Nedenstående ses et eksempel på en serif skrifttype af Adobe Fonts. </p>
                         
                         <img class="billeder" src="Billeder/Typografi/serif.png" alt="Eksempel på en serif skrifttype fra Adobe Fonts">
+                        <p>(Adobe Fonts, 2021)</p>
                         
                         <h3>Sans serif</h3>
                         <p>Ordet sans er fransk og betyder ’uden’ og derfor betyder sans serif ’uden fødder’. Det vil altså sige at disse skrifttyper ikke har de små vandrette ”fødder” som serif skrifttyperne har. Sans serif skrifttyperne benyttes ofte til overskrifter, da de giver en god kontrast til serif skrifttyperne og fordi de ikke er lige så letlæselige som serif skrifttyperne. Dog har man i lang tid fortrukket sans serif skrifttyper som brødtekst på hjemmesider bl.a. fordi de er hurtigere at læse end serif skrifttyper. Hjemmesider er nemlig sjældent lige så teksttunge som bøger, aviser og lignende, og samtidig har læsere ofte kortere tid, når de er på deres computer eller mobil (Bogner, Design: Typografi og typografiens historie, 2020). Faktisk bruger man sans serif skrifttyper på motorvejsskilte, fordi de er hurtigere alt læse. Ofte har disse skrifttyper samme stregtykkelse over hele bogstavet, hvilket betyder at kontrasten en meget lav, modsat serif skrifttyperne er har en større kontrast (Rold, Kapitel 16 - Typografi, 2019). Nedenstående ses et eksempel på en sans serif skrifttype fra Adobe Fonts.</p>
                         
                         <img class="billeder" src="Billeder/Typografi/sansserif.png" alt="Eksempel på en  sans serif skrifttype fra Adobe Fonts">
+                        <p>(Adobe Fonts, 2021)</p>
                         
                          <h3>Andre skrifttyper</h3>
                         <p>De fleste skrifttyper, som ofte anvendes, falder ind under kategorierne serif eller sans serif, men der findes også nogle mere specielle skrifttyper som ikke gør, f.eks. mono-skrifter og script-skrifter. Mono-skrifter er er skrifttyper hvor alle bogstaverne optager den præcis samme plads på linjen. Derfor bruges de ikke til en tekst der skal være letlæselig, men til tekster hvor bogstaverne skal fremstå tydeligt f.eks. HTML-kode. Script-skrifter er skrifter som ligner en håndskrift og derfor kan det være alt lige fra en flot kursiv skrift til en sjov og barnlig skrift (Rold, Kapitel 16 - Typografi, 2019). Nedenstående ses et par eksempler på andre skrifttyper fra Adobe Fonts.</p>
                         
                         <img class="billeder" src="Billeder/Typografi/andre_skrifttyper.jpg" alt="Eksempel på andre skrifttyper fra Adobe Fonts">
+                        <p>(Adobe Fonts, 2021)</p>
                         
                     </section>
 
@@ -181,13 +185,13 @@
                     
                     <section id="valgaffonts">
                         <h2>Valg af fonts</h2>
-                        <p>Når man skal vælge en font til et projekt, kan man enten bruge en font som allerede er på computeren, finde en gratis font fra f.eks. Adobe eller Google eller så kan man vælge at købe en font. Dog kan det være risikabelt blot at vælge en font på sin computer. Hvis projektet handler om at udvikle en hjemmeside eller lignende, kræver det nemlig at brugerne har installeret sammen font på deres computer for at de også kan se den. Derfor benytter mange én af de andre to muligheder.
+                        <p>Når man skal vælge en font til et projekt, kan man enten bruge en font som allerede er på computeren, finde en gratis font fra f.eks. Adobe eller Google eller så kan man vælge at købe en font (Bogner, Design: Typografi og typografiens historie, 2020). Dog kan det være risikabelt blot at vælge en font på sin computer. Hvis projektet handler om at udvikle en hjemmeside eller lignende, kræver det nemlig at brugerne har installeret sammen font på deres computer for at de også kan se den. Derfor benytter mange én af de andre to muligheder.
                             <br><br>
-                        Hvis man vælger at finde en gratis font fra <a href="https://fonts.adobe.com/fonts" target="_blank">Adobe Fonts</a> eller <a href="https://fonts.google.com/" target="_blank">Google Fonts</a> er det selvfølgelig en fordel at fonten er gratis og at der er derfor flere muligheder for at eksperimentere. Derudover er der også et stort udvalg og samtidig er de både lette at finde og lette at bruge. Dog skal man være opmærksom på om fonten er gennemarbejdet, om den har alle bogstaverne og om fonten evt. er blevet misbrugt, fordi den er gratis. 
+                        Hvis man vælger at finde en gratis font fra <a href="https://fonts.adobe.com/fonts" target="_blank">Adobe Fonts</a> eller <a href="https://fonts.google.com/" target="_blank">Google Fonts</a> er det selvfølgelig en fordel at fonten er gratis og at der er derfor flere muligheder for at eksperimentere. Derudover er der også et stort udvalg og samtidig er de både lette at finde og lette at bruge. Dog skal man være opmærksom på om fonten er gennemarbejdet, om den har alle bogstaverne og om fonten evt. er blevet misbrugt, fordi den er gratis  (Bogner, Design: Typografi og typografiens historie, 2020). 
                             <br><br>
                         <a href="http://localhost:8888/Portfolio/css.php - skrifttyper" target="_blank">Sådan anvender man en Adobe font</a> 
                             <br><br>
-                        Hvis man vælger at købe en font, får man automatisk en højere kvalitet og der er også større chance for at få et komplet sæt fonts med forskellige weights, som indeholder alle bogstaver. Man må også godt bruge fonten kommercielt, men det er alligevel en god ide at tjekke det inden. Fonts kan ofte være temmelig dyre, men det kan også godt lade sig gøre at finde nogle der er knap så dyre. På trods af dette er der stadig risiko for at fonten ikke er helt så gennemarbejdet som håbet. Man kan bl.a. købe fonts på <a href="https://www.myfonts.com/" target="_blank">Myfonts.com</a>. 
+                        Hvis man vælger at købe en font, får man automatisk en højere kvalitet og der er også større chance for at få et komplet sæt fonts med forskellige weights, som indeholder alle bogstaver. Man må også godt bruge fonten kommercielt, men det er alligevel en god ide at tjekke det inden. Fonts kan ofte være temmelig dyre, men det kan også godt lade sig gøre at finde nogle der er knap så dyre. På trods af dette er der stadig risiko for at fonten ikke er helt så gennemarbejdet som håbet. Man kan bl.a. købe fonts på <a href="https://www.myfonts.com/" target="_blank">Myfonts.com</a> (Bogner, Design: Typografi og typografiens historie, 2020). 
                         </p>
                     </section>
                     
@@ -201,8 +205,6 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Bogner, C. (25. september 2020). Design: Typografi og typografiens historie. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/typografi.pdf" target="_blank">Typografi.pdf</a>
-                            <br><br>
                             Adobe Fonts. (4. januar 2021). Hentet fra fonts.adobe.com: <a href="https://fonts.adobe.com/fonts" target="_blank">https://fonts.adobe.com/fonts</a>
                             <br><br>
                             Google Fonts. (4. januar 2021). Hentet fra fonts.google.com: <a href="https://fonts.google.com/" target="_blank">https://fonts.google.com</a>
@@ -214,6 +216,11 @@
                             The 10 commandments of typography. (januar. 4 2021). Hentet fra designmantic.com: <a href="https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg" target="_blank">https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg</a>
                             <br><br>
                             Butterick's practical typography. (4. januar 2021). Hentet fra practicaltypography.com: <a href="https://practicaltypography.com" target="_blank">https://practicaltypography.com</a>
+                        </p>
+                        
+                        <h3>PDF-filer:</h3>
+                        <p>
+                            Bogner, C. (25. september 2020). Design: Typografi og typografiens historie. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/typografi.pdf" target="_blank">Typografi.pdf</a>
                         </p>
                             
                         <h3>Bøger:</h3>

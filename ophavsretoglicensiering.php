@@ -76,7 +76,7 @@
                             <h3>Creative Commons</h3>
                             <p>Creative Commons er en organisation, som tilbyder til række åbne og gratis licenser, som alle kan anvende, hvis man vil offentliggøre et værk. Licenserne gør det muligt for ophavsmanden at give andre tilladelse til at bruge værket, dog under nogle bestemte betingelser. Licenserne giver nemlig ophavsmaden mulighed for at vælge hvordan andre må bruge værket. Derfor skal ophavsmanden vælge den licenseringsform som vedkommende synes virker mest tiltrækkende (Hvad er Creative Commons?, 2020).</p>
                             
-                                <br>
+                                <br><br>
                             
                             <p><a href="pdf_filer/Ophavsret_og_licensering.pdf" target="_blank">Se opgaven om ophavsret og licensering</a></p>
                             

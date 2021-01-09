@@ -32,7 +32,7 @@
                             <nav> 
                                 <ul>
                                     <li><h2 id="oversigt">Oversigt:</h2>
-                                    <li><a class="list-item" href="#projektet">Design Thinking</a></li>
+                                    <li><a class="list-item" href="#projektet">Design Thinking (app)</a></li>
                                     <li><a class="list-item" href="#videoafleveringer">Videoafleveringer</a></li>
                                       <li><a class="list-item" href="#designthinking">Design Thinking metoden</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
@@ -44,7 +44,7 @@
                     
                     <section id="projektet">
                         
-                            <h2>Design Thinking</h2>
+                            <h2>Design Thinking (app)</h2>
                         
                             <p>Dette projekt fokuserede på design thinking metoden og derfor var projektet opdelt i faser, hvor hver fase skulle gennemføres før næste fase måtte påbegyndes. Design thinking metoden består af fem faser, så derfor var projektet også opdelt i fem faser. Dog havde projektet også en sjette fase, implementering, som i dette tilfælde handlede om at "sælge" vores idé. Emnet for projektet var FN’s 17 verdensmål hvor vi ved hjælp af design thinking skulle finde en relevant problemstilling og derefter udvikle en idé til en app, som kunne bidrage til at løse denne problemstilling. I løbet af projektet skulle vi aflevere nogle forskellige videoer hvor vi bl.a. fortalte om hvordan vi havde grebet processen an, hvad vi fandt ud af og hvilket resultat vi var kommet frem til. Nederst på siden står beskrevet hvad design thinking metoden handler om.</p>
             
@@ -120,7 +120,7 @@
 
                                 <br><br>
 
-                            <img src="Billeder/Hackathon/Design-Thinking-Model.png" alt="Design thinking model" style="width:100%">
+                            <img class="billederudenskygge"  src="Billeder/Hackathon/Design-Thinking-Model.png" alt="Design thinking model" style="width:100%">
                         
                             <p>(Hackathon, 2020)</p>
                         
@@ -135,6 +135,9 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
+                            Ditmer. (20. december 2020). Hvad er Design Thinking, og hvorfor skal du arbejde med det? Hentet fra ditmer.dk: <a href="https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/" target="_blank">https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/</a>
+                            
+                                 <br><br>
                             
                             Design Thinking projekt - Fase 1 . (5. oktober 2020). Hentet fra MMD 2020-2021 Design Thinking projek: <a href="https://eadania.mrooms.net/course/view.php?id=2759#section-6" target="_blank">https://eadania.mrooms.net/course/view.php?id=2759#section-6</a>
                             
@@ -146,10 +149,6 @@
                             
                                 <br><br>
                         
-                            Ditmer. (20. december 2020). Hvad er Design Thinking, og hvorfor skal du arbejde med det? Hentet fra ditmer.dk: <a href="https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/" target="_blank">https://www.ditmer.dk/viden/hvad-er-design-thinking-og-hvorfor-skal-du-arbejde-med-det/</a>
-                            
-                                <br><br>
-                            
                             Hackathon - Fase 1. (2. september 2020). Hentet fra Design thinking - faseforståelse og redskaber: <a href="https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2370" target="_blank">https://eadania.mrooms.net/mod/book/view.php?id=138356&chapterid=2370</a>
                             
                                 <br><br>

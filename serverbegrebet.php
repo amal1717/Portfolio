@@ -93,9 +93,10 @@
                         <h3>Internetkilder:</h3>
                         <p>
                             Server. (10. december 2020). Hentet fra SimpleCode: <a href="https://simplecode.dk/hvad-er-en-server/" target="_blank">https://simplecode.dk/hvad-er-en-server/</a>
-                            
-                            <br><br>
-                            
+                        </p>  
+                        
+                        <h3>PDF-filer:</h3>
+                        <p>
                             Østergaard, N. (11. september 2020). Internettets historie og serverbegrebet. Hentet fra Grundlæggende faglighed:
                             <a href="PDF_filer/Serverbegrebet.pdf" target="_blank">Serverbegrebet.pdf</a>
                         </p>

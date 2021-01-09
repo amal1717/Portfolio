@@ -66,7 +66,7 @@
                             
                             <table id="tabel">
                                   <tr>
-                                    <th>Selectors</th>
+                                    <th>Selector</th>
                                     <th>Eksempel</th>
                                   </tr>
                                   <tr>
@@ -132,15 +132,10 @@
                                 <td>Får elementet til at være synligt på hele siden selvom der rulles ned </td>
                               </tr>
                         </table>
+                        <p>(Østergaard, Intro til CSS, 2020)</p>
+                            
+                        <p><a href="https://www.w3schools.com/cssref/default.asp" target="_blank">Se alle CSS properties</a></p>
                         
-                        <p>(
-                            Østergaard, Intro til CSS, 2020)
-                            
-                            <br><br>
-                            
-                            <a href="https://www.w3schools.com/cssref/default.asp" target="_blank">Se alle CSS properties</a>
-                        </p>
-                            
                         <h4>Eksempel på CSS</h4>
                         <img class="billeder" src="Billeder/CSS/eksempel_css.png" alt="Eksempel på CSS">  
                     
@@ -170,8 +165,6 @@
                         For at finde det som skal indsættes i CSS- og HTML-dokumentet, går man ind på <a href="https://fonts.adobe.com/" target="_blank">https://fonts.adobe.com/</a> og klikker på ”browse fonts” oppe i højre hjørne. Herefter vælger man blot den font som man gerne vil bruge og klikker på tegnet &#60;/&#62; under fonten og tilføjer fonten til et projekt. Derefter skal man klikke ”create” og så kan man se det som man skal indsætte. Øverst på billedet ses det som skal indsættes i HTML-dokumentet og nederst ses det som skal indsættes i CSS-dokumentet.
                         </p>
                         
-                            <br>
-                        
                         <img class="billeder" src="Billeder/CSS/adobe_fonts1.png" alt="Billede af det tegn man skal klikke på når man har valgt en Adobe font">  
                         <p>(Adobe Fonts, 2021)</p>
                         
@@ -195,7 +188,7 @@
                         <img class="billeder" src="Billeder/CSS/CSS_grid/Display_Grid.png" alt="Containeren gives følgende property og value i CSS-dokumentet">  
                        
                         <h3>Eksempler på CSS som anvendes til CSS Grid</h3>
-
+                            <br>
                         <table id="tabel">
                                   <tr>
                                     <th>Eksempel</th>
@@ -271,12 +264,12 @@
                         <h3>Den første metode</h3>
                         <p>Man kan anvende CSS grid på to forskellige måder. Ved den første metode styrer man fordelingen ved at angive den på hvert element og kan derfor være besværlig at ændre i. Her går det ud på at man tæller stregerne og skriver hvor feltet skal starte og slutte (Østergaard, Responsive design + CSS Grid, 2020).</p>
                         
-                        
                         <img class="billeder" src="Billeder/CSS/CSS_grid/1_metode_kode.png" alt="Eksempel på CSS grid">  
                       
                             <br><br>
                     
                         <img class="billeder" src="Billeder/CSS/CSS_grid/1_metode_browser.png" alt="Eksempel på CSS grid"> 
+                       
                     </section>
                     
                     
@@ -296,23 +289,22 @@
                     
                     <section id="layoutstrategier">
                         <h2>Layoutstrategier</h2>
-                        <p>Når man udvikler hjemmesider, skal man være opmærksom på de mange forskellige skærmstørrelser samt skærmenes forskellige opløsninger. Nu til dags bruges både smartphones, tablets, bærbare computere og stationære computere til at surfe på internettet, og udover at disse selvfølgelig har forskellige størrelser, så findes der også mange forskellige størrelser inden for hver variant. Derfor skal hjemmesiderne udvikles til at passe på alle skærme, hvilket også er med til at sikre en optimal brugeroplevelse (Østergaard, Responsive design + CSS Grid, 2020). </p>
+                        <p>Når man udvikler hjemmesider, skal man være opmærksom på de mange forskellige skærmstørrelser samt skærmenes forskellige opløsninger. Nu til dags bruges både smartphones, tablets, bærbare computere og stationære computere til at surfe på internettet, og udover at disse selvfølgelig har forskellige størrelser, så findes der også mange forskellige størrelser inden for hver variant. Derfor skal hjemmesiderne udvikles til at passe på alle skærme, hvilket også er med til at sikre en optimal brugeroplevelse (Østergaard, Responsive design + CSS Grid, 2020).</p>
                    
                         <h2 id="layoutformer">Layoutformer</h2>
-                        <p>Der findes fire overordnede tilgange til layoutformer, hvilket er statisk, flydende, adaptiv og responsiv. </p>
+                        <p>Der findes fire overordnede tilgange til layoutformer, hvilket er statisk, flydende, adaptiv og responsiv (Østergaard, Responsive design + CSS Grid, 2020). </p>
                         
                         <h3>Den statiske layoutform</h3>
-                        <p>Denne layoutform er baseret på faste mål og ændrer sig ikke på forskellige skærmstørrelser. Hvis skærmen er større end det tiltænkte bliver der blot mere ”luft” i siderne og hvis skærmen er mindre end det tiltænkte vises der blot mindre på skærmen og derfor fungerer den ofte dårligt på andre skærmstørrelser end den tiltænkte. </p>
+                        <p>Denne layoutform er baseret på faste mål og ændrer sig ikke på forskellige skærmstørrelser. Hvis skærmen er større end det tiltænkte bliver der blot mere ”luft” i siderne og hvis skærmen er mindre end det tiltænkte vises der blot mindre på skærmen og derfor fungerer den ofte dårligt på andre skærmstørrelser end den tiltænkte (Østergaard, Responsive design + CSS Grid, 2020). </p>
                         
                         <h3>Den flydende layoutform</h3>
-                        <p>Denne layoutform tilpasser sig i bredden og angiver typisk bredden i procent. Derfor kan elementerne både blive bredere og smallere. Denne layoutform kan foretrækkes hvis funktionalitet vægtes højere end det grafiske design, og er derfor ikke god at anvende hvis designet er meget vigtig. Dog udnyttes pladsen godt og den giver ofte en god brugeroplevelse. </p>
+                        <p>Denne layoutform tilpasser sig i bredden og angiver typisk bredden i procent. Derfor kan elementerne både blive bredere og smallere. Denne layoutform kan foretrækkes hvis funktionalitet vægtes højere end det grafiske design, og er derfor ikke god at anvende hvis designet er meget vigtig. Dog udnyttes pladsen godt og den giver ofte en god brugeroplevelse (Østergaard, Responsive design + CSS Grid, 2020).</p>
                         
                         <h3>Den responsive layoutform</h3>
-                        <p>Denne layoutform består af et flydende layout kombineret med media queries, som ændrer på layoutet afhængig af skærmens bredde. Denne layoutform anvendes meget ofte, fordi det er det samme HMTL-dokument og det samme CSS-dokument som anvendes ligegyldigt hvilken enhed hjemmesiden ses på og fordi layoutformen er let at bruge. Dog er det nødvendigt med en del planlægning, for at få et godt resultat. </p>
+                        <p>Denne layoutform består af et flydende layout kombineret med media queries, som ændrer på layoutet afhængig af skærmens bredde. Denne layoutform anvendes meget ofte, fordi det er det samme HMTL-dokument og det samme CSS-dokument som anvendes ligegyldigt hvilken enhed hjemmesiden ses på og fordi layoutformen er let at bruge. Dog er det nødvendigt med en del planlægning, for at få et godt resultat (Østergaard, Responsive design + CSS Grid, 2020). </p>
                         
                         <h3>Den adaptive layoutform</h3>
-                        <p>Denne layoutform er en mellemting mellem statisk og responsiv, idet den består af forskellige statiske layouts, som styres af media queries. Dog er den langt fra lige så god som den responsive layoutform, for hvis skærmen ikke rammer et præcis breakpoint vil der typisk være for meget eller for lidt plads. Denne layoutform anvender man ofte kun hvis man allerede har et statisk layout som man vil konvertere til et responsivt design uden at omskrive hele koden. 
-                        (Østergaard, Responsive design + CSS Grid, 2020)
+                        <p>Denne layoutform er en mellemting mellem statisk og responsiv, idet den består af forskellige statiske layouts, som styres af media queries. Dog er den langt fra lige så god som den responsive layoutform, for hvis skærmen ikke rammer et præcis breakpoint vil der typisk være for meget eller for lidt plads. Denne layoutform anvender man ofte kun hvis man allerede har et statisk layout som man vil konvertere til et responsivt design uden at omskrive hele koden (Østergaard, Responsive design + CSS Grid, 2020). 
                         </p>
                     </section>
                     
@@ -322,7 +314,7 @@
                         <h2>Mobile first</h2>
                         <p>Smartphones bruges oftere og oftere til at surfe på rundt på internettet og bl.a. derfor er mobile first den fortrukne designstrategi. Derudover er det ofte sværest at tilpasse information på begrænset plads og det er derfor en god ide at starte med det sværeste først, for så det bliver lettere når man begynder at udvikle til større skærme. Samtidig er det vigtigt at mobil versionen er veldesignet for at få de besøgende til at blive på siden længst muligt, idet der findes mange distraktioner på en mobil. Når man er færdig med at udvikle mobil versionen, går man over til tablet versionen og til sidst desktop versionen (Østergaard, Responsive design + CSS Grid, 2020). 
                             <br>
-                        Man koder ud fra mobile first tilgangen ved at starte med at kode hjemmesiden, så den passer til en smartphone. Derefter tilføjer man breakpoints hvor versionerne skal ændre sig f.eks. ved 800px og ved 1200px. Et breakpoint er nemlig den bredde hvor en regel overtager en anden regel. Responsive hjemmesider har typisk to breakpoints eller mere, altså minimum et breakpoint til tablet versionen og minimum et breakpoint til desktop versionen. Disse breakpoints laves ved hjælp af media queries og ser ofte således ud:</p>
+                        Man koder ud fra mobile first tilgangen ved at starte med at kode hjemmesiden, så den passer til en smartphone. Derefter tilføjer man breakpoints hvor versionerne skal ændre sig f.eks. ved 800px og ved 1200px. Et breakpoint er nemlig den bredde hvor en regel overtager en anden regel. Responsive hjemmesider har typisk to breakpoints eller mere, altså minimum et breakpoint til tablet versionen og minimum et breakpoint til desktop versionen (Østergaard, Responsive design + CSS Grid, 2020). Disse breakpoints laves ved hjælp af media queries og ser ofte således ud:</p>
                             
                         <img class="billeder" src="Billeder/CSS/CSS_grid/Media_queries.png" alt="Sådan skriver man en media querie i css">  
                     
@@ -330,17 +322,15 @@
                             
                         <p>Hvis man koder efter mobile first princippet bruger man min-width i sine breakpoints og hvis man koder efter dekstop first princippet bruger man max-width i sine breakpoints. På den måde kan man hurtig se på koden om der er tale om mobile first eller dekstop first. Inden i disse breakpoints skriver man altså hvad der skal ændres på siden når disse breakpoints nås, f.eks. CSS grid.</p>
                         
-                            <br>
-    
                         <img class="billeder" src="Billeder/CSS/CSS_grid/CSS_Grid.png" alt="Eksempel på CSS grid">    
-                            <br>
+                        
+                            <br><br>
                             
-                        <p>Når man anvender media queries skal man altid indsætte dette meta-tag under &#60;head&#62; i HTML-dokumentet. Ellers risikerer man at disse media queries ikke virker og at browseren prøver at presse et desktop-site ned på en mobil.</p>
+                        <p>Når man anvender media queries skal man altid indsætte dette meta-tag under &#60;head&#62; i HTML-dokumentet. Ellers risikerer man at disse media queries ikke virker og at browseren prøver at presse et desktop-site ned på en mobil (Østergaard, Responsive design + CSS Grid, 2020).</p>
                         
                         <img class="billeder" src="Billeder/CSS/CSS_grid/viewport.png" alt="Viewport skal indsættes i html">  
 
-                        
-                        <p>(Østergaard, Responsive design + CSS Grid, 2020)</p>
+                    
                         
                     </section>
                     
@@ -355,7 +345,6 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            
                             CSS Colors. (8. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/css/css_colors.asp" target="_blank">https://www.w3schools.com/css/css_colors.asp</a>
                             <br><br>
                             CSS Grid Layout Module. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/css/css_grid.asp" target="_blank">https://www.w3schools.com/css/css_grid.asp</a>
@@ -369,7 +358,10 @@
                             CSS grid-row-end Property. (9. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/cssref/pr_grid-row-end.asp" target="_blank">https://www.w3schools.com/cssref/pr_grid-row-end.asp</a>
                             <br><br>
                             Adobe Fonts. (4. januar 2021). Hentet fra fonts.adobe.com: <a href="https://fonts.adobe.com/fonts" target="_blank">https://fonts.adobe.com/fonts</a>
-                            <br><br>
+                        </p>
+                        
+                        <h3>PDF-filer:</h3>
+                        <p>
                             Østergaard, N. (14. september 2020). Intro til CSS. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/Intro_til_CSS.pdf" target="_blank">Intro til CSS.pdf</a>
                             <br><br>
                             Østergaard, N. (9. december 2020). Responsive design + CSS Grid. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/CSS_grid.pdf" target="_blank">CSS Grid.pdf</a> og <a href="PDF_filer/Responsiv_design.pdf" target="_blank">Responsiv design.pdf</a>

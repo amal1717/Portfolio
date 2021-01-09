@@ -97,6 +97,7 @@
                             <h3>Monokrom</h3>
                             <p>Én farve som justeres i forhold til mætning og lyshed</p>
                             <img class="billeder" src="Billeder/Farver/monokrom.png" alt="Farvesammensætningen monokrom">
+                            <p>(Adobe Color - Farvehjul, 2021)</p>
                             
                             
                                 <br><br>
@@ -104,34 +105,39 @@
                             <h3>Analog</h3>
                             <p>Én farve men indenfor et bredere spektrum</p>
                             <img class="billeder" src="Billeder/Farver/Analog.png" alt="Farvesammensætningen analog">
+                            <p>(Adobe Color - Farvehjul, 2021)</p>
                             
                                 <br><br>
                             
                             <h3>Komplementær</h3>
                             <p>Farver der ligger direkte overfor hinanden i farvecirklen</p>
                             <img class="billeder" src="Billeder/Farver/komplement%C3%A6r.png" alt="Farvesammensætningen komplementær">
+                            <p>(Adobe Color - Farvehjul, 2021)</p>
                             
                                 <br><br>
                             
                             <h3>Split komplementær</h3>
                             <p>Farver der ligger direkte overfor hinanden med i et bredere spektrum</p>
                             <img class="billeder" src="Billeder/Farver/split_komplement%C3%A6r.png" alt="Farvesammensætningen split komplementær">
+                            <p>(Adobe Color - Farvehjul, 2021)</p>
                             
                                 <br><br>
                             
                             <h3>Triader</h3>
                             <p>Tre farver der ligger lige langt fra hinanden</p>
                             <img class="billeder" src="Billeder/Farver/triader.png" alt="Farvesammensætningen triader">
+                            <p>(Adobe Color - Farvehjul, 2021)</p>
                             
                                 <br><br>
                             
                             <h3>Tetriader</h3>
                             <p>Fire farver den komplementære hinanden to og to, også kaldet dobbeltkomplementære</p>
                             <img class="billeder" src="Billeder/Farver/tetriader.png" alt="Farvesammensætningen tetriader">
+                            <p>(Adobe Color - Farvehjul, 2021)</p>
                             
                                 <br><br><br>
                            
-                            <p><a href="https://color.adobe.com/da/create/color-wheel">Se Adobes farvehjul</a></p>
+                            <p><a href="https://color.adobe.com/da/create/color-wheel" target="_blank">Se Adobes farvehjul</a></p>
                             
                         </section>
                  
@@ -214,15 +220,17 @@
                         <h2 id="kilder">Kilder</h2>
                         <h3>Internetkilder:</h3>
                         <p>
-                            Bogner, C. (24. september 2020). Design: Farver. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/Farvelaere.pdf" target="_blank">Farvelære.pdf</a>
-                            
-                                <br><br>
-                            
+                        
                             Farvesymbolik - Lær om farver og farvernes betydning. (2. januar 2021). Hentet fra farvesymbolik.dk: <a href="https://www.farvesymbolik.dk" target="_blank">https://www.farvesymbolik.dk</a>
                             
                                 <br><br>
                                 
                             Prohazka, M. (21. oktober 2019). Farvecirkel - Lær at sammensætte farver. Hentet fra levendestreg.dk: <a href="https://levendestreg.dk/farvecirkel-laer-at-sammensaette-farver/" target="_blank">https://levendestreg.dk/farvecirkel-laer-at-sammensaette-farver/</a>
+                        </p>
+                        
+                         <h3>PDF-filer:</h3>
+                        <p>
+                            Bogner, C. (24. september 2020). Design: Farver. Hentet fra Grundlæggende faglighed: <a href="pdf_filer/Farvelaere.pdf" target="_blank">Farvelære.pdf</a>
                         </p>
                         
                         <h3>Bøger:</h3>

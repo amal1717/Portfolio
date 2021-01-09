@@ -32,7 +32,7 @@
                         <nav> 
                             <ul>
                                 <li><h2 id="oversigt">Oversigt:</h2>
-                                <li><a class="list-item" href="#serversidescripting">Serverside Scripting</a></li>
+                                <li><a class="list-item" href="#serversidescripting">Serverside scripting</a></li>
                                 <li><a class="list-item" href="#php">PHP</a></li>
                                 <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                 <li><a class="list-item" href="#kilder">Kilder</a></li>
@@ -43,7 +43,7 @@
                     
                   
                     <section id="serversidescripting">
-                        <h2>Serverside Scripting</h2>
+                        <h2>Serverside scripting</h2>
                             <p>Serverside betyder at behandlingen af hjemmesiden foregår på serveren inden den leveres til klienten, altså browseren (Hvad er PHP? Hvordan bruges PHP i wordpress?, 2020). Der er ikke tale om færdige hjemmesider, men dele som serveren sætter sammen når nogle går ind på hjemmesiden (Østergaard, Serverside scripting, 2020). </p>
                     </section>   
                     
@@ -93,11 +93,10 @@
                             <br><br>
                             
                             PHP Include Files . (12. december 2020). Hentet fra w3schools.com: <a href="https://www.w3schools.com/php/php_includes.asp" target="_blank">https://www.w3schools.com/php/php_includes.asp</a>
-                            
-                            <br><br>
-                            
-                            Østergaard, N. (oktober. 19 2020). Serverside scripting. Hentet fra Grundlæggende faglighed - Serverside scripting + Frameworks: <a href="PDF_filer/serverside_scripting.pdf" target="_blank">Serverside Scripting.pdf</a>
                         </p>
+                        
+                        <h3>PDF-filer:</h3>
+                        <p>  Østergaard, N. (oktober. 19 2020). Serverside scripting. Hentet fra Grundlæggende faglighed - Serverside scripting + Frameworks: <a href="PDF_filer/serverside_scripting.pdf" target="_blank">Serverside Scripting.pdf</a></p>
                         
                     </section>
                     

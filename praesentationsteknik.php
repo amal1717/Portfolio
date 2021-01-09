@@ -45,7 +45,7 @@
                   
                         <section id="praesentationsteknik">
                             <h2>Præsentationsteknik</h2>
-                            <p>Når man arbejder med multimediedesign vil man ofte skulle præsentere sine resultater og løsninger for andre og derfor er det vigtigt at man er klar over hvordan man bedst præsenterer dem (Busch, Kapitel 22 , 2015). En præsentations formål kan være forskelligt, da det f.eks. kan være at informere, sælge, uddanne, underholde osv. og derfor er det vigtigt først og fremmest at klarlægge formålet inden man går i gang med selve præsentationen (Schmith, 2020). Nedenstående video</p>
+                            <p>Når man arbejder med multimediedesign vil man ofte skulle præsentere sine resultater og løsninger for andre og derfor er det vigtigt at man er klar over hvordan man bedst præsenterer dem (Busch A. , Kapitel 22 - Præsentation, 2015). En præsentations formål kan være forskelligt, da det f.eks. kan være at informere, sælge, uddanne, underholde osv. og derfor er det vigtigt først og fremmest at klarlægge formålet inden man går i gang med selve præsentationen (Schmith, Præsentationsteknik, 2020).</p>
                         </section>
                     
                 
@@ -54,33 +54,33 @@
                             <p>For at holde en god mundtlig præsentation kan man gøre brug af disse seks teknikker:</p>
                             
                             <h3>1. Få tilhørernes opmærksomhed, før du begynder</h3>
-                            <p>Først og fremmest skal man have deltagernes opmærksomhed inden man går i gang med præsentationen og det kan man bl.a. få ved at stille sig klar og få øjenkontakt med dem eller ved at sige noget f.eks. ”Jeg er klar, når I er klar”. Derudover er det vigtig at holde kontakten med deltagerne under præsentationen for at sikre at de hører budskabet. Dette vil komme til udtryk ved at deltagerne spørger ind til præsentationen, nikker, smiler og generelt virker opmærksom (Busch, Kapitel 22 , 2015).</p>
+                            <p>Først og fremmest skal man have deltagernes opmærksomhed inden man går i gang med præsentationen og det kan man bl.a. få ved at stille sig klar og få øjenkontakt med dem eller ved at sige noget f.eks. ”Jeg er klar, når I er klar”. Derudover er det vigtig at holde kontakten med deltagerne under præsentationen for at sikre at de hører budskabet. Dette vil komme til udtryk ved at deltagerne spørger ind til præsentationen, nikker, smiler og generelt virker opmærksom (Busch A. , Kapitel 22 - Præsentation, 2015).</p>
                             
                             <h3>2. Kend dig selv, og vær bevidst om, hvad du mener</h3>
-                            <p>Det vigtigste under en præsentation er ikke det teoretiske bag hvad der er en god præsentation. Det vigtigste er at man er oprigtig, tilstede og nærværende samt at man udstråler dette. Man skal være forberedt på hvad man vil fortælle deltagerne og hvorfor det er vigtigt (Busch, Kapitel 22 , 2015).</p>
+                            <p>Det vigtigste under en præsentation er ikke det teoretiske bag hvad der er en god præsentation. Det vigtigste er at man er oprigtig, tilstede og nærværende samt at man udstråler dette. Man skal være forberedt på hvad man vil fortælle deltagerne og hvorfor det er vigtigt (Busch A. , Kapitel 22 - Præsentation, 2015).</p>
                             
                             <h3>3. Hvad vil du tale om, hvordan vil du tale om det, og hvad vil du opnå?</h3>
-                            <p>Det er vigtigt at vide hvem deltagerne er, for så er det lettere at forestille sig hvad de gerne vil høre om samt at forberede sig på de spørgsmål, som de kunne have. På den måde har man altså mulighed for at inddrage spørgsmålene i selve præsentationen, så det slet ikke er nødvendigt at de stiller spørgsmålene. Det får deltagerne til at føle sig tilgodeset og husket. 
-                            Inden præsentationen er det også en god ide at have gjort sig nogle tanker om de emner man vil komme ind på og hvilket ordforråd man vil bruge ift. deltagerne. Kender de f.eks. fagudtrykkene eller ikke? (Busch, Kapitel 22 , 2015). 
+                            <p>Det er vigtigt at vide hvem deltagerne er, for så er det lettere at forestille sig hvad de gerne vil høre om samt at forberede sig på de spørgsmål, som de kunne have. På den måde har man altså mulighed for at inddrage spørgsmålene i selve præsentationen, så det slet ikke er nødvendigt at de stiller spørgsmålene. Det får deltagerne til at føle sig tilgodeset og husket. <br>
+                            Inden præsentationen er det også en god ide at have gjort sig nogle tanker om de emner man vil komme ind på og hvilket ordforråd man vil bruge ift. deltagerne. Kender de f.eks. fagudtrykkene eller ikke? (Busch A. , Kapitel 22 - Præsentation, 2015). 
                             </p>
                             
                             <h3>4. Få struktur på præsentationen</h3>
-                            <p>I forhold til forberedelsen af præsentationen er det vigtigt at strukturere indholdet. Det kan man bl.a. gøre ved først at fortælle hvad man vil komme ind på i løbet af præsentationen, hvorefter man siger det som man vil sige og slutter af med at give et resume af det man har sagt. ”Fisken” er en klassisk model, som illustrerer hvordan en præsentations indholdet kan opdeles i tre dele, nemlig begyndelse, midten og slutningen. I begyndelsen vækker man deltagernes interesse, fortæller hvad præsentationen skal handle om og viser hvem man er. I midten fortæller man alt det man vil fortæller og i slutningen afrunder man præsentationen og opsummerer de vigtigste konklusioner. Her kan man f.eks. besvare et spørgsmål som man nævnte i begyndelsen (Busch, Kapitel 22 , 2015). 
+                            <p>I forhold til forberedelsen af præsentationen er det vigtigt at strukturere indholdet. Det kan man bl.a. gøre ved først at fortælle hvad man vil komme ind på i løbet af præsentationen, hvorefter man siger det som man vil sige og slutter af med at give et resume af det man har sagt. ”Fisken” er en klassisk model, som illustrerer hvordan en præsentations indholdet kan opdeles i tre dele, nemlig begyndelse, midten og slutningen. I begyndelsen vækker man deltagernes interesse, fortæller hvad præsentationen skal handle om og viser hvem man er. I midten fortæller man alt det man vil fortæller og i slutningen afrunder man præsentationen og opsummerer de vigtigste konklusioner. Her kan man f.eks. besvare et spørgsmål som man nævnte i begyndelsen (Busch A. , Kapitel 22 - Præsentation, 2015). 
                             <br><br>
-                            Man kan også anvende de fem trin fra den klassiske retoriks opskrift på den samlede proces til at strukturerer præsentationen. 
+                            Man kan også anvende de fem trin fra den klassiske retoriks opskrift til at strukturerer præsentationen, hvilke ses nedenstående.
                             </p>
                             
                             <img class="billeder" src="Billeder/Praesentationsteknik/Den_klassiske_retorik_opskrift.png" alt="Den klassiske retoriks opskrift til en præsentation">
-                            <p>(Schmith, 2020)</p>
+                            <p>(Schmith, Præsentationsteknik, 2020)</p>
                             
                             <h3>5. Sæt dig selv i scene</h3>
-                            <p>Denne teknik handler om at øve præsentationen. Når man øver præsentationen, er det tydeligt at høre om der er noget man skal omformulere eller andet man skal være opmærksom på f.eks. at sige ”øhh” færre gange. Man øver sig også i at bruge den tid man har til præsentation rigtig og i at tale klart og tydeligt. Derudover skal man passe på med ikke at tale for hurtigt, så man mister deltagernes opmærksomhed (Busch, Kapitel 22 , 2015). Ofte virker kunstpauserne længere for den som holder præsentationen end for deltagerne og derfor skal man ikke være bange for at holde nogle små kunstpauser undervejs. 
+                            <p>Denne teknik handler om at øve præsentationen. Når man øver præsentationen, er det tydeligt at høre om der er noget man skal omformulere eller andet man skal være opmærksom på f.eks. at sige ”øhh” færre gange. Man øver sig også i at bruge den tid man har til præsentation rigtig og i at tale klart og tydeligt. Derudover skal man passe på med ikke at tale for hurtigt, så man mister deltagernes opmærksomhed (Busch A. , Kapitel 22 - Præsentation, 2015). Ofte virker kunstpauserne længere for den som holder præsentationen end for deltagerne og derfor skal man ikke være bange for at holde nogle små kunstpauser undervejs.
                             <br><br>
-                            Der er forskel på om man skal holde en præsentation foran 3 deltagere eller 50 deltagere, så derfor skal man øve sig afhængig af situationen. Hvis man skal holde en præsentation foran 50 deltagere, er det vigtigt at øve sig i at tale højt og tydeligt og vende fronten direkte mod deltageren for at sikre at alle kan høre. Det kan også være at man skal øve sig i at tale mere formelt eller fange de bagerste deltagers opmærksomhed, hvis der er tale om en stor forsamling. Sidst, men ikke mindst skal man klæde sig på til lejligheden og bruge det til at understøtte hvem man er og hvad man står for (Busch, Kapitel 22 , 2015). 
+                            Der er forskel på om man skal holde en præsentation foran 3 deltagere eller 50 deltagere, så derfor skal man øve sig afhængig af situationen. Hvis man skal holde en præsentation foran 50 deltagere, er det vigtigt at øve sig i at tale højt og tydeligt og vende fronten direkte mod deltageren for at sikre at alle kan høre. Det kan også være at man skal øve sig i at tale mere formelt eller fange de bagerste deltagers opmærksomhed, hvis der er tale om en stor forsamling. Sidst, men ikke mindst skal man klæde sig på til lejligheden og bruge det til at understøtte hvem man er og hvad man står for (Busch A. , Kapitel 22 - Præsentation, 2015).
                             </p>
                             
                             <h3>6. Lad dine slides støtte dig i at være i centrum</h3>
-                            <p>Et PowerPoint kan være et godt værktøj til præsentationer, da det kan hjælpe med at huske på hvad man skal sige og det giver deltagerne noget visuelt at kigge på. Dog skal man være meget opmærksom på at man ikke skriver for meget på de forskellige slides og ender med at læse det hele op. Hvis man gør det, er man næsten helt sikker på at deltagerne stopper med at lytte. I stedet for er det en god ide at bruge PowerPointet til at illustrere eksempler og vise billeder som understøtter det man siger. På den måde undgår man at deltagerne ”bliver væk” i teksten. Selvfølgelig må man også godt skrive noget tekst, men det skal være i begrænset omfang og ikke hele sætninger. Derudover skal man lade det overordnede design gå igen på alle slides og passe på med alt for mange og forskellige effekter (Busch, Kapitel 22 , 2015). </p>
+                            <p>Et PowerPoint kan være et godt værktøj til præsentationer, da det kan hjælpe med at huske på hvad man skal sige og det giver deltagerne noget visuelt at kigge på. Dog skal man være meget opmærksom på at man ikke skriver for meget på de forskellige slides og ender med at læse det hele op. Hvis man gør det, er man næsten helt sikker på at deltagerne stopper med at lytte. I stedet for er det en god ide at bruge PowerPointet til at illustrere eksempler og vise billeder som understøtter det man siger. På den måde undgår man at deltagerne ”bliver væk” i teksten. Selvfølgelig må man også godt skrive noget tekst, men det skal være i begrænset omfang og ikke hele sætninger. Derudover skal man lade det overordnede design gå igen på alle slides og passe på med alt for mange og forskellige effekter (Busch A. , Kapitel 22 - Præsentation, 2015).</p>
                             
                         </section>
 
@@ -102,7 +102,7 @@
                             </ul>
                                 <br>
                             
-                            <p>(Schmith, 2020)</p> 
+                            <p>(Schmith, Præsentationsteknik, 2020)</p> 
                             
                         </section>
                     
@@ -159,18 +159,22 @@
                         <h3>Internetkilder:</h3>
                             <p>
                                 McMillan, D. (9. november 2009). Life after death by PowerPoint . Hentet fra Youtube.com: <a href="https://www.youtube.com/watch?v=KbSPPFYxx3o" target="_blank">https://www.youtube.com/watch?v=KbSPPFYxx3o</a> 
-                                <br><br>
+                                    <br><br>
                                 Phillips, D. J. (14. april 2014). How to avoid death by PowerPoint . Hentet fra Youtube.com: <a href="https://www.youtube.com/watch?v=Iwpi1Lm6dFo" target="_blank">https://www.youtube.com/watch?v=Iwpi1Lm6dFo</a>
-                                <br><br>
-                                Schmith, M. (23. september 2020). Præsentationsteknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/praesentationsteknik.pdf" target="_blank">Præsentationsteknik.pdf</a>
+                               
                             </p>
+                        
+                        <h3>PDF-filer:</h3>
+                        <p>
+                            Schmith, M. (23. september 2020). Præsentationsteknik. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/praesentationsteknik.pdf" target="_blank">Præsentationsteknik.pdf</a>
+                                <br><br>
+                            Hald, M. (2008). Kapitel 4 - Kropssprog - Nonverbal kommunikation. I Præsentation og formidling (s. 45-52). København: Hans Reitzels Forlag. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/kropssprog.pdf" target="_blank">Kropssprog.pdf</a>
+                        </p>
                             
                         <h3>Bøger:</h3>
                             
                             <p>
                                 Busch, A. (2015). Kapitel 22 . I Kommunikation i multimediedesign (s. 315-330). Hans Reitzels Forlag.
-                                <br><br>
-                                Hald, M. (2008). Kapitel 4 - Kropssprog - Nonverbal kommunikation. I Præsentation og formidling (s. 45-52). København: Hans Reitzels Forlag. Hentet fra Grundlæggende faglighed: <a href="PDF_filer/kropssprog.pdf" target="_blank">Kropssprog.pdf</a>
                             </p>
                         
                     </section>

@@ -511,6 +511,12 @@ td, th {
     padding: 10px; /*Luft omkring teksten i tabellen*/
 }
 
+table tr th {
+    font-family: apertura, sans-serif; /*Skrifttype*/
+    font-weight: 500; /*Skriftens tykkelse*/
+    font-style: normal; /*Variant af skrifttype*/
+    font-size: 1em; /*Skriftstørrelse*/
+}
 
 /*..........TABEL SLUTTER..........*/
 
