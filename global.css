@@ -150,8 +150,8 @@ body {
     .dropdown-item { 
         padding-left: 10px; /*Padding på dropdown elementerne*/
     }
-     #mitgrid{
-        margin-right: 15%;  
+     #mitgrid{ /*Margen i siderne*/
+        margin-right: 15%; 
         margin-left: 15%;  
     }
     
@@ -170,7 +170,7 @@ body {
     .dropdown-item { 
     font-size: 1.1em; /*Øger skriftstørrelsen på dropdownelementerne i menuen*/
     }
-    #mitgrid{
+    #mitgrid{ /*Margen i siderne*/
         margin-right: 22%;  
         margin-left: 22%;  
         
@@ -203,7 +203,6 @@ body {
     grid-area: amaliebillede; /*Bruges under grid-template-areas*/
     /*Padding - margen udvider siden*/
     padding: 15%;
-    padding-top: 0%; 
 }
 
 
@@ -220,7 +219,6 @@ body {
     }
     
     #amaliebillede {
-        padding: 0%; /*Fjerner tidligere padding*/
         padding-left: 5%; /*Ny padding*/
         display: flex; /*Placerer billedet i midten af skærmen*/
         align-self:  center; /*Placerer billedet i midten af skærmen*/
@@ -237,6 +235,8 @@ body {
     }
 }
 
+
+
 /*.....@MEDIA 1300PX.....*/
 
 @media (min-width:1300px) {
@@ -244,6 +244,9 @@ body {
         font-size: 1.2em; /*Øger skriftsstørelsen*/
     }
 }
+
+
+
 /*........FORSIDE SLUTTER..........*/
 
 
@@ -302,7 +305,7 @@ h2 {
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1.4em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
-    /*MARGIN*/
+    /*MARGIN/PADDING*/
     margin-left: 25px; 
     padding-bottom: 10px;
     padding-top: 40px;
@@ -346,7 +349,7 @@ h4 {
     font-style: normal; /*Variant af skrifttype*/
     font-size: 1em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
-    /*MARGIN*/
+    /*MARGIN/PADDING*/
     margin-left: 25px; 
     margin-top: 30px; 
     padding-bottom: 10px; 
@@ -371,7 +374,7 @@ section p {
     font-size: 1em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
     line-height: 25px; /*Linjehøjde*/
-    /*MARGIN*/
+    /*MARGIN/PADDING*/
     margin-left: 25px; 
     padding-right:  25px; 
     padding-bottom: 10px;
@@ -412,7 +415,7 @@ section p a { /*Links under "kilder"*/
     font-size: 1em; /*Skriftstørrelse*/
     color: #484b54; /*Skriftens farve - mørkegrå*/
     line-height: 30px; /*Linjehøjde*/
-    margin-left: 25px; 
+    margin-left: 25px; /*Margen*/
 }
 /*..........LISTER SLUTTER..........*/
 
@@ -524,6 +527,7 @@ table tr th {
 
 /*..........YOUTUBE VIDEOER STARTER..........*/
 
+/*Gør videoerne responsive*/
 .video-container{
     margin-left: 25px; 
     margin-right: 25px; 

@@ -94,6 +94,8 @@
                                 <br><br>
                             Adobe Illustrator. (29. december 2020). Hentet fra britannica.com: <a href="https://www.britannica.com/technology/Adobe-Illustrator" target="_blank">https://www.britannica.com/technology/Adobe-Illustrator</a>
                                 <br><br>
+                            All you need to know about information architecture in 10 minutes. (10. marts 2015). Hentet fra youtube.com: <a href="https://www.youtube.com/watch?v=TsH8y5fbfX8&feature=emb_title" target="_blank">https://www.youtube.com/watch?v=TsH8y5fbfX8&feature=emb_title</a>
+                                <br><br>
                             Anatomy of A Type. (4. januar 2021). Hentet fra typeplate.com: <a href="http://typeplate.com/img/type-anatomy.jpg" target="_blank">http://typeplate.com/img/type-anatomy.jpg</a>
                                 <br><br>
                             Bootstrap. (11. december 2020). Hentet fra Bootstrap.com: <a href="https://getbootstrap.com" target="_blank">https://getbootstrap.com</a>

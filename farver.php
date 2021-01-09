@@ -135,7 +135,7 @@
                             <img class="billeder" src="Billeder/Farver/tetriader.png" alt="Farvesammensætningen tetriader">
                             <p>(Adobe Color - Farvehjul, 2021)</p>
                             
-                                <br><br><br>
+                                <br>
                            
                             <p><a href="https://color.adobe.com/da/create/color-wheel" target="_blank">Se Adobes farvehjul</a></p>
                             

@@ -200,11 +200,11 @@
                         
                             <br>
                     
-                        <img class="billeder" src="Billeder/Photoshop/amalie_projekt1.png" alt="Portræt projekt">
+                        <img class="billeder" src="Billeder/Photoshop/Amalie_projekt1.png" alt="Portræt projekt">
                         
                             <br><br><br>
                       
-                        <img class="billeder" src="Billeder/Photoshop/amalie_projekt2.png" alt="Portræt projekt">
+                        <img class="billeder" src="Billeder/Photoshop/Amalie_projekt2.png" alt="Portræt projekt">
                        
                     </section>
                     

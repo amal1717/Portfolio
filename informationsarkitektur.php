@@ -48,16 +48,15 @@
                             <p>Hjemmesider består overordnet set af sider med information, der er inddelt efter indhold og forbundet med hinanden gennem hyperlinks. Jo flere sider og hyperlinks en hjemmeside har, desto mere kompleks bliver hjemmesiden at designe og vedligeholde, men det gør også at informationsarkitekturen på hjemmesiden bliver endnu vigtigere. Informationsarkitektur handler nemlig om hvordan man organiserer, systematiserer og navngiver siderne på en hjemmeside, så der er tale om et brugervenligt navigationsdesign for målgruppen. En hjemmesides succes afhænger hovedsageligt af hvor godt hjemmesidens informationsarkitektur matcher brugernes forventninger. Hvis brugerne har svært ved at finde den information de leder efter på hjemmesiden og ikke finder navigationsdesignet logisk, så er de hurtige til at finde en anden hjemmeside som kan hjælpe dem (Busch A. , Kapitel 11 - Informationsarkitektur, 2015).</p>
                         </section>
                     
-                     <section id="organisering">
+                        <section id="organisering">
                             <h2>Organisering af information</h2>
                             <p>Efter man har fundet ud af hvilke informationer der skal være på hjemmesiden, kan man begynde at fokusere på hjemmesidens informationsarkitektur. Det gør man ved at strukturere de grundlæggende informationer der skal være på hjemmesiden i forhold til hvilke informationer der er vigtigst og inddele dem i kategorier og rangere dem. Det er en god idé at teste informationsarkitekturen på målgruppen undervejs i processen, for at finde ud af om der skal foretages nogle ændringer inden man står med det færdige produkt (Busch A. , Kapitel 11 - Informationsarkitektur, 2015). </p>
                         </section>
                     
                     
-                          <section>
-                                <h3>LATCH</h3>
-                                <p>Man kan organisere hjemmesiders information på fem forskellige måder, nemlig via lokation, alfabetisk, tid, kategori og hierarki, som også kaldes for LATCH (Østergaard, Informationsarkitektur, 2020). Man vælger den måde som giver mest mening i forhold til den type information man skal strukturere. </p>
-                              
+                        <section>
+                            <h3>LATCH</h3>
+                            <p>Man kan organisere hjemmesiders information på fem forskellige måder, nemlig via lokation, alfabetisk, tid, kategori og hierarki, som også kaldes for LATCH (Østergaard, Informationsarkitektur, 2020). Man vælger den måde som giver mest mening i forhold til den type information man skal strukturere. </p>
                               
                                 <table id="tabel">
                                       <tr>
@@ -82,6 +81,12 @@
                                       </tr>
                                 </table>
                             <p>(Busch A. , Kapitel 11 - Informationsarkitektur, 2015)</p>
+                              
+                               <h3 id="video">Video om informationsarkitektur</h3>
+                            <div class="video-container">
+                                <iframe class="youtubevideo" width="560" height="315" src="https://www.youtube.com/embed/TsH8y5fbfX8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>  
+                            <p>(All you need to know about information architecture in 10 minutes, 2015)</p>
                         </section>
 
                         <section>

@@ -294,7 +294,7 @@
                         
                           <br><br>
                         
-                        <p><a href="http://amal1717.apache.eadania.dk/opgaver/grid1/" target="_blank">Se denne opgave</a></p>
+                        <p><a href="http://amal1717.apache.eadania.dk/opgaver/grid2/" target="_blank">Se denne opgave</a></p>
                     </section>
                     
                     

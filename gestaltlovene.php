@@ -52,7 +52,7 @@
                             <h2>Gestaltlovene</h2>
                             <p>Når mennesker ser forskellige kombinationer af visuelle elementer f.eks. hjemmesider, malerier og lignende ser vi helhederne, før vi ser de enkelte dele, der udgør helhederne. Dette princip er sammenfattet i gestaltlovene, som beskriver nogle generelle principper for hvordan vi opfatter objekter i forhold til hinanden f.eks. på en hjemmeside. Disse principper kaldes også for designprincipper og beskriver den menneskelige opfattelsesevne, hvilket er vigtige at kende til, når man arbejder med visuel formidling (Rold, Kapitel 12 - Sidestruktur, 2019). Et designprincip kan i princippet godt stå alene, men i praksis kombineres designprincipperne ofte. </p>
                             
-                            <img class="billeder" src="Billeder/Gestaltlovene/Gestalt.png" alt="Gestaltlovene">
+                            <img class="billeder" src="Billeder/Gestaltlovene/gestaltlovene.png" alt="Gestaltlovene">
                             <p>(Chapman, 2021)</p>
                             
                         </section>
