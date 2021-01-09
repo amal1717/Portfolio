@@ -58,7 +58,7 @@
                         
                             <h2>Resultat</h2>
 
-                            <img class="billeder" src="Billeder/peer-to-peer/peer-to-peer-projekt.png" alt="Mit resultat fra peer-to-peer projektet">
+                            <img class="billeder" src="Billeder/peertopeer/Peer_To_peer_resultat.png" alt="Mit resultat fra peer-to-peer projektet">
                         
                
                         

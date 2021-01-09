@@ -50,7 +50,7 @@
                             
                               <br>
                         
-                            <img class="billeder" src="Billeder/Illustrator/Illustrator.png" alt="Illustrator">
+                            <img class="billeder" src="Billeder/Illustrator/eksempel_Illustrator.png" alt="Illustrator">
               
                         </section>
                     
@@ -58,6 +58,7 @@
                         <section id="tools">
                             <h2>Værktøjer</h2>
                             <p>Nedenstående tabel viser nogle af de mest brugte værktøjer og hvad de kan bruges til:</p>
+                            <div style="overflow-x:auto;">
                             <table id="tabel">
                                 <tr>
                                     <th>Billede</th>
@@ -65,207 +66,208 @@
                                     <th>Beskrivelse</th>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/SelectionTool.png" alt="Selection tool"></td>
-                                    <td>Selection tool</td>
-                                    <td>Bruges til at vælge et helt objekt</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/SelectionTool.png" alt="Selection tool"></td>
+                                    <td style="vertical-align:top">Selection tool</td>
+                                    <td style="vertical-align:top">Bruges til at vælge et helt objekt</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/DirectSelectionTool.png" alt="Direct Selection tool "></td>
-                                    <td>Direct Selection tool</td>
-                                    <td>Bruges til at vælge et punkt eller en sti i et objekt</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/DirectSelectionTool.png" alt="Direct Selection tool "></td>
+                                    <td style="vertical-align:top">Direct Selection tool</td>
+                                    <td style="vertical-align:top">Bruges til at vælge et punkt eller en sti i et objekt</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/GroupSelectionTool.png" alt="Group Selection tool"></td>
-                                    <td>Group Selection tool</td>
-                                    <td>Bruges til at vælge objekter i samme gruppe</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/GroupSelectionTool.png" alt="Group Selection tool"></td>
+                                    <td style="vertical-align:top">Group Selection tool</td>
+                                    <td style="vertical-align:top">Bruges til at vælge objekter i samme gruppe</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/MagicWandTool.png" alt="Magic Wand tool"></td>
-                                    <td>Magic Wand tool</td>
-                                    <td>Bruges til at vælge objekter som ligner hinanden</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/MagicWandTool.png" alt="Magic Wand tool"></td>
+                                    <td style="vertical-align:top">Magic Wand tool</td>
+                                    <td style="vertical-align:top">Bruges til at vælge objekter som ligner hinanden</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/LassoTool.png" alt="Lasso tool"></td>
-                                    <td>Lasso tool</td>
-                                    <td>Bruges til at vælge punkter eller stier i et objekt</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/LassoTool.png" alt="Lasso tool"></td>
+                                    <td style="vertical-align:top">Lasso tool</td>
+                                    <td style="vertical-align:top">Bruges til at vælge punkter eller stier i et objekt</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/PenTools.png" alt="Pen tool"></td>
-                                    <td>Pen tool</td>
-                                    <td>Bruges til at tegne lige eller kurvede streger</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/PenTools.png" alt="Pen tool"></td>
+                                    <td style="vertical-align:top">Pen tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne lige eller kurvede streger</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/AddAnchorPointTool.png" alt="Add Anchor Point tool"></td>
-                                    <td>Add Anchor Point tool</td>
-                                    <td>Bruges til at tilføje anchor points til stier</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/AddAnchorPointTool.png" alt="Add Anchor Point tool"></td>
+                                    <td style="vertical-align:top">Add Anchor Point tool</td>
+                                    <td style="vertical-align:top">Bruges til at tilføje anchor points til stier</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/DeleteAnchorPointTool.png" alt="Delete Anchor Point tool"></td>
-                                    <td>Delete Anchor Point tool</td>
-                                    <td>Bruges til at fjerne anchor points fra stier</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/DeleteAnchorPointTool.png" alt="Delete Anchor Point tool"></td>
+                                    <td style="vertical-align:top">Delete Anchor Point tool</td>
+                                    <td style="vertical-align:top">Bruges til at fjerne anchor points fra stier</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/AnchorPointTool.png" alt="Anchor Point Tool"></td>
-                                    <td>Anchor Point tool</td>
-                                    <td>Bruges til at gøre hjørner runde eller spidse</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/AnchorPointTool.png" alt="Anchor Point Tool"></td>
+                                    <td style="vertical-align:top">Anchor Point tool</td>
+                                    <td style="vertical-align:top">Bruges til at gøre hjørner runde eller spidse</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/CurvatureTool.png" alt="Curvature tool"></td>
-                                    <td>Curvature tool</td>
-                                    <td>Bruges til at tegne med runde hjørner</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/CurvatureTool.png" alt="Curvature tool"></td>
+                                    <td style="vertical-align:top">Curvature tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne med runde hjørner</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/TypeTool.png" alt="Type tool"></td>
-                                    <td>Type tool</td>
-                                    <td>Bruges til at indsætte en tekst</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/TypeTool.png" alt="Type tool"></td>
+                                    <td style="vertical-align:top">Type tool</td>
+                                    <td style="vertical-align:top">Bruges til at indsætte en tekst</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/AreaTypeTool.png" alt="Area Type tool"></td>
-                                    <td>Area Type tool</td>
-                                    <td>Bruges til at indsætte tekst i et objekt</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/AreaTypeTool.png" alt="Area Type tool"></td>
+                                    <td style="vertical-align:top">Area Type tool</td>
+                                    <td style="vertical-align:top">Bruges til at indsætte tekst i et objekt</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/TypeOnAPathTool.png" alt="Type on a Path tool"></td>
-                                    <td>Type on a Path tool</td>
-                                    <td>Bruges til at indsætte tekst langs en sti</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/TypeOnAPathTool.png" alt="Type on a Path tool"></td>
+                                    <td style="vertical-align:top">Type on a Path tool</td>
+                                    <td style="vertical-align:top">Bruges til at indsætte tekst langs en sti</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/VerticalTypeTool.png" alt="Vertical Type tool"></td>
-                                    <td>Vertical Type tool</td>
-                                    <td>Bruges til at indsætte en vertikal tekst</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/VerticalTypeTool.png" alt="Vertical Type tool"></td>
+                                    <td style="vertical-align:top">Vertical Type tool</td>
+                                    <td style="vertical-align:top">Bruges til at indsætte en vertikal tekst</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/VerticalTypeOnAPathTool.png" alt="Vertical Type on a Path tool"></td>
-                                    <td>Vertical Type on a Path tool</td>
-                                    <td>Bruges til at indsætte en vertikal tekst på en sti</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/VerticalTypeOnAPathTool.png" alt="Vertical Type on a Path tool"></td>
+                                    <td style="vertical-align:top">Vertical Type on a Path tool</td>
+                                    <td style="vertical-align:top">Bruges til at indsætte en vertikal tekst på en sti</td>
                                 </tr>
                                   <tr>
-                                    <td><img src="Billeder/Illustrator/TouchTypeTool.png" alt="Touch Type tool"></td>
-                                    <td>Touch Type tool</td>
-                                    <td>Bruges til at flytte, skalere og rotere bogstaver</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/TouchTypeTool.png" alt="Touch Type tool"></td>
+                                    <td style="vertical-align:top">Touch Type tool</td>
+                                    <td style="vertical-align:top">Bruges til at flytte, skalere og rotere bogstaver</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/LineSegmentTool.png" alt="Line Segment tool"></td>
-                                    <td>Line Segment tool</td>
-                                    <td>Bruges til at tegne lige streger</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/LineSegmentTool.png" alt="Line Segment tool"></td>
+                                    <td style="vertical-align:top">Line Segment tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne lige streger</td>
                                 </tr>
                                   <tr>
-                                    <td><img src="Billeder/Illustrator/ArcTool.png" alt="Arc tool"></td>
-                                    <td>Arc tool</td>
-                                    <td>Bruges til at tegne bøjede streger</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/ArcTool.png" alt="Arc tool"></td>
+                                    <td style="vertical-align:top">Arc tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne bøjede streger</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/SpiralTool.png" alt="Spital tool"></td>
-                                    <td>Spital tool</td>
-                                    <td>Bruges til at tegne en spiral</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/SpiralTool.png" alt="Spital tool"></td>
+                                    <td style="vertical-align:top">Spital tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne en spiral</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/RectangularGridTool.png" alt="Rectangular Grid tool"></td>
-                                    <td>Rectangular Grid tool</td>
-                                    <td>Bruges til at indsætte et gitter</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/RectangularGridTool.png" alt="Rectangular Grid tool"></td>
+                                    <td style="vertical-align:top">Rectangular Grid tool</td>
+                                    <td style="vertical-align:top">Bruges til at indsætte et gitter</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/PolarGridTool.png" alt="Polar Grid tool"></td>
-                                    <td>Polar Grid tool</td>
-                                    <td>Bruges til at indsætte et rundt gitter</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/PolarGridTool.png" alt="Polar Grid tool"></td>
+                                    <td style="vertical-align:top">Polar Grid tool</td>
+                                    <td style="vertical-align:top">Bruges til at indsætte et rundt gitter</td>
                                 </tr>
                                   <tr>
-                                    <td><img src="Billeder/Illustrator/RectangleTool.png" alt="Rectangle tool"></td>
-                                    <td>Rectangle tool</td>
-                                    <td>Bruges til at tegne firkanter og rektangler</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/RectangleTool.png" alt="Rectangle tool"></td>
+                                    <td style="vertical-align:top">Rectangle tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne firkanter og rektangler</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/RoundedRectangleTool.png" alt="Rounded Rectangle tool"></td>
-                                    <td>Rounded Rectangle tool</td>
-                                    <td>Bruges til at tegne firkanter og rektangler med runde hjørner</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/RoundedRectangleTool.png" alt="Rounded Rectangle tool"></td>
+                                    <td style="vertical-align:top">Rounded Rectangle tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne firkanter og rektangler med runde hjørner</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/EllipseTool.png" alt="Ellipse tool"></td>
-                                    <td>Ellipse tool</td>
-                                    <td>Bruges til at tegne cirkler og ovaler</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/EllipseTool.png" alt="Ellipse tool"></td>
+                                    <td style="vertical-align:top">Ellipse tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne cirkler og ovaler</td>
                                 </tr>
                                   <tr>
-                                    <td><img src="Billeder/Illustrator/PolygonTool.png" alt="Polygon tool"></td>
-                                    <td>Polygon tool</td>
-                                    <td>Bruges til at tegne flersidede former</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/PolygonTool.png" alt="Polygon tool"></td>
+                                    <td style="vertical-align:top">Polygon tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne flersidede former</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/StarTool.png" alt="Star tool"></td>
-                                    <td>Star tool</td>
-                                    <td>Bruges til at tegne stjerner og stjernelignende former</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/StarTool.png" alt="Star tool"></td>
+                                    <td style="vertical-align:top">Star tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne stjerner og stjernelignende former</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/FlareTool.png" alt="Flare tool"></td>
-                                    <td>Flare tool</td>
-                                    <td>Bruges til at skabe solstråle effekter</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/FlareTool.png" alt="Flare tool"></td>
+                                    <td style="vertical-align:top">Flare tool</td>
+                                    <td style="vertical-align:top">Bruges til at skabe solstråle effekter</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/PaintbrushTool.png" alt="Paintbrush tool"></td>
-                                    <td>Paintbrush tool</td>
-                                    <td>Bruges til at male i frihånd</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/PaintbrushTool.png" alt="Paintbrush tool"></td>
+                                    <td style="vertical-align:top">Paintbrush tool</td>
+                                    <td style="vertical-align:top">Bruges til at male i frihånd</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/PencilTool.png" alt="Pencil tool"></td>
-                                    <td>Pencil tool</td>
-                                    <td>Bruges til at tegne i frihånd</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/PencilTool.png" alt="Pencil tool"></td>
+                                    <td style="vertical-align:top">Pencil tool</td>
+                                    <td style="vertical-align:top">Bruges til at tegne i frihånd</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/SmoothTool.png" alt="Smooth tool"></td>
-                                    <td>Smooth tool</td>
-                                    <td>Bruges til at udjævne en sti</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/SmoothTool.png" alt="Smooth tool"></td>
+                                    <td style="vertical-align:top">Smooth tool</td>
+                                    <td style="vertical-align:top">Bruges til at udjævne en sti</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/PathEraserTool.png" alt="Path Eraser tool"></td>
-                                    <td>Path Eraser tool</td>
-                                    <td>Bruges til at slette stier og anchor points</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/PathEraserTool.png" alt="Path Eraser tool"></td>
+                                    <td style="vertical-align:top">Path Eraser tool</td>
+                                    <td style="vertical-align:top">Bruges til at slette stier og anchor points</td>
                                 </tr>
                                   <tr>
-                                    <td><img src="Billeder/Illustrator/EraserTool.png" alt="Eraser tool"></td>
-                                    <td>Eraser tool</td>
-                                    <td>Bruges til at slette</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/EraserTool.png" alt="Eraser tool"></td>
+                                    <td style="vertical-align:top">Eraser tool</td>
+                                    <td style="vertical-align:top">Bruges til at slette</td>
                                 </tr>
                                   <tr>
-                                    <td><img src="Billeder/Illustrator/ScissorsTool.png" alt="Scissors tool"></td>
-                                    <td>Scissor tool </td>
-                                    <td>Bruges til at klippe stier</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/ScissorsTool.png" alt="Scissors tool"></td>
+                                    <td style="vertical-align:top">Scissor tool </td>
+                                    <td style="vertical-align:top">Bruges til at klippe stier</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/KnifeTool.png" alt="Knife tool"></td>
-                                    <td>Knife tool</td>
-                                    <td>Bruges til at skære objekter og stier over</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/KnifeTool.png" alt="Knife tool"></td>
+                                    <td style="vertical-align:top">Knife tool</td>
+                                    <td style="vertical-align:top">Bruges til at skære objekter og stier over</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/BlendTool.png" alt="Blend tool"></td>
-                                    <td>Blend tool</td>
-                                    <td>Bruges til at få forme til at ændre sig til andre former</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/BlendTool.png" alt="Blend tool"></td>
+                                    <td style="vertical-align:top">Blend tool</td>
+                                    <td style="vertical-align:top">Bruges til at få forme til at ændre sig til andre former</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/ArtboardTool.png" alt="Artboard tool"></td>
-                                    <td>Artboard tool</td>
-                                    <td>Bruges til at lave separate artboards/dokumenter</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/ArtboardTool.png" alt="Artboard tool"></td>
+                                    <td style="vertical-align:top">Artboard tool</td>
+                                    <td style="vertical-align:top">Bruges til at lave separate artboards/dokumenter</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/EyedropperTool.png" alt="Eyedropper tool"></td>
-                                    <td>Eyedropper tool</td>
-                                    <td>Bruges til at finde og vælge farver</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/EyedropperTool.png" alt="Eyedropper tool"></td>
+                                    <td style="vertical-align:top">Eyedropper tool</td>
+                                    <td style="vertical-align:top">Bruges til at finde og vælge farver</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/GradientTool.png" alt="Gradient tool"></td>
-                                    <td>Gradient tool</td>
-                                    <td>Bruges til at skabe gradient fra en farve til en anden</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/GradientTool.png" alt="Gradient tool"></td>
+                                    <td style="vertical-align:top">Gradient tool</td>
+                                    <td style="vertical-align:top">Bruges til at skabe gradient fra en farve til en anden</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="Billeder/Illustrator/GradientTool.png" alt="Gradient tool"></td>
-                                    <td>Gradient tool</td>
-                                    <td>Bruges til at skabe gradient fra en farve til en anden</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/GradientTool.png" alt="Gradient tool"></td>
+                                    <td style="vertical-align:top">Gradient tool</td>
+                                    <td style="vertical-align:top">Bruges til at skabe gradient fra en farve til en anden</td>
                                 </tr>
                                  <tr>
-                                    <td><img src="Billeder/Illustrator/ZoomTool.png" alt="Zoom tool"></td>
-                                    <td>Zoom tool</td>
-                                    <td>Bruges til at zoome ind og ud</td>
+                                    <td style="vertical-align:top"><img src="Billeder/Illustrator/ZoomTool.png" alt="Zoom tool"></td>
+                                    <td style="vertical-align:top">Zoom tool</td>
+                                    <td style="vertical-align:top">Bruges til at zoome ind og ud</td>
                                 </tr>
-    
+
                             </table>
+                            </div>
                             
                             <p>(Tool galleries, 2017)</p>
                             

@@ -49,7 +49,7 @@
                             <h2>HTML</h2>
                             <p>HTML står for HyperText Markup Language og er et programmeringssprog, der bruges til at udvikle hjemmesider. HTML definerer selve indholdet på hjemmesider og bruges derfor til at strukturere og bestemme rækkefølgen på indholdet. Derudover fortæller HTML browserne hvad de forskellige elementer er ved hjælp af forskellige tags (Simmons, 2020). Man kan i princippet godt udvikle en funktionel hjemmeside udelukkende bestående af HTML, men det gør man ikke, da der stort set ikke er mulighed for at ændre på hjemmesiders udseende, hvis man kun anvender HTML. 
                             <br><br>
-                            <a href="http://amal1717.apache.eadania.dk/hund/index.html" target="_blank">Eksempel på en hjemmeside der udelukkende er lavet i HTML</a>
+                            <a href="http://amal1717.apache.eadania.dk/opgaver/hund/" target="_blank">Eksempel på en hjemmeside der udelukkende er lavet i HTML</a>
                             <br><br>
                             For at kode HTML skal man bl.a. anvende tags, som består af et mindre end-tegn (&#60;) og et større end-tegn (&#62;). Derudover starter man altid med et åbningstag f.eks. &#60;h1&#62; og slutter af med et lukketag f.eks. &#60;/h1&#62; og så skriver man teksten mellem disse tags, f.eks. (&#60;h1&#62;Overskrift&#60;/h1&#62;). Et lukketag indeholder altid en skråstreg inden selve ordet i tagget. Dog er der nogle undtagelser i forhold til hvornår man skal anvende lukketags. Hvis man f.eks. skal indsætte et billede, gør man det inde i selve åbningstagget og derfor behøver man ikke et lukketag. 
                             </p>
@@ -57,7 +57,7 @@
                             <br>
                             
                             <div>
-                             <img class="billeder" src="Billeder/HTML/HTML_eksempel1.jpg" alt="Eksempel på at man ikke skal bruge et lukketag" style="height:40px;">  
+                             <img class="billeder" src="Billeder/HTML/HTML_eksempel1.jpg" alt="Eksempel på at man ikke skal bruge et lukketag">  
                             </div>
                             
                             <br>

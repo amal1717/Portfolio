@@ -50,7 +50,7 @@
                             Premiere Rush er en ”light” udgave af programmet Premiere Pro, som er et mere avanceret videoprogram. Det betyder at Premiere Rush kun indeholder de mest nødvendige funktioner, så hvis man ønsker at arbejde med tunge videoproduktioner og avancerede funktioner, er det derfor bedst at bruge Premiere Pro. Idet Premiere Rush er udviklet af Adobe ligner brugerfladen, panelerne og værktøjerne dem man kender fra bl.a. Photoshop og Illustrator. Det tager derfor ikke lang tid at lære Premiere Rush at kende, hvis man forvejen er bekendt med Adobes andre programmer (Hvad kan Adobe Premiere Rush?, 2019). 
                             </p>
                       
-                            <img class="billeder" src="Billeder/Premiere_Rush/premiererush.png" alt="Premiere Rush">
+                            <img class="billeder" src="Billeder/Premiere_Rush/premiere_rush.png" alt="Premiere Rush">
                         
                         </section>
                     
@@ -58,7 +58,7 @@
                         <section id="tools">
                             <h2>Værktøjer</h2>
                             <p>Inden man kan lave en video eller lignende i Premiere Rush skal man først og fremmest sørge for de optagelser som skal bruges til videoen. Derefter åbner man programmet, vælger mappen med optagelserne og vælger de optagelser som skal bruges til videoen i den rækkefølge de skal bruges. Når man har gjort dette, hvilket ses på nedenstående billede, trykker man på ”Create” knappen nede i højre hjørne, hvorefter programmet sætter optagelserne sammen til en lang video. Dernæst kan man begynde at klippe de forskellige optagelser ved hjælp af værktøjerne nede i venstre hjørne.</p>
-                            <img class="billeder" src="Billeder/Premiere_Rush/valg_af_klip.png" alt="Valg af forskellige klip i Premiere Rush">
+                            <img class="billeder" src="Billeder/Premiere_Rush/valg_af_videoklip.png" alt="Valg af forskellige klip i Premiere Rush">
                        
                                 <br><br><br>
                             

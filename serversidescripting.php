@@ -34,6 +34,7 @@
                                 <li><h2 id="oversigt">Oversigt:</h2>
                                 <li><a class="list-item" href="#serversidescripting">Serverside scripting</a></li>
                                 <li><a class="list-item" href="#php">PHP</a></li>
+                                <li><a class="list-item" href="#ovelse">Øvelse om PHP</a></li>
                                 <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                 <li><a class="list-item" href="#kilder">Kilder</a></li>
                             </ul>
@@ -61,7 +62,7 @@
                             <img class="billeder" src="Billeder/php/include.png" alt="Include statementet i php">
                             
                         
-                            <h3>Øvelse om PHP</h3>
+                            <h3 id="ovelse">Øvelse om PHP</h3>
                             <p>Den dag vi havde om serverside scripting og PHP fik vi udleveret en opgave bestående af en CSS-fil og fire sammenhængende HTML-filer. Opgaven gik derefter ud på at vi skulle kopiere menuen og indsætte den i et nyt dokument, som skulle navngives menu.inc, fordi det er en include-fil. Herefter skulle vi omdøbe alle HTML-filerne til PHP-filer, indsætte include-filen ved hjælp af PHP i stedet for selve menuen og til sidst oprette en femte HTML-fil, som også indeholdte PHP.
                             
                                 <br>

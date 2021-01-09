@@ -235,9 +235,6 @@ body {
     #forsideafsnit {
         padding: 10%; /*Padding rundt om hele afsnittet*/
     }
-    .adobelogo{
-        float: right; 
-    }
 }
 
 /*.....@MEDIA 1300PX.....*/
@@ -500,7 +497,6 @@ table {
     width: 90%; /*Bredde - 90%*/
     /*MARGIN*/
     margin-left: 25px;
-    margin-right: 25px; 
     
 }
 

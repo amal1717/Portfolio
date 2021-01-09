@@ -83,7 +83,7 @@
                             
                             <h3 id="figureground">Figure/ground</h3>
                             <p>Figure/ground minder lidt om closure princippet, idet princippet udnytter den måde hjernen behandler negativ space. Ved figure/ground skelner hjernen mellem det element der er placeret i forgrunden og det element der er placeret i baggrunden og derfor kan princippet bl.a. bruges til at illustrere to elementer på samme tid. Overordnet set vil hjernen betragte det større område af billedet som ”ground” og det mindre som ”figure”, men hvis elementerne er lige store, har farver indflydelse på dette (Chapman, 2021). </p>
-                            <img class="billeder" src="Billeder/Gestaltlovene/figure:ground.png" alt="Designprincippet figure/ground">
+                            <img class="billeder" src="Billeder/Gestaltlovene/figure_ground.png" alt="Designprincippet figure/ground">
                             <p>(Chapman, 2021)</p>
                             
                             <h3 id="Symmetryorder">Symmetry & order</h3>

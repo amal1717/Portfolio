@@ -53,7 +53,7 @@
                               <br>
                             
                             <div>
-                                <img class="billeder" src="Billeder/Photoshop/photoshop.png" alt="Eksempel på billede i photoshop">
+                                <img class="billeder" src="Billeder/Photoshop/Photoshop_eksempel.png" alt="Eksempel på billede i photoshop">
                             </div>
                         
                         </section>
@@ -200,11 +200,11 @@
                         
                             <br>
                     
-                        <img class="billeder" src="Billeder/Photoshop/amalie1.png" alt="Portræt projekt">
+                        <img class="billeder" src="Billeder/Photoshop/amalie_projekt1.png" alt="Portræt projekt">
                         
                             <br><br><br>
                       
-                        <img class="billeder" src="Billeder/Photoshop/amalie2.png" alt="Portræt projekt">
+                        <img class="billeder" src="Billeder/Photoshop/amalie_projekt2.png" alt="Portræt projekt">
                        
                     </section>
                     

@@ -71,6 +71,8 @@
                                 <br>
                                 (Schmith, Tekstproduktion, 2020)
                             </p>
+                                <br>
+                            <p><a href="pdf_filer/Opgave%20-%20tekstproduktion.pdf" target="_blank">Se opgave om tekstproduktion</a></p>
                         </section>
                     
                         <section id="nyhedskriterier">
@@ -307,6 +309,7 @@
                         
                          <img class="billeder" src="Billeder/Tekstproduktion/21_sproglige_doedssynder.png" alt="21 sproglige dødssynder">
                         <p>(Bro kommunikation, 2020)</p>
+                        
                     </section>
                     
                     <section>

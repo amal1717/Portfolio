@@ -33,8 +33,8 @@
                                 <ul>
                                     <li><h2 id="oversigt">Oversigt:</h2>
                                     <li><a class="list-item" href="#hackathon">Hackathon</a></li>
-                                    <li><a class="list-item" href="#designthinking">Design Thinking metoden</a></li>
                                     <li><a class="list-item" href="#billeder">Billeder af prototypen</a></li>
+                                    <li><a class="list-item" href="#designthinking">Design Thinking metoden</a></li>
                                     <li><a class="list-item" href="#refleksion">Refleksion</a></li>
                                     <li><a class="list-item" href="#kilder">Kilder</a></li>
                                 </ul>
@@ -139,7 +139,7 @@
                             
                                 <br><br>
                             
-                            skivefesival.dk. (2. september 2020). Hentet fra skivefestival.dk: <a href="https://skivefestival.dk" target="_blank">https://skivefestival.dk</a>
+                            skivefestival.dk. (2. september 2020). Hentet fra skivefestival.dk: <a href="https://skivefestival.dk" target="_blank">https://skivefestival.dk</a>
                         </p>
                          
                     </section>

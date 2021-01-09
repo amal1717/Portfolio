@@ -137,7 +137,11 @@
                         <p><a href="https://www.w3schools.com/cssref/default.asp" target="_blank">Se alle CSS properties</a></p>
                         
                         <h4>Eksempel på CSS</h4>
-                        <img class="billeder" src="Billeder/CSS/eksempel_css.png" alt="Eksempel på CSS">  
+                        <img class="billeder" src="Billeder/CSS/eksempel_css.png" alt="Eksempel på CSS">
+                        
+                            <br><br>
+                            
+                        <p><a href="http://amal1717.apache.eadania.dk/opgaver/skib/" target="_blank">Se vores første opgave om CSS</a></p>
                     
                     </section>
                     
@@ -269,6 +273,10 @@
                             <br><br>
                     
                         <img class="billeder" src="Billeder/CSS/CSS_grid/1_metode_browser.png" alt="Eksempel på CSS grid"> 
+                        
+                        <br><br>
+                        
+                        <p><a href="http://amal1717.apache.eadania.dk/opgaver/grid1/" target="_blank">Se denne opgave</a></p>
                        
                     </section>
                     
@@ -283,6 +291,10 @@
                             <br><br>
                     
                         <img class="billeder" src="Billeder/CSS/CSS_grid/2_metode_browser.png" alt="Eksempel på CSS grid"> 
+                        
+                          <br><br>
+                        
+                        <p><a href="http://amal1717.apache.eadania.dk/opgaver/grid1/" target="_blank">Se denne opgave</a></p>
                     </section>
                     
                     
@@ -328,10 +340,12 @@
                             
                         <p>Når man anvender media queries skal man altid indsætte dette meta-tag under &#60;head&#62; i HTML-dokumentet. Ellers risikerer man at disse media queries ikke virker og at browseren prøver at presse et desktop-site ned på en mobil (Østergaard, Responsive design + CSS Grid, 2020).</p>
                         
-                        <img class="billeder" src="Billeder/CSS/CSS_grid/viewport.png" alt="Viewport skal indsættes i html">  
-
-                    
+                        <img class="billeder" src="Billeder/CSS/CSS_grid/viewport.png" alt="Viewport skal indsættes i html">
                         
+                            <br><br>
+                        
+                        <p><a href="http://amal1717.apache.eadania.dk/opgaver/mobilefirst/" target="_blank">Eksempel på en responsiv mobile first hjemmeside</a></p>
+
                     </section>
                     
                     
