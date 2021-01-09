@@ -49,6 +49,8 @@
                             <h2>HTML</h2>
                             <p>HTML står for HyperText Markup Language og er et programmeringssprog, der bruges til at udvikle hjemmesider. HTML definerer selve indholdet på hjemmesider og bruges derfor til at strukturere og bestemme rækkefølgen på indholdet. Derudover fortæller HTML browserne hvad de forskellige elementer er ved hjælp af forskellige tags (Simmons, 2020). Man kan i princippet godt udvikle en funktionel hjemmeside udelukkende bestående af HTML, men det gør man ikke, da der stort set ikke er mulighed for at ændre på hjemmesiders udseende, hvis man kun anvender HTML. 
                             <br><br>
+                            <a href="http://amal1717.apache.eadania.dk/hund/index.html" target="_blank">Eksempel på en hjemmeside der udelukkende er lavet i HTML</a>
+                            <br><br>
                             For at kode HTML skal man bl.a. anvende tags, som består af et mindre end-tegn (&#60;) og et større end-tegn (&#62;). Derudover starter man altid med et åbningstag f.eks. &#60;h1&#62; og slutter af med et lukketag f.eks. &#60;/h1&#62; og så skriver man teksten mellem disse tags, f.eks. (&#60;h1&#62;Overskrift&#60;/h1&#62;). Et lukketag indeholder altid en skråstreg inden selve ordet i tagget. Dog er der nogle undtagelser i forhold til hvornår man skal anvende lukketags. Hvis man f.eks. skal indsætte et billede, gør man det inde i selve åbningstagget og derfor behøver man ikke et lukketag. 
                             </p>
                             
@@ -67,11 +69,8 @@
                     
                     
                     <section>
+                        <h4>Eksempler på HTML-tags</h4> 
                         <table id="tabel">
-                              <tr>
-                                <th>HTML tags</th>
-                                <th>Definition</th>
-                              </tr>
                               <tr>
                                 <td>&#60;!-- --&#62;</td>
                                 <td>Definerer en kommentar</td>
@@ -134,22 +133,22 @@
                               </tr>
                         </table>
                         
-                        <p class="billedetekst">Eksempler på forskellige HTML-tags som ofte anvendes</p> <p>(HTML Element Reference, 2020)</p>
+                        <p>(HTML Element Reference, 2020)</p>
                     </section>
                     
                         <br>
                     
                     <section id="htmleksempel">
+                        <h4>Eksempel på et HTML-dokument</h4>
                         <img class="billeder" src="Billeder/HTML/HTML_eksempel2.jpg" alt="Billede af et HTML dokument">
-                            
-                        <p class="billedetekst">Et eksempel på et meget basal HTML-dokument bestående af forskellige tags og en forklaring ud fra hver tag</p>
+                        
                     </section>
                     
                 
                     <section id="brackets">
                         <h2>Brackets</h2>
                         <p>Brackets er en editor, som er et program, hvori man skriver HTML, CSS, JavaScript og mange andre slags koder. Man kan også anvende en af de mange andre editorer f.eks. Visual Studio Code, Notepad++, Edge Code, TextWrangler, Sublime Text, Atom, Ultra Edit og BBEdit (Østergaard, Introduktion til HTML, 2020). Man bruger altså Brackets eller en af de andre editorer, når man skal kode en hjemmeside eller lignende. Først åbner man Brackets og åbner et nyt dokument. Dette dokument skal gemmes som den rigtig filtype inden man går i gang med at kode, f.eks. index.html, hvis man koder HTML. Hvis man gør dette, kommer Brackets med forslag mens man skriver, så man ikke behøver at skrive alt selv og det øger processens hastighed. Derudover har Brackets en preview funktion og en highlight funktion. Preview funktionen gør at man kan se ændringerne på hjemmesiden samtidig med man koder og highlight funktionen markerer de to tags der hører sammen når man klikker på den ene tag (Østergaard, Introduktion til HTML, 2020). </p>
-                        <br>
+                        
                         <img class="billeder" src="Billeder/HTML/Brackets.jpg" alt="Billede af editoren, Brackets">
                     </section>
 
@@ -158,18 +157,13 @@
                         <h2>Semantiske tags</h2>
                         <p>Semantiske tags fortæller noget om indholdet og kan læses af både browsere og webudviklere. Eksempler på semantiske tags er f.eks. &#60;nav&#62;, &#60;footer&#62; og &#60;section&#62;, da disse tags tydeligt beskriver hvilken slags indhold der er tale om, nemlig navigation, sidefod og sektion. Derimod er tags som &#60;div&#62; og &#60;span&#62; ikke semantiske, idet de ikke beskriver noget om selve indholdet (HTML Semantic Elements, 2020). Tagget &#60;div&#62; minder meget om tagget &#60;section&#62;, som er et semantisk tag, og derfor bør &#60;div&#62; ofte erstattes med &#60;section&#62;, hvis det er muligt (Østergaard, 2020). <br>
                         Semantiske tags er en vigtig del af SEO (søgemaskineoptimering), fordi disse tags fortæller søgemaskinerne hvilken type data hjemmesiden indeholder. På den måde kan semantiske tags bruges til at forbedre hjemmesiders placering på søgemaskiner (Haastrup, 2017). 
+                            <br><br>
+                        <a href="http://10854.apache.eadania.dk/semantisk/?fbclid=IwAR29j6hUMGbjaYR4mqHcNC-MS9G0StqHn0EOaALlvMmT_oUTTZORa1hIia4" target="_blank">Se Sine og Nunus side om semantiske tags</a>
+                            
                         </p>
-                        
-                        <p><a href="http://10854.apache.eadania.dk/semantisk/?fbclid=IwAR29j6hUMGbjaYR4mqHcNC-MS9G0StqHn0EOaALlvMmT_oUTTZORa1hIia4" target="_blank">Se Sine og Nunus side om semantiske tags</a></p>
-                        
-                    </section>
-                    
-                    <section>
+                  
+                        <h4>Eksempler på semantiske tags</h4>
                             <table id="tabel">
-                                  <tr>
-                                    <th>Semantiske tags</th>
-                                    <th>Definition</th>
-                                  </tr>
                                   <tr>
                                     <td>&#60;table&#62;</td>
                                     <td>Definerer en tabel</td>
@@ -191,7 +185,6 @@
                                     <td>Definerer en sektion</td>
                                   </tr>
                             </table>
-                        <p class="billedetekst">Eksempler på semantiske tags</p>
                         <p>(HTML Semantic Elements, 2020)</p>
                     </section>
                     
@@ -297,9 +290,10 @@
                             <br><br>
 
                             Simmons, J. (19. februar 2020). HTML Essential Traning. Hentet december 2020 fra LinkedIn Learning: <a href="https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=37312532" target="_blank">https://www.linkedin.com/learning/html-essential-training-4/what-is-html?u=37312532</a>
-
-                            <br><br>
-
+                        </p>
+                            
+                        <h3>PDF-filer</h3>
+                        <p>
                             Østergaard, N. (10. september 2020). Grundlæggende faglighed - Introduktion til HTML. Hentet fra eadania.mrooms.net: <a href="PDF_filer/Intro_til_HTML.pdf" target="_blank">Intro til HTML.pdf</a>
                         </p>
                         

@@ -500,7 +500,6 @@ table {
     width: 90%; /*Bredde - 90%*/
     /*MARGIN*/
     margin-left: 25px;
-    margin-top: 10px; 
     margin-right: 25px; 
     
 }
@@ -511,6 +510,7 @@ td, th {
     text-align: left; /*Venstre kant*/
     padding: 10px; /*Luft omkring teksten i tabellen*/
 }
+
 
 /*..........TABEL SLUTTER..........*/
 

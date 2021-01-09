@@ -53,7 +53,7 @@
                               <br>
                             
                             <div>
-                                <img class="billeder" src="Billeder/Photoshop/Photoshop.png" alt="Eksempel på billede i photoshop">
+                                <img class="billeder" src="Billeder/Photoshop/photoshop.png" alt="Eksempel på billede i photoshop">
                             </div>
                         
                         </section>
